@@ -1,0 +1,57 @@
+{
+  "id": "sankatahara_chaturthi",
+  "name": {
+    "english": "Sankatahara Chaturthi",
+    "hindi": "संकटहरा चतुर्थी",
+    "telugu": "సంకష్టహర చతుర్థి",
+    "tamil": "Sankatahara Chaturthi"
+  },
+  "deity": "ganesha",
+  "recurrence": "monthly",
+  "paksha": "krishna",
+  "tithi": 4,
+  "description": {
+    "english": "Sankatahara Chaturthi is the monthly fast dedicated to Lord Ganesha, observed on the fourth day (Chaturthi) of the dark fortnight (Krishna Paksha) of every lunar month. 'Sankata' means difficulties/troubles and 'Hara' means remover — this vrat is observed to seek Ganesha's protection from all difficulties and obstacles in life.",
+    "hindi": "संकटहरा चतुर्थी प्रत्येक माह के कृष्ण पक्ष की चतुर्थी को गणेश जी के लिए रखा जाने वाला व्रत है।",
+    "telugu": "సంకష్టహర చతుర్థి ప్రతి మాసం కృష్ణ పక్ష చతుర్థి నాడు గణేశుని కోసం పాటించే వ్రతం."
+  },
+  "specialMonths": [
+    { "month": "Bhadrapada", "name": "Ganesh Chaturthi", "note": "The most auspicious — Ganesha's birthday on Shukla Chaturthi" },
+    { "month": "Magha", "name": "Sakat Chauth", "note": "Observed especially in North India" }
+  ],
+  "whatToEat": [
+    "Fruits",
+    "Milk and milk products",
+    "Nuts and dry fruits",
+    "Coconut",
+    "Sabudana (tapioca) khichdi",
+    "Sweet potato",
+    "Sendha namak (rock salt) only"
+  ],
+  "whatToAvoid": [
+    "All grains (rice, wheat, lentils)",
+    "Regular salt",
+    "Non-vegetarian food",
+    "Onion and garlic",
+    "Alcohol"
+  ],
+  "prayersToRecite": [
+    "ganesha_vakratunda",
+    "ganesha_dvadasha_nama",
+    "ganesha_ashtottara",
+    "ganesha_aarti"
+  ],
+  "howToObserve": {
+    "english": [
+      "Wake up early (before sunrise if possible), take a bath",
+      "Fast from sunrise to moonrise — the fast is broken only after sighting the moon at night",
+      "Perform Ganesha puja in the morning and evening",
+      "Recite Ganesha Ashtottara (108 names)",
+      "Read or listen to the Sankatahara Chaturthi Vrat Katha (story)",
+      "Break the fast after seeing the moon, offering modak as naivedya"
+    ]
+  },
+  "significance": {
+    "english": "Observing this vrat monthly is said to protect devotees from all obstacles, grant fulfillment of desires, remove debt and poverty, bring peace in the family, and ensure auspiciousness in all new beginnings."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ganesh_chaturthi",
+  "name": {
+    "english": "Ganesh Chaturthi",
+    "hindi": "गणेश चतुर्थी",
+    "telugu": "వినాయక చవితి",
+    "sanskrit": "गणेशचतुर्थी"
+  },
+  "deity": "ganesha",
+  "tithiMonth": 6,
+  "tithiDay": 4,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "August–September",
+  "duration_days": 11,
+  "significance": {
+    "english": "Ganesh Chaturthi celebrates the birthday of Lord Ganesha, the son of Shiva and Parvati. Observed on the Chaturthi (fourth day) of the bright fortnight of Bhadrapada month, it is one of the most widely celebrated festivals in India, especially in Maharashtra, Andhra Pradesh, Telangana, Karnataka, and Goa. The festival runs for 10 days, culminating in the immersion (Visarjana) of the Ganesha idol on Anant Chaturdashi.",
+    "hindi": "गणेश चतुर्थी भगवान गणेश का जन्मोत्सव है। भाद्रपद शुक्ल चतुर्थी को यह पर्व मनाया जाता है। 10 दिन चलने वाले इस उत्सव का समापन अनंत चतुर्दशी को गणेश विसर्जन से होता है।",
+    "telugu": "వినాయక చవితి గణేశుని జన్మదినం. భాద్రపద శుక్ల చతుర్థి నాడు జరుపుకుంటారు. 10 రోజులు జరిగే ఈ పండుగ అనంత చతుర్దశి నాడు గణేశ నిమజ్జనంతో ముగుస్తుంది."
+  },
+  "mythology": {
+    "english": "According to the Shiva Purana, Parvati created Ganesha from the turmeric paste she used to bathe with, and gave him life. She posted him as a guard at the door while she bathed. Shiva, unaware of the child's identity, was stopped at the door and, in the ensuing conflict, beheaded the boy. Parvati was devastated. To console her, Shiva sent his ganas to find the head of the first creature sleeping with its head facing north. An elephant was found; its head was brought and placed on the boy, who was revived and made the leader of all Ganas — Ganapati.",
+    "hindi": "पार्वती ने हल्दी के उबटन से गणेश को बनाया और उन्हें द्वार-रक्षक बनाया। शिव को न पहचानकर गणेश ने उन्हें रोका। क्रोध में शिव ने उनका सिर काट दिया। दुखी पार्वती को मनाने के लिए उत्तर दिशा में सिर करके सोए हाथी का सिर लाकर गणेश को जीवित किया गया।"
+  },
+  "howToObserve": {
+    "english": [
+      "Install an eco-friendly clay Ganesha idol at home or in the community",
+      "Perform Pranā Pratiṣṭhā (invocation of life into the idol) with Vedic mantras",
+      "Offer 21 durva (Bermuda grass) blades, 21 modaks, red flowers, sandalwood paste",
+      "Recite Ganesha Ashtottara (108 names) daily",
+      "Recite Ganesha Atharvashirsha during the 10 days",
+      "On the 11th day (Anant Chaturdashi), perform Visarjana — immerse the idol in a water body",
+      "Chant 'Ganpati Bappa Morya! Pudhchya Varshi Lavkar Ya!' during the procession"
+    ],
+    "telugu": [
+      "మట్టి వినాయక విగ్రహాన్ని ఇంట్లో లేదా సమాజంలో స్థాపించండి",
+      "వేద మంత్రాలతో ప్రాణ ప్రతిష్ట చేయండి",
+      "21 రకాల పత్రాలు, 21 మోదకాలు, ఎర్ర పూలు, గంధం అర్పించండి",
+      "రోజూ గణేశ అష్టోత్తర శతనామాలు పఠించండి",
+      "11వ రోజున విసర్జన చేయండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Modak (steamed sweet dumpling with coconut-jaggery filling) is the primary offering. Also offer coconut, jaggery, fruits, and panchamrita. Avoid non-vegetarian food during the festival.",
+    "telugu": "మోదకం (కొబ్బరి బెల్లం పూర్ణంతో చేసిన తీపి అట్టు) ప్రధాన నైవేద్యం. కొబ్బరి, బెల్లం, పళ్ళు కూడా నివేదించండి."
+  },
+  "associatedStotras": [
+    "ganesha_ashtottara",
+    "ganesha_aarti",
+    "ganesha_pancharatnam",
+    "ganesha_dvadasha_nama",
+    "ganesha_vakratunda"
+  ],
+  "regionalNames": [
+    { "region": "Maharashtra", "localName": "Ganeshotsav" },
+    { "region": "Andhra Pradesh / Telangana", "localName": "Vinayaka Chavithi" },
+    { "region": "Karnataka", "localName": "Ganesha Habba" },
+    { "region": "Tamil Nadu", "localName": "Pillayar Chaturthi" },
+    { "region": "Goa", "localName": "Chavath" }
+  ],
+  "famousTemples": [
+    "Siddhivinayak Temple, Mumbai",
+    "Dagdusheth Halwai Ganpati, Pune",
+    "Kanipakam Vinayaka Temple, Andhra Pradesh",
+    "Rockfort Ucchi Pillayar Temple, Tiruchirappalli"
+  ]
+}

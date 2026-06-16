@@ -1,0 +1,64 @@
+{
+  "id": "ganesha_pancharatnam",
+  "title": {
+    "sanskrit": "श्री गणेश पञ्चरत्नम्",
+    "transliteration": "Śrī Gaṇeśa Pañcaratnam",
+    "english": "Five Gems in Praise of Ganesha",
+    "hindi": "श्री गणेश पञ्चरत्नम्",
+    "telugu": "శ్రీ గణేశ పంచరత్నం"
+  },
+  "deity": "ganesha",
+  "type": "stotra",
+  "tags": ["ganesha", "stotra", "shankaracharya", "advanced"],
+  "description": {
+    "english": "Five glorious verses in praise of Lord Ganesha, composed by Adi Shankaracharya. Each verse is a gem (ratna) — dense with meaning and poetic beauty. Considered one of the finest Sanskrit compositions on Ganesha.",
+    "hindi": "आदि शंकराचार्य द्वारा रचित श्री गणेश की प्रशंसा में पाँच रत्न श्लोक।"
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "मुदाकरात्तमोदकं सदा विमुक्तिसाधकं\nकलाधरावतंसकं विलासिलोकरक्षकम् ।\nअनायकैकनायकं विनाशितेभदैत्यकं\nनताशुभाशुनाशकं नमामि तं विनायकम् ।।",
+      "transliteration": "Mudākarāttamodakaṃ Sadā Vimuktisādhakaṃ\nKalādharāvataṃsakaṃ Vilāsilokаrakṣakam |\nAnāyakaikānāyakaṃ Vināśitebhadaityakaṃ\nNatāśubhāśunāśakaṃ Namāmi Taṃ Vināyakam ||",
+      "english": "I bow to Vinayaka, who joyfully holds the modak in his raised hand, who is ever the means to liberation, who wears the crescent moon as an ornament, who protects the joyful worlds, who is the sole leader of the leaderless, who destroyed the elephant-demon, and who swiftly removes the afflictions of those who bow to him.",
+      "hindi": "मैं उस विनायक को नमन करता हूँ जो आनंद से मोदक उठाए रहते हैं, जो सदा मोक्ष के साधन हैं, जो चंद्रमा को आभूषण रूप में धारण करते हैं, जो विलासी लोकों की रक्षा करते हैं, जो नेताहीनों के एकमात्र नेता हैं, जिन्होंने गजासुर का वध किया और जो प्रणाम करने वालों के दोषों का तुरंत नाश करते हैं।",
+      "telugu": "ఆనందంగా మోదకాన్ని చేతిలో పట్టుకున్నవాడికి, సదా మోక్షమార్గాన్ని చూపేవాడికి, చంద్రుడిని అలంకరణగా ధరించినవాడికి, ఆనంద లోకాలను రక్షించేవాడికి, నేత లేనివారికి నేతగా నిలిచేవాడికి, ఏనుగు రాక్షసుడిని నాశనం చేసినవాడికి, నమస్కరించేవారి అశుభాలను వేగంగా నాశనం చేసే ఆ వినాయకుడికి నమస్కరిస్తాను.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "नतेतरातिभीकरं नवोदितार्कभास्वरं\nनमत्सुरारिनिर्जरं नताधिकापदुद्धरम् ।\nसुरेश्वरं निधीश्वरं गजेश्वरं गणेश्वरं\nमहेश्वरं तमाश्रये परात्परं निरन्तरम् ।।",
+      "transliteration": "Naterarātibhīkaraṃ Navoditārkabhāsvaraṃ\nNamatsurārinirjaraṃ Natādhikāpaduddharam |\nSureśvaraṃ Nidhīśvaraṃ Gajeśvaraṃ Gaṇeśvaraṃ\nMaheśvaraṃ Tamāśraye Parātparaṃ Nirantaram ||",
+      "english": "I constantly take refuge in that supreme Maheshvara — who is terrifying to those who do not bow to him, who shines like the newly risen sun, who saves the gods from their enemies, who rescues devotees from great calamities, who is the lord of gods, the lord of treasures, the lord of elephants, the lord of Ganas, the highest of the high.",
+      "hindi": "मैं उस परात्पर महेश्वर की निरन्तर शरण लेता हूँ जो नम्र न होने वालों के लिए भयानक हैं, नव उदित सूर्य के समान प्रकाशमान हैं, देवताओं को शत्रुओं से बचाते हैं, और भक्तों को बड़ी विपत्तियों से उद्धार करते हैं।",
+      "telugu": "నమస్కరించనివారికి భయంకరంగా ఉండేవాడికి, నవోదిత సూర్యుని వలె ప్రకాశించేవాడికి, నమస్కరించే దేవతలను శత్రువుల నుండి రక్షించేవాడికి, భక్తులను ఆపదల నుండి ఉద్ధరించేవాడికి, సురేశ్వరుడికి, నిధీశ్వరుడికి, గజేశ్వరుడికి, గణేశ్వరుడికి, మహేశ్వరుడికి — ఆ పరాత్పరుడిని నిరంతరం ఆశ్రయిస్తాను.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "समस्तलोकशंकरं निरस्तदैत्यकुञ्जरं\nदरेतरोदरं वरं वरेभवक्त्रमक्षरम् ।\nकृपाकरं क्षमाकरं मुदाकरं यशस्करं\nमनस्करं नमस्करं भजामहे देवेश्वरम् ।।",
+      "transliteration": "Samastalokośaṃkaraṃ Nirastadaityakuñjaraṃ\nDaretarodaraṃ Varaṃ Varebhavaktramakṣaram |\nKṛpākaraṃ Kṣamākaraṃ Mudākaraṃ Yaśaskaraṃ\nManaskaraṃ Namaskaraṃ Bhajāmahe Deveśvaram ||",
+      "english": "We worship the lord of gods who brings well-being to all worlds, who destroyed the elephant-demon, whose belly is like a deep cave, who is supreme, whose face is the finest of elephants, who is imperishable, who is compassionate, forgiving, joyful, glorious, who resides in the mind, and who is worthy of all salutations.",
+      "hindi": "हम देवेश्वर की उपासना करते हैं जो सभी लोकों का कल्याण करते हैं, दैत्यरूपी हाथी का नाश करते हैं, जिनका उदर गहरी गुफा जैसा है, जो श्रेष्ठ हाथी के मुख वाले हैं, जो कृपालु, क्षमाशील, आनंदमयी, यशस्वी और मन में वास करने वाले हैं।",
+      "telugu": "సమస్త లోకాలకు మంగళం చేసేవాడికి, గజాసురుని నాశనం చేసినవాడికి, గుహ వంటి పొట్ట గలవాడికి, ఉత్తమ గజముఖం గలవాడికి, అక్షరుడికి, కృపాకరుడికి, క్షమాకరుడికి, ముదాకరుడికి, యశస్కరుడికి, మనస్కరుడికి — ఆ దేవేశ్వరుడిని భజిస్తాం.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "अकिंचनार्तिमार्जनं चिरन्तनोक्तिभाजनं\nपुरारिपूर्वनन्दनं सुरारिगर्वचर्वणम् ।\nप्रपंचनाशभीषणं धनंजयादिभूषणं\nकपोलदानवारणं भजे पुराणवारणम् ।।",
+      "transliteration": "Akiñcanārtimārjanaṃ Cirantanoktirhājanam\nPurāripūrvanandanaṃ Surārigarvacarvananam |\nPrapaṃcanāśabhīṣaṇaṃ Dhanaṃjayādibhūṣaṇaṃ\nKapoladānavāraṇaṃ Bhaje Purāṇavāraṇam ||",
+      "english": "I worship the ancient elephant-lord (Ganesha) — who wipes away the sufferings of the destitute, who is the vessel of ancient wisdom, who is the first-born son of Shiva (the destroyer of the demon Pura), who crushes the pride of the enemies of gods, who is terrifying to those who destroy the world, who is adorned with the serpent Dhananjaya and others, and whose cheeks drip with the ichor of supreme bliss.",
+      "hindi": "मैं उस पुराण वारण (प्राचीन गजमुख) की उपासना करता हूँ जो निर्धनों की पीड़ा दूर करते हैं, प्राचीन वाणी के पात्र हैं, शिव के प्रथम पुत्र हैं, देव-शत्रुओं के गर्व को चूर करते हैं, विश्वनाशकों के लिए भयंकर हैं और जिनके कपोलों से मद बरसता है।",
+      "telugu": "నిరాశ్రయుల బాధలను తొలగించేవాడికి, సనాతన వాక్కుకు పాత్రమైనవాడికి, శివుని తొలి నందనుడికి, దేవ శత్రువుల గర్వాన్ని అణచేవాడికి, ప్రపంచ నాశనానికి భయంకరుడికి, ధనంజయాది సర్పాలతో అలంకరించబడినవాడికి, కపోలాలు మదజలంతో తడిసే ఆ పురాణ వారణాన్ని భజిస్తాను.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "नितान्तकान्तदन्तकान्तिमन्तकान्तिकात्मजं\nअचिन्त्यरूपमन्तहीनमन्तरायकृन्तनम् ।\nहृदन्तरे निरन्तरं वसन्तमेव योगिनां\nतमेकदन्तमेव तं विचिन्तयामि सन्ततम् ।।",
+      "transliteration": "Nitāntakāntadantakāntimantakāntikātmajaṃ\nAcintryarūpamantahīnamantarāyakṛntanam |\nHṛdantare Nirantaraṃ Vasantameva Yogināṃ\nTamekadantameva Taṃ Vicintayāmi Santatam ||",
+      "english": "I constantly meditate on that Ekadanta (single-tusked Ganesha) — the son of Shiva whose brilliance rivals the radiance of his resplendent tusk, whose form is beyond thought, who is endless, who cuts through all obstacles, and who dwells ceaselessly within the hearts of yogis.",
+      "hindi": "मैं उस एकदन्त का निरन्तर ध्यान करता हूँ जो अपने दाँत की कांति से प्रकाशमान हैं, जो शिव के पुत्र हैं, जिनका रूप अचिन्त्य है, जो अनन्त हैं, जो विघ्नों का नाश करते हैं और जो योगियों के हृदय में निरन्तर निवास करते हैं।",
+      "telugu": "తన దంతకాంతితో ప్రకాశించేవాడికి, శివుని పుత్రుడికి, అచింత్యరూపానికి, అంతహీనుడికి, అంతరాయాలను నాశనం చేసేవాడికి, యోగుల హృదయంలో నిరంతరం నివసించే ఆ ఏకదంతుడిని సతతం ధ్యానిస్తాను.",
+      "audioUrl": ""
+    }
+  ]
+}

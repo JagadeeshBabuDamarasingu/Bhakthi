@@ -1,0 +1,27 @@
+{
+  "id": "ganesha_vakratunda",
+  "title": {
+    "sanskrit": "वक्रतुण्ड महाकाय श्लोकः",
+    "transliteration": "Vakratunda Mahakaya Shlokah",
+    "english": "Vakratunda Mahakaya — Ganesha Invocation Shloka",
+    "hindi": "वक्रतुण्ड महाकाय",
+    "telugu": "వక్రతుండ మహాకాయ శ్లోకం"
+  },
+  "deity": "ganesha",
+  "type": "mantra",
+  "tags": ["ganesha", "invocation", "prayer", "beginner", "daily"],
+  "description": {
+    "english": "The most widely recited invocation to Lord Ganesha, chanted at the beginning of any prayer or auspicious activity. Known by heart by nearly every Hindu."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ।।",
+      "transliteration": "Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha |\nNirvighnaṃ Kuru Me Deva Sarvakāryeṣu Sarvadā ||",
+      "hindi": "वक्र सूंड वाले, विशाल शरीर वाले, करोड़ सूर्यों के समान तेज वाले हे देव,\nमेरे सभी कार्यों में सदा विघ्नों को दूर करो।",
+      "telugu": "వంకర తొండము గలవాడా, మహాకాయుడా, కోటి సూర్యుల కాంతి గలవాడా,\nహే దేవా, నా సకల కార్యములయందు సర్వదా విఘ్నములు తొలగింపుము.",
+      "english": "O Lord with a curved trunk and a massive body, who shines with the brilliance of a million suns — please remove all obstacles from all my endeavours, always.",
+      "audioUrl": ""
+    }
+  ]
+}

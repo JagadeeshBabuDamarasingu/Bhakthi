@@ -1,0 +1,45 @@
+{
+  "id": "ganesha_dvadasha_nama",
+  "title": {
+    "sanskrit": "गणेश द्वादशनाम स्तोत्रम्",
+    "transliteration": "Gaṇeśa Dvādaśanāma Stotram",
+    "english": "Twelve Names of Lord Ganesha",
+    "hindi": "गणेश द्वादश नाम",
+    "telugu": "గణేశ ద్వాదశనామ స్తోత్రం"
+  },
+  "deity": "ganesha",
+  "type": "stotra",
+  "tags": ["ganesha", "names", "short", "daily", "beginner"],
+  "description": {
+    "english": "A short but powerful stotra listing the twelve most important names of Lord Ganesha. Whoever reads or hears these twelve names is freed from all obstacles. Ideal for daily recitation."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "सुमुखश्चैकदन्तश्च कपिलो गजकर्णकः ।\nलम्बोदरश्च विकटो विघ्ननाशो विनायकः ।।",
+      "transliteration": "Sumukhaścaikadantaśca Kapilo Gajakarṇakaḥ |\nLambodaraśca Vikaṭo Vighnanāśo Vināyakaḥ ||",
+      "hindi": "सुमुख, एकदन्त, कपिल, गजकर्णक,\nलम्बोदर, विकट, विघ्ननाश, विनायक —",
+      "telugu": "సుముఖుడు, ఏకదంతుడు, కపిలుడు, గజకర్ణకుడు,\nలంబోదరుడు, వికటుడు, విఘ్ననాశనుడు, వినాయకుడు —",
+      "english": "Sumukha (beautiful-faced), Ekadanta (single-tusked), Kapila (tawny one), Gajakarnaka (elephant-eared), Lambodara (large-bellied), Vikata (formidable), Vighnanasha (destroyer of obstacles), Vinayaka (supreme guide) —",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "धूमकेतुर्गणाध्यक्षः फालचन्द्रो गजाननः ।\nद्वादशैतानि नामानि यः पठेच्छृणुयादपि ।।",
+      "transliteration": "Dhūmaketurgaṇādhyakṣaḥ Phālacandro Gajānanaḥ |\nDvādaśaitāni Nāmāni Yaḥ Paṭhecchṛṇuyādapi ||",
+      "hindi": "धूमकेतु, गणाध्यक्ष, फालचन्द्र, गजानन —\nजो इन बारह नामों को पढ़े या सुने भी —",
+      "telugu": "ధూమకేతువు, గణాధ్యక్షుడు, ఫాలచంద్రుడు, గజాననుడు —\nఈ పన్నెండు నామాలను ఎవరు చదివినా లేదా వినినా —",
+      "english": "Dhumraketu (smoke-bannered), Ganadhyaksha (chief of ganas), Phalacandra (moon-crested), Gajanana (elephant-faced) — whoever reads or even hears these twelve names —",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "विद्यारम्भे विवाहे च प्रवेशे निर्गमे तथा ।\nसङ्ग्रामे सङ्कटे चैव विघ्नस्तस्य न जायते ।।",
+      "transliteration": "Vidyārambhe Vivāhe ca Praveśe Nirgame Tathā |\nSaṅgrāme Saṅkaṭe Caiva Vighnastasya Na Jāyate ||",
+      "hindi": "विद्यारंभ में, विवाह में, प्रवेश और निर्गम में,\nयुद्ध में और संकट में — उसके कोई विघ्न नहीं होते।",
+      "telugu": "విద్యారంభంలో, వివాహంలో, ప్రవేశంలో మరియు నిర్గమంలో,\nసంగ్రామంలో మరియు సంకటంలో — వారికి ఏ విఘ్నమూ కలుగదు.",
+      "english": "At the commencement of studies, at marriage, at entering and leaving, in battle, and in times of crisis — no obstacle shall arise for that person.",
+      "audioUrl": ""
+    }
+  ]
+}

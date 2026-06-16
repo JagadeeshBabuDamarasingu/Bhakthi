@@ -1,0 +1,58 @@
+{
+  "id": "ganesha",
+  "name": {
+    "sanskrit": "गणेशः",
+    "transliteration": "Gaṇeśaḥ",
+    "english": "Ganesha",
+    "hindi": "गणेश",
+    "telugu": "గణేశుడు"
+  },
+  "aliases": [
+    "Ganapati", "Vinayaka", "Vighnaraja", "Vighneshvara",
+    "Ekadanta", "Lambodara", "Gajanana", "Heramba",
+    "Pillayar", "Mushikavahana", "Mangalamurti"
+  ],
+  "tradition": "smarta",
+  "associatedDay": "wednesday",
+  "primaryMantra": "om_gam_ganapataye",
+  "imageAsset": "assets/images/MahaGanapathi.png",
+  "description": {
+    "english": "Lord Ganesha, the elephant-headed son of Shiva and Parvati, is the remover of obstacles and the lord of new beginnings. He is worshipped first before any ritual or endeavour in all Hindu traditions. His large ears symbolize wisdom and the ability to listen deeply; his single tusk represents the retention of the good and the removal of the bad; his pot belly holds the entire universe; and his mount, the mouse, symbolizes the ego that must be kept under control.",
+    "hindi": "भगवान गणेश, शिव और पार्वती के हाथी के सिर वाले पुत्र, बाधाओं के हर्ता और नई शुरुआत के देवता हैं।",
+    "telugu": "గణేశుడు శివుడు మరియు పార్వతి యొక్క ఏనుగు తల గల పుత్రుడు, విఘ్నాలను తొలగించేవాడు మరియు కొత్త ప్రారంభాల అధిపతి."
+  },
+  "significance": {
+    "english": "Ganesha is invoked at the start of every prayer, ceremony, journey, and new venture. He is the patron of arts, sciences, and intellect. His blessing removes obstacles and ensures success.",
+    "telugu": "ప్రతి పూజలో, ప్రతి కార్యక్రమంలో మొదట గణేశుని ఆరాధించాలి."
+  },
+  "iconography": {
+    "head": "Elephant — wisdom, memory, intelligence",
+    "trunk": "Curved left — auspiciousness; right — more demanding",
+    "tusk": "Single broken tusk — sacrifice; used as pen to write Mahabharata",
+    "ears": "Large fan-shaped — listens to all prayers",
+    "belly": "Large pot belly — contains the universe",
+    "hands": "Four arms; holds modak (sweet), noose (pasha), goad (ankusha); fourth gives blessings (abhaya mudra)",
+    "mount": "Mouse (mushika) — ego under control; ability to reach the smallest places"
+  },
+  "stotras": [
+    "ganesha_dvadasha_nama",
+    "ganesha_ashtottara",
+    "ganesha_aarti",
+    "ganesha_vakratunda",
+    "ganesha_pancharatnam"
+  ],
+  "mantras": [
+    "om_gam_ganapataye",
+    "ganesha_mula_mantra"
+  ],
+  "festivals": [
+    "ganesh_chaturthi",
+    "sankatahara_chaturthi",
+    "vinayaka_chaturthi_monthly"
+  ],
+  "pujaGuide": "ganesh_puja",
+  "colors": ["red", "orange", "yellow"],
+  "flowers": ["red hibiscus", "durva grass", "marigold"],
+  "offering": "modak (sweet dumpling)",
+  "sacred_number": 21
+}

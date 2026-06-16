@@ -1,0 +1,196 @@
+{
+  "id": "ganesh_puja",
+  "title": {
+    "english": "Ganesh Puja — Complete Guide",
+    "hindi": "गणेश पूजा विधि",
+    "telugu": "గణేశ పూజా విధానం"
+  },
+  "deity": "ganesha",
+  "estimatedDuration": 30,
+  "bestTiming": "Wednesday morning, within 2 hours of sunrise. Also auspicious on any Chaturthi tithi.",
+  "ingredients": [
+    { "name": "Clay or metal Ganesha idol",    "quantity": "1",              "note": "Eco-friendly clay preferred" },
+    { "name": "Durva grass (Bermuda grass)",    "quantity": "21 blades",      "note": "Most beloved offering of Ganesha" },
+    { "name": "Red hibiscus flowers",           "quantity": "handful",        "note": "Or any red/orange flowers" },
+    { "name": "Marigold flowers",               "quantity": "handful",        "note": "" },
+    { "name": "Modak",                          "quantity": "5 or 21",        "note": "Steamed preferred; ladoo acceptable" },
+    { "name": "Coconut",                        "quantity": "1",              "note": "" },
+    { "name": "Jaggery",                        "quantity": "small piece",    "note": "" },
+    { "name": "Banana",                         "quantity": "2",              "note": "" },
+    { "name": "Sandalwood paste (chandan)",     "quantity": "small amount",   "note": "" },
+    { "name": "Red sindoor",                    "quantity": "small amount",   "note": "Apply to Ganesha's forehead" },
+    { "name": "Turmeric (haldi)",               "quantity": "pinch",          "note": "" },
+    { "name": "Kumkum",                         "quantity": "small amount",   "note": "" },
+    { "name": "Incense sticks (agarbatti)",     "quantity": "3–5",            "note": "" },
+    { "name": "Ghee lamp (diya)",               "quantity": "1",              "note": "" },
+    { "name": "Camphor (kapoor)",               "quantity": "2–3 pieces",     "note": "For aarti" },
+    { "name": "Panchāmṛta",                     "quantity": "small bowl",     "note": "Mix of milk, curd, honey, ghee, sugar" },
+    { "name": "Water (panchapatri / kalasha)",  "quantity": "1 cup",          "note": "For purification" },
+    { "name": "Betel leaves and areca nut",     "quantity": "2 leaves, 1 nut","note": "" },
+    { "name": "Akshat (rice + turmeric)",       "quantity": "handful",        "note": "" }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "title": { "english": "Purification — Āchamana" },
+      "description": {
+        "english": "Sip water three times, each time chanting one of the three names: 'Om Keshavaya Svaha', 'Om Narayanaya Svaha', 'Om Madhavaya Svaha'. Sprinkle water around the puja space to purify it."
+      },
+      "mantra": "achaman_mantra",
+      "duration_minutes": 1
+    },
+    {
+      "index": 2,
+      "title": { "english": "Breath Regulation — Prāṇāyāma" },
+      "description": {
+        "english": "Close the right nostril, inhale through the left (count 4). Hold breath (count 16). Close the left nostril, exhale through the right (count 8). Repeat 3 times. This calms the mind for prayer."
+      },
+      "duration_minutes": 2
+    },
+    {
+      "index": 3,
+      "title": { "english": "Setting Intention — Saṅkalpa" },
+      "description": {
+        "english": "State your intention aloud: time, place, your name, and the purpose of the puja. Example: 'Today on [day/tithi], at [place], I, [your name], perform this Ganesha puja for the well-being of myself and my family, for the removal of all obstacles.'"
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 4,
+      "title": { "english": "Invoking Ganesha — Āvāhana" },
+      "description": {
+        "english": "Place the idol on a clean wooden plank or pedestal. Sprinkle water on it while chanting the Vakratunda shloka. Request Ganesha to be present for the puja. Hold flowers in cupped hands while reciting the invocation."
+      },
+      "mantra": "ganesha_vakratunda",
+      "duration_minutes": 2
+    },
+    {
+      "index": 5,
+      "title": { "english": "Offering a Seat — Āsana" },
+      "description": {
+        "english": "Offer Akshat (turmeric-mixed rice) at the base of the idol saying: 'Om Ganeshaaya Namah — Idam Asanam Samarpayami' (I offer this seat). This symbolizes welcoming a divine guest."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 6,
+      "title": { "english": "Feet Washing — Pādya" },
+      "description": {
+        "english": "Pour a small amount of water at the feet of the idol saying: 'Padyam Samarpayami' (I offer water to wash your feet)."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 7,
+      "title": { "english": "Ritual Bath — Abhiṣeka / Snāna" },
+      "description": {
+        "english": "Bathe the idol with Panchamrita (milk, curd, honey, ghee, sugar — each separately then together), followed by pure water. Gently pat dry with a clean cloth. This is the most important step — it purifies the deity form."
+      },
+      "duration_minutes": 5
+    },
+    {
+      "index": 8,
+      "title": { "english": "Sacred Thread — Yajñopavīta" },
+      "description": {
+        "english": "Offer a sacred thread (janeu/yagnopavita) to the idol while chanting: 'Om Ganeshaaya Namah — Yajnopavitam Samarpayami'."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 9,
+      "title": { "english": "Sandal Paste — Gandha" },
+      "description": {
+        "english": "Apply sandalwood paste to the idol's forehead, then apply sindoor (red powder). Offer kumkum as well. Sandalwood's cooling nature is offered to the deity as a mark of respect and devotion."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 10,
+      "title": { "english": "Flowers and Durva Grass — Puṣpa" },
+      "description": {
+        "english": "Offer 21 blades of durva grass — place them at the feet of the idol in groups of 3. Then offer red hibiscus and marigold flowers. Durva is Ganesha's most beloved offering; the number 21 is sacred to him."
+      },
+      "mantra": "ganesha_dvadasha_nama",
+      "duration_minutes": 3
+    },
+    {
+      "index": 11,
+      "title": { "english": "108 Names — Aṣṭottara Arcana" },
+      "description": {
+        "english": "Recite each of the 108 names of Ganesha, offering a flower or akshat with each name. This is the heart of the puja. If time is short, the 12 names (Dvadasha Nama) may be used instead."
+      },
+      "mantra": "ganesha_ashtottara",
+      "duration_minutes": 10
+    },
+    {
+      "index": 12,
+      "title": { "english": "Incense — Dhūpa" },
+      "description": {
+        "english": "Light incense sticks and wave them before the idol in a circular motion, moving from bottom to top and back. Say: 'Dhupam Samarpayami'. The fragrance purifies the air and pleases the deity."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 13,
+      "title": { "english": "Lamp — Dīpa" },
+      "description": {
+        "english": "Light the ghee lamp and wave it before the idol in the same circular motion. Say: 'Dipam Samarpayami'. Light symbolizes knowledge dispelling the darkness of ignorance."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 14,
+      "title": { "english": "Food Offering — Naivedya" },
+      "description": {
+        "english": "Place modaks, fruits, coconut and jaggery before the idol. Sprinkle water around the food to purify it. Close your eyes and mentally offer the food to Ganesha. Say: 'Om Ganeshaaya Namah — Idam Naivedyam Samarpayami'."
+      },
+      "duration_minutes": 2
+    },
+    {
+      "index": 15,
+      "title": { "english": "Aarti" },
+      "description": {
+        "english": "Light camphor on the aarti plate. Wave it before the idol in large circular motions while singing the Jai Ganesh Aarti. Family members may gather around. After aarti, pass the plate for everyone to cup their hands over the flame and touch their eyes — receiving the light as divine blessing."
+      },
+      "mantra": "ganesha_aarti",
+      "duration_minutes": 3
+    },
+    {
+      "index": 16,
+      "title": { "english": "Circumambulation — Pradakṣiṇā" },
+      "description": {
+        "english": "Circumambulate the idol 3 times in a clockwise direction. If space is limited, turn around in place 3 times. Say: 'Yani Kani Cha Papani Janmantara Kritani Cha — Tani Tani Vinashyanti Pradakshinam Pade Pade' (with each step of circumambulation, all sins are destroyed)."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 17,
+      "title": { "english": "Prostration — Namaskāra" },
+      "description": {
+        "english": "Prostrate fully before the idol (Sashtanga Namaskar) — touch the ground with eight body parts: two hands, two feet, two knees, chest, and forehead. Pray for the fulfillment of your intention stated in the Sankalpa."
+      },
+      "duration_minutes": 1
+    },
+    {
+      "index": 18,
+      "title": { "english": "Closing — Visarjana (for daily puja)" },
+      "description": {
+        "english": "For daily puja: Offer the deity permission to depart to his divine abode until next worship. Say: 'Om Ganeshaaya Namah — Yatha Sthanam Gaccha'. For festival puja (Ganesh Chaturthi): the idol is kept and worshipped for 1.5, 5, 7, or 10 days before immersion."
+      },
+      "duration_minutes": 1
+    }
+  ],
+  "associatedMantras": [
+    "ganesha_vakratunda",
+    "ganesha_ashtottara",
+    "ganesha_dvadasha_nama",
+    "ganesha_aarti"
+  ],
+  "tips": [
+    "Face east or north while performing puja",
+    "Avoid offering tulsi (basil) leaves — Ganesha does not accept them (traditional story)",
+    "Durva grass is Ganesha's most beloved offering; never skip it",
+    "The number 21 is sacred — offer modaks in multiples of 21 if possible",
+    "Do not look at the moon on Ganesh Chaturthi — it is said to bring false accusations"
+  ]
+}

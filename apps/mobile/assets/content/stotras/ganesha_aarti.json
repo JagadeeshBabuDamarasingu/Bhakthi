@@ -1,0 +1,64 @@
+{
+  "id": "ganesha_aarti",
+  "title": {
+    "sanskrit": "श्री गणेश आरती",
+    "transliteration": "Śrī Gaṇeśa Āratī",
+    "english": "Jai Ganesh — Ganesha Aarti",
+    "hindi": "जय गणेश आरती",
+    "telugu": "జై గణేశ్ ఆరతి"
+  },
+  "deity": "ganesha",
+  "type": "aarti",
+  "tags": ["ganesha", "aarti", "hindi", "daily", "popular"],
+  "description": {
+    "english": "The most popular aarti of Lord Ganesha, sung at the end of every Ganesha puja. Composed by the saint-poet Surdas. Performed with a lit lamp (diya) waved in circular motions before the deity.",
+    "hindi": "यह गणेश आरती हर पूजा के अंत में गाई जाती है।"
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "जय गणेश जय गणेश जय गणेश देवा ।\nमाता जाकी पार्वती पिता महादेवा ।।",
+      "transliteration": "Jaya Gaṇeśa Jaya Gaṇeśa Jaya Gaṇeśa Devā |\nMātā Jākī Pārvatī Pitā Mahādevā ||",
+      "hindi": "जय गणेश जय गणेश जय गणेश देवा।\nमाता जाकी पार्वती पिता महादेवा।।",
+      "telugu": "జై గణేశ జై గణేశ జై గణేశ దేవా\nమాత జాకీ పార్వతి పితా మహాదేవా",
+      "english": "Victory to Ganesha, victory to Ganesha, victory to Lord Ganesha — whose mother is Parvati, whose father is Mahadeva (Shiva).",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "एकदन्त दयावन्त चार भुजाधारी ।\nमाथे सिन्दूर सोहे मूषे की सवारी ।।",
+      "transliteration": "Ekadanta Dayāvanta Cāra Bhujādhārī |\nMāthe Sindūra Sohe Mūṣe Kī Savārī ||",
+      "hindi": "एकदन्त दयावन्त चार भुजाधारी।\nमाथे सिन्दूर सोहे मूषे की सवारी।।",
+      "telugu": "ఏకదంత దయావంత చార భుజాధారి\nమాథే సిందూర సోహే మూషే కీ సవారీ",
+      "english": "One-tusked, compassionate, bearing four arms — with sindoor adorning his forehead, riding the mouse as his mount.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "पान चढ़े फूल चढ़े और चढ़े मेवा ।\nलड्डुअन का भोग लगे सन्त करें सेवा ।।",
+      "transliteration": "Pāna Caṛhe Phūla Caṛhe Aura Caṛhe Mevā |\nLaḍḍuan Kā Bhoga Lage Santa Kareṃ Sevā ||",
+      "hindi": "पान चढ़े फूल चढ़े और चढ़े मेवा।\nलड्डुअन का भोग लगे सन्त करें सेवा।।",
+      "telugu": "పాన్ చఢే ఫూల్ చఢే ఔర్ చఢే మేవా\nలడ్డువన్ కా భోగ్ లగే సంత్ కరేం సేవా",
+      "english": "Betel leaves are offered, flowers are offered, and dry fruits are offered — modaks are presented as offering, and the saints render their devoted service.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "अन्धन को आँख देत कोढ़िन को काया ।\nबाँझन को पुत्र देत निर्धन को माया ।।",
+      "transliteration": "Andhan Ko Āṃkha Deta Koṛhin Ko Kāyā |\nBāṃjhan Ko Putra Deta Nirdhan Ko Māyā ||",
+      "hindi": "अन्धन को आँख देत कोढ़िन को काया।\nबाँझन को पुत्र देत निर्धन को माया।।",
+      "telugu": "అంధన్ కో ఆంఖ్ దేత్ కోఢిన్ కో కాయా\nబాంఝన్ కో పుత్ర దేత్ నిర్ధన్ కో మాయా",
+      "english": "He grants sight to the blind, health to the diseased — he grants sons to the childless and wealth to the poor.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "'सूर' श्याम शरण आए सफल कीजे सेवा ।\nमाता जाकी पार्वती पिता महादेवा ।।",
+      "transliteration": "'Sūra' Śyāma Śaraṇa Āe Saphala Kīje Sevā |\nMātā Jākī Pārvatī Pitā Mahādevā ||",
+      "hindi": "'सूर' श्याम शरण आए सफल कीजे सेवा।\nमाता जाकी पार्वती पिता महादेवा।।",
+      "telugu": "సూర్ శ్యామ్ శరణ్ ఆయే సఫల్ కీజే సేవా\nమాత జాకీ పార్వతి పితా మహాదేవా",
+      "english": "Surdas says: I have come to your shelter — may my service be fruitful. Whose mother is Parvati, whose father is Mahadeva.",
+      "audioUrl": ""
+    }
+  ]
+}
