@@ -1,26 +1,18 @@
 import 'package:flutter/material.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 import '../deities/deity_detail_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
-  String get _greeting {
-    final h = DateTime.now().hour;
-    if (h < 12) return 'शुभ प्रभातम्';
-    if (h < 17) return 'शुभ दिनम्';
-    return 'शुभ संध्या';
-  }
-
-  String get _greetingSub {
-    final h = DateTime.now().hour;
-    if (h < 12) return 'Good morning';
-    if (h < 17) return 'Good afternoon';
-    return 'Good evening';
-  }
-
   @override
   Widget build(BuildContext context) {
+    final l = AppLocalizations.of(context);
+    final h = DateTime.now().hour;
+    final greeting     = h < 12 ? 'शुभ प्रभातम्' : h < 17 ? 'शुभ दिनम्' : 'शुभ संध्या';
+    final greetingSub  = h < 12 ? l.greetingMorning : h < 17 ? l.greetingAfternoon : l.greetingEvening;
+
     return Scaffold(
       backgroundColor: BhakthiColors.parchment,
       body: CustomScrollView(
@@ -33,17 +25,17 @@ class HomeScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const SizedBox(height: 28),
-                  _GreetingBlock(greeting: _greeting, sub: _greetingSub),
+                  _GreetingBlock(greeting: greeting, sub: greetingSub, l: l),
                   const SizedBox(height: 32),
-                  const _Label('TODAY\'S SHLOKA'),
+                  _Label(l.labelTodaysShloka),
                   const SizedBox(height: 12),
                   const _ShlokaCard(),
                   const SizedBox(height: 32),
-                  const _Label('DEITIES'),
+                  _Label(l.labelDeities),
                   const SizedBox(height: 12),
-                  const _DeityRow(),
+                  _DeityRow(l: l),
                   const SizedBox(height: 32),
-                  const _Label('UPCOMING'),
+                  _Label(l.labelUpcoming),
                   const SizedBox(height: 12),
                   const _UpcomingItem(),
                   const SizedBox(height: 40),
@@ -67,7 +59,6 @@ class _BhakthiAppBar extends StatelessWidget {
       title: Row(
         mainAxisSize: MainAxisSize.min,
         children: [
-          // Brand mark: gradient box with OM — matches roadmap logo style
           Container(
             width: 28,
             height: 28,
@@ -100,7 +91,6 @@ class _BhakthiAppBar extends StatelessWidget {
   }
 }
 
-// Small uppercase section label — mirrors roadmap's eyebrow text style
 class _Label extends StatelessWidget {
   final String text;
   const _Label(this.text);
@@ -122,13 +112,14 @@ class _Label extends StatelessWidget {
 class _GreetingBlock extends StatelessWidget {
   final String greeting;
   final String sub;
-  const _GreetingBlock({required this.greeting, required this.sub});
+  final AppLocalizations l;
+  const _GreetingBlock({required this.greeting, required this.sub, required this.l});
 
   @override
   Widget build(BuildContext context) {
     final now = DateTime.now();
-    final days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-    final months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    final days   = l.daysShort;
+    final months = l.monthsShort;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -182,7 +173,6 @@ class _ShlokaCard extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Deity pill tag
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 3),
             decoration: BoxDecoration(
@@ -198,7 +188,6 @@ class _ShlokaCard extends StatelessWidget {
                     letterSpacing: 0.2)),
           ),
           const SizedBox(height: 16),
-          // Sanskrit verse — large, editorial
           const Text(
             'वक्रतुण्ड महाकाय\nसूर्यकोटि समप्रभ ।',
             style: TextStyle(
@@ -220,10 +209,8 @@ class _ShlokaCard extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 14),
-          // Thin divider
           Container(height: 1, color: BhakthiColors.line),
           const SizedBox(height: 14),
-          // Transliteration in mono-ish style
           const Text(
             'Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha\nNirvighnaṃ Kuru Me Deva Sarvakāryeṣu Sarvadā',
             style: TextStyle(
@@ -235,7 +222,6 @@ class _ShlokaCard extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 12),
-          // English meaning
           const Text(
             'O Lord with a curved trunk and massive body, who shines with the brilliance of a million suns — please remove all obstacles from all my endeavours, always.',
             style: TextStyle(
@@ -251,7 +237,8 @@ class _ShlokaCard extends StatelessWidget {
 }
 
 class _DeityRow extends StatelessWidget {
-  const _DeityRow();
+  final AppLocalizations l;
+  const _DeityRow({required this.l});
 
   @override
   Widget build(BuildContext context) {
@@ -269,16 +256,16 @@ class _DeityRow extends StatelessWidget {
                     builder: (_) =>
                         const DeityDetailScreen(deityId: 'ganesha'))),
           ),
-          _comingSoon('लक्ष्मी',    BhakthiColors.mustard),
-          _comingSoon('सरस्वती',   BhakthiColors.teal),
-          _comingSoon('शिव',        BhakthiColors.indigo),
-          _comingSoon('विष्णु',     BhakthiColors.purple),
+          _comingSoon('लक्ष्मी',  BhakthiColors.mustard, l),
+          _comingSoon('सरस्वती', BhakthiColors.teal,    l),
+          _comingSoon('शिव',      BhakthiColors.indigo,  l),
+          _comingSoon('विष्णु',   BhakthiColors.purple,  l),
         ],
       ),
     );
   }
 
-  Widget _comingSoon(String name, Color color) {
+  Widget _comingSoon(String name, Color color, AppLocalizations l) {
     return Container(
       width: 84,
       margin: const EdgeInsets.only(right: 10),

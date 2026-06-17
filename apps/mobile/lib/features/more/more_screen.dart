@@ -1,30 +1,36 @@
 import 'package:flutter/material.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
+import '../settings/language_picker_screen.dart';
 
 class MoreScreen extends StatelessWidget {
   const MoreScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final l    = AppLocalizations.of(context);
+    final lang = AppLocalizations.languageNames[l.locale.languageCode] ?? 'English';
+
     return Scaffold(
       backgroundColor: BhakthiColors.parchment,
       appBar: AppBar(
           backgroundColor: BhakthiColors.deepInk,
-          title: const Text('More')),
+          title: Text(l.screenMore)),
       body: ListView(
         children: [
-          _Section(title: 'DEVOTIONAL', items: [
-            _Item(Icons.music_note_outlined,    'Bhajans & Aarti',  null),
-            _Item(Icons.brightness_5_outlined,  'Puja Guides',      null),
-            _Item(Icons.no_food_outlined,        'Vrat Tracker',     null),
+          _Section(title: l.sectionDevotional, items: [
+            _Item(Icons.music_note_outlined,    l.itemBhajans,       null,  () {}),
+            _Item(Icons.brightness_5_outlined,  l.itemPujaGuides,    null,  () {}),
+            _Item(Icons.no_food_outlined,        l.itemVratTracker,   null,  () {}),
           ]),
-          _Section(title: 'SETTINGS', items: [
-            _Item(Icons.language_outlined,      'Language',         'English'),
-            _Item(Icons.notifications_outlined, 'Notifications',    null),
-            _Item(Icons.text_fields_outlined,   'Font Size',        null),
+          _Section(title: l.sectionSettings, items: [
+            _Item(Icons.language_outlined,      l.itemLanguage,      lang,
+                () => Navigator.push(context,
+                    MaterialPageRoute(builder: (_) => const LanguagePickerScreen()))),
+            _Item(Icons.notifications_outlined, l.itemNotifications, null,  () {}),
+            _Item(Icons.text_fields_outlined,   l.itemFontSize,      null,  () {}),
           ]),
           const SizedBox(height: 48),
-          // Footer — roadmap-inspired tagline
           Center(
             child: Column(children: [
               Container(
@@ -107,7 +113,8 @@ class _Item extends StatelessWidget {
   final IconData icon;
   final String label;
   final String? trailing;
-  const _Item(this.icon, this.label, this.trailing);
+  final VoidCallback onTap;
+  const _Item(this.icon, this.label, this.trailing, this.onTap);
 
   @override
   Widget build(BuildContext context) {
@@ -127,7 +134,7 @@ class _Item extends StatelessWidget {
         const Icon(Icons.chevron_right,
             color: BhakthiColors.textTertiary, size: 16),
       ]),
-      onTap: () {},
+      onTap: onTap,
     );
   }
 }

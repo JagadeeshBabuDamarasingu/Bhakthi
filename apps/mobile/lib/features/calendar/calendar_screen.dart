@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 
 class CalendarScreen extends StatelessWidget {
@@ -6,20 +7,19 @@ class CalendarScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final now = DateTime.now();
-    final days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-    final months = ['January','February','March','April','May','June',
-                    'July','August','September','October','November','December'];
+    final l      = AppLocalizations.of(context);
+    final now    = DateTime.now();
+    final days   = l.daysLong;
+    final months = l.monthsLong;
 
     return Scaffold(
       backgroundColor: BhakthiColors.parchment,
       appBar: AppBar(
           backgroundColor: BhakthiColors.deepInk,
-          title: const Text('Calendar')),
+          title: Text(l.screenCalendar)),
       body: ListView(
         padding: const EdgeInsets.all(20),
         children: [
-          // Date hero block
           Container(
             padding: const EdgeInsets.all(20),
             decoration: BoxDecoration(
@@ -59,7 +59,6 @@ class CalendarScreen extends StatelessWidget {
                     ],
                   ),
                 ),
-                // Gradient OM mark
                 Container(
                   width: 52,
                   height: 52,
@@ -99,28 +98,24 @@ class CalendarScreen extends StatelessWidget {
                         color: BhakthiColors.deepInk,
                         fontSize: 17,
                         letterSpacing: -0.3)),
-                const Text('Panchang',
-                    style: TextStyle(
+                Text(l.panchang,
+                    style: const TextStyle(
                         fontSize: 12,
                         color: BhakthiColors.textTertiary)),
                 const SizedBox(height: 16),
                 ...[
-                  ('Tithi',            '—'),
-                  ('Nakshatra',         '—'),
-                  ('Yoga',             '—'),
-                  ('Rahu Kalam',       '—'),
-                  ('Abhijit Muhurta',  '—'),
+                  'Tithi', 'Nakshatra', 'Yoga', 'Rahu Kalam', 'Abhijit Muhurta',
                 ].map((row) => Padding(
                       padding: const EdgeInsets.only(bottom: 12),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          Text(row.$1,
+                          Text(row,
                               style: const TextStyle(
                                   color: BhakthiColors.textSecondary,
                                   fontSize: 13)),
-                          Text(row.$2,
-                              style: const TextStyle(
+                          const Text('—',
+                              style: TextStyle(
                                   color: BhakthiColors.textTertiary,
                                   fontSize: 13)),
                         ],
@@ -132,9 +127,9 @@ class CalendarScreen extends StatelessWidget {
                     color: BhakthiColors.parchmentElev,
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  child: const Text(
-                    'Panchang calculations coming in the next update.',
-                    style: TextStyle(
+                  child: Text(
+                    l.panchangComing,
+                    style: const TextStyle(
                         fontSize: 12,
                         color: BhakthiColors.textTertiary,
                         fontStyle: FontStyle.italic),

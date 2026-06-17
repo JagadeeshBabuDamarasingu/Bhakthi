@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 
 class TextsScreen extends StatelessWidget {
@@ -6,36 +7,40 @@ class TextsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l = AppLocalizations.of(context);
     return Scaffold(
       backgroundColor: BhakthiColors.parchment,
       appBar: AppBar(
           backgroundColor: BhakthiColors.deepInk,
-          title: const Text('Sacred Texts')),
+          title: Text(l.screenSacredTexts)),
       body: ListView(
         padding: const EdgeInsets.all(20),
-        children: const [
+        children: [
           _TextCard(
             index: 1,
             title: 'Bhagavad Gita',
             sanskrit: 'श्रीमद्भगवद्गीता',
             meta: '18 chapters  ·  700 verses',
             color: BhakthiColors.teal,
+            l: l,
           ),
-          SizedBox(height: 12),
+          const SizedBox(height: 12),
           _TextCard(
             index: 2,
             title: 'Vishnu Sahasranama',
             sanskrit: 'विष्णु सहस्रनाम',
             meta: '1 chapter  ·  1000 names',
             color: BhakthiColors.purple,
+            l: l,
           ),
-          SizedBox(height: 12),
+          const SizedBox(height: 12),
           _TextCard(
             index: 3,
             title: 'Shiva Mahimna Stotram',
             sanskrit: 'शिव महिम्न स्तोत्रम्',
             meta: '43 verses',
             color: BhakthiColors.indigo,
+            l: l,
           ),
         ],
       ),
@@ -49,6 +54,7 @@ class _TextCard extends StatelessWidget {
   final String sanskrit;
   final String meta;
   final Color color;
+  final AppLocalizations l;
 
   const _TextCard({
     required this.index,
@@ -56,6 +62,7 @@ class _TextCard extends StatelessWidget {
     required this.sanskrit,
     required this.meta,
     required this.color,
+    required this.l,
   });
 
   @override
@@ -123,8 +130,8 @@ class _TextCard extends StatelessWidget {
                         color: BhakthiColors.parchmentElev,
                         borderRadius: BorderRadius.circular(999),
                       ),
-                      child: const Text('Soon',
-                          style: TextStyle(
+                      child: Text(l.soon,
+                          style: const TextStyle(
                               fontSize: 10,
                               color: BhakthiColors.textTertiary)),
                     ),

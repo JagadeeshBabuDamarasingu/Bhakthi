@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 import '../stotras/stotra_detail_screen.dart';
 
@@ -45,6 +46,7 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
 
   @override
   Widget build(BuildContext context) {
+    final l = AppLocalizations.of(context);
     if (_deity == null) {
       return Scaffold(
         backgroundColor: BhakthiColors.parchment,
@@ -64,10 +66,10 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
             delegate: _PinnedTabBar(
               TabBar(
                 controller: _tabs,
-                tabs: const [
-                  Tab(text: 'Stotras'),
-                  Tab(text: 'Puja'),
-                  Tab(text: 'Festivals'),
+                tabs: [
+                  Tab(text: l.tabStotras),
+                  Tab(text: l.tabPuja),
+                  Tab(text: l.tabFestivals),
                 ],
                 indicatorColor: _deityColor,
                 labelColor: _deityColor,
@@ -80,7 +82,7 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
           controller: _tabs,
           children: [
             _StotrasTab(deity: _deity!, stotraMeta: _stotraMeta, color: _deityColor),
-            _PujaTab(color: _deityColor),
+            _PujaTab(color: _deityColor, l: l),
             const _FestivalsTab(),
           ],
         ),
@@ -101,7 +103,6 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
             _deity!['imageAsset'] as String? ?? 'assets/images/MahaGanapathi.png',
             fit: BoxFit.cover,
           ),
-          // Dark gradient overlay
           DecoratedBox(
             decoration: BoxDecoration(
               gradient: LinearGradient(
@@ -115,7 +116,6 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
               ),
             ),
           ),
-          // Deity name — editorial positioning
           Positioned(
             bottom: 60,
             left: 20,
@@ -123,7 +123,6 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Colored accent bar above name — roadmap phase bar style
                 Container(
                   width: 40,
                   height: 3,
@@ -225,7 +224,6 @@ class _StotraRow extends StatelessWidget {
           border: Border.all(color: BhakthiColors.line),
         ),
         child: Row(children: [
-          // Zero-padded index — roadmap module number style
           SizedBox(
             width: 28,
             child: Text(
@@ -270,7 +268,8 @@ class _StotraRow extends StatelessWidget {
 
 class _PujaTab extends StatelessWidget {
   final Color color;
-  const _PujaTab({required this.color});
+  final AppLocalizations l;
+  const _PujaTab({required this.color, required this.l});
 
   @override
   Widget build(BuildContext context) {
@@ -278,13 +277,13 @@ class _PujaTab extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       children: [
         Row(children: [
-          _MetaPill(Icons.access_time, 'Wednesday morning', color),
+          _MetaPill(Icons.access_time, l.pujaDay, color),
           const SizedBox(width: 8),
           _MetaPill(Icons.timer_outlined, '~30 min', color),
         ]),
         const SizedBox(height: 20),
-        const Text('Key Offerings',
-            style: TextStyle(
+        Text(l.keyOfferings,
+            style: const TextStyle(
                 fontWeight: FontWeight.w600,
                 color: BhakthiColors.deepInk,
                 fontSize: 15,
@@ -333,9 +332,9 @@ class _PujaTab extends StatelessWidget {
             borderRadius: BorderRadius.circular(12),
             border: Border.all(color: BhakthiColors.line),
           ),
-          child: const Text(
-            '💡  Never offer tulsi (basil) to Ganesha. Always face east or north during puja.',
-            style: TextStyle(
+          child: Text(
+            l.pujaNote,
+            style: const TextStyle(
                 fontSize: 12,
                 color: BhakthiColors.textSecondary,
                 height: 1.55),

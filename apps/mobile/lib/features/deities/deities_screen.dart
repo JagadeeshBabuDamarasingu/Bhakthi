@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 import 'deity_detail_screen.dart';
 
@@ -7,11 +8,12 @@ class DeitiesScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l = AppLocalizations.of(context);
     return Scaffold(
       backgroundColor: BhakthiColors.parchment,
       appBar: AppBar(
         backgroundColor: BhakthiColors.deepInk,
-        title: const Text('Deities'),
+        title: Text(l.screenDeities),
       ),
       body: GridView.count(
         crossAxisCount: 2,
@@ -19,7 +21,7 @@ class DeitiesScreen extends StatelessWidget {
         crossAxisSpacing: 14,
         mainAxisSpacing: 14,
         childAspectRatio: 0.80,
-        children: const [
+        children: [
           _DeityCard(
             name: 'Ganesha',
             sanskrit: 'गणेश',
@@ -29,10 +31,10 @@ class DeitiesScreen extends StatelessWidget {
             deityId: 'ganesha',
             color: BhakthiColors.rust,
           ),
-          _PlaceholderCard(name: 'Lakshmi',   sanskrit: 'लक्ष्मी',   desc: 'Goddess of wealth',    color: BhakthiColors.mustard),
-          _PlaceholderCard(name: 'Saraswati', sanskrit: 'सरस्वती',  desc: 'Goddess of wisdom',    color: BhakthiColors.teal),
-          _PlaceholderCard(name: 'Shiva',     sanskrit: 'शिव',       desc: 'The destroyer',        color: BhakthiColors.indigo),
-          _PlaceholderCard(name: 'Vishnu',    sanskrit: 'विष्णु',    desc: 'The preserver',        color: BhakthiColors.purple),
+          _PlaceholderCard(name: 'Lakshmi',   sanskrit: 'लक्ष्मी',  desc: 'Goddess of wealth',  color: BhakthiColors.mustard, l: l),
+          _PlaceholderCard(name: 'Saraswati', sanskrit: 'सरस्वती', desc: 'Goddess of wisdom',   color: BhakthiColors.teal,    l: l),
+          _PlaceholderCard(name: 'Shiva',     sanskrit: 'शिव',      desc: 'The destroyer',       color: BhakthiColors.indigo,  l: l),
+          _PlaceholderCard(name: 'Vishnu',    sanskrit: 'विष्णु',   desc: 'The preserver',       color: BhakthiColors.purple,  l: l),
         ],
       ),
     );
@@ -79,7 +81,6 @@ class _DeityCard extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            // Color accent bar at top — matches roadmap phase color bars
             Container(
               height: 4,
               decoration: BoxDecoration(
@@ -139,12 +140,14 @@ class _PlaceholderCard extends StatelessWidget {
   final String sanskrit;
   final String desc;
   final Color color;
+  final AppLocalizations l;
 
   const _PlaceholderCard({
     required this.name,
     required this.sanskrit,
     required this.desc,
     required this.color,
+    required this.l,
   });
 
   @override
@@ -186,8 +189,8 @@ class _PlaceholderCard extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 8),
-                  Text('Coming soon',
-                      style: TextStyle(
+                  Text(l.comingSoon,
+                      style: const TextStyle(
                           fontSize: 10,
                           color: BhakthiColors.textTertiary)),
                 ]),
