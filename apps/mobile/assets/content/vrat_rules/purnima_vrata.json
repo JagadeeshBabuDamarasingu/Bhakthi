@@ -1,0 +1,63 @@
+{
+  "id": "purnima_vrata",
+  "name": {
+    "sanskrit": "पूर्णिमा व्रत",
+    "english": "Purnima Vrata",
+    "hindi": "पूर्णिमा व्रत",
+    "telugu": "పౌర్ణమి వ్రతం",
+    "tamil": "பௌர்ணமி விரதம்"
+  },
+  "deity": "vishnu",
+  "recurrence": "monthly",
+  "paksha": "shukla",
+  "tithi": 15,
+  "description": {
+    "english": "Purnima Vrata is observed on the full moon day (Purnima tithi) of every lunar month. The full moon is a highly auspicious time for prayer and fasting — the Moon is at its brightest, representing the fullness of the mind and devotion. The fast is primarily dedicated to Lord Vishnu and Satyanarayan, though the full moon is sacred to all deities.",
+    "hindi": "पूर्णिमा व्रत प्रत्येक मास की पूर्णिमा तिथि को किया जाता है। यह व्रत विशेष रूप से भगवान विष्णु और सत्यनारायण को समर्पित है।",
+    "telugu": "పౌర్ణమి వ్రతం ప్రతి మాసం పూర్ణిమ తిథి నాడు ఆచరిస్తారు. ఈ వ్రతం ప్రధానంగా విష్ణువుకు మరియు సత్యనారాయణ స్వామికి అంకితం."
+  },
+  "specialMonths": [
+    { "name": "Guru Purnima", "month": "Ashadha", "note": "Full moon of Guru — offerings to one's Guru; Vyasa Purnima" },
+    { "name": "Sharad Purnima", "month": "Ashwina", "note": "The brightest full moon of the year; Kheer offered to moonlight; Krishna's Raas Lila night" },
+    { "name": "Kartika Purnima", "month": "Kartika", "note": "Dev Deepavali; sky lanterns; most sacred bathing in holy rivers" },
+    { "name": "Vaisakha Purnima", "month": "Vaishakha", "note": "Buddha Purnima — birth of Siddhartha Gautama" },
+    { "name": "Holi Purnima", "month": "Phalguna", "note": "Holika Dahan night; festival of colors" }
+  ],
+  "whatToEat": [
+    "Fruits",
+    "Milk, curd, and milk products",
+    "Panchamrita",
+    "Kheer (rice pudding offered to the moon on Sharad Purnima)",
+    "Nuts and dry fruits",
+    "Sabudana preparations",
+    "Coconut"
+  ],
+  "whatToAvoid": [
+    "Non-vegetarian food",
+    "Onion and garlic",
+    "Alcohol and tobacco",
+    "Grains (for strict fast)",
+    "Regular salt (for strict fast)"
+  ],
+  "prayersToRecite": [
+    "vishnu_sahasranama_dhyana",
+    "vishnu_ashtottara",
+    "achyutam_keshavam"
+  ],
+  "howToObserve": {
+    "english": [
+      "Wake up early and take a bath, preferably before sunrise",
+      "Perform Satyanarayan Puja — the traditional ritual for Purnima (can be simple or elaborate)",
+      "Offer flowers, tulsi, and yellow fruits to Vishnu",
+      "Read or listen to the Satyanarayan Vrat Katha (five chapters)",
+      "Fast through the day — break the fast at moonrise after offering milk and water to the Moon",
+      "On Sharad Purnima specifically: prepare kheer in the evening and leave it in moonlight overnight — consume it next morning as prasad",
+      "Donate food, clothes, or money to those in need on this day — charity is especially meritorious on Purnima"
+    ]
+  },
+  "significance": {
+    "english": "The full moon is considered the most spiritually potent night of each month. The mind (Manas) is linked to the Moon, and fasting on Purnima is believed to purify and calm the mind. Satyanarayan Puja on Purnima removes karmic obstacles, fulfills wishes, brings prosperity and peace to the household, and is traditionally performed to mark new beginnings — a new home, a new job, a child's birth.",
+    "hindi": "पूर्णिमा मन की शुद्धि का दिन है। सत्यनारायण पूजा करने से जीवन में सुख, समृद्धि और शांति आती है।",
+    "telugu": "పౌర్ణమి మనస్సుకు శుద్ధిని కలిగిస్తుంది. సత్యనారాయణ పూజ సుఖ సంపదలను, మనస్సు ప్రశాంతిని ప్రసాదిస్తుంది."
+  }
+}

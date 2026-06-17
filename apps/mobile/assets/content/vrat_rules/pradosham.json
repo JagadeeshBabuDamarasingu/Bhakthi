@@ -1,0 +1,62 @@
+{
+  "id": "pradosham",
+  "name": {
+    "sanskrit": "प्रदोषम्",
+    "english": "Pradosham",
+    "hindi": "प्रदोष व्रत",
+    "telugu": "ప్రదోషం",
+    "tamil": "பிரதோஷம்"
+  },
+  "deity": "shiva",
+  "recurrence": "monthly",
+  "tithi": 13,
+  "description": {
+    "english": "Pradosham (Pradosha Vrata) is observed on the 13th lunar day (Trayodashi tithi) of both fortnights each month — occurring twice a month. The fast is particularly observed in the Pradosha Kala, the 1.5-hour window around twilight (roughly 4:30–6 PM). This is when Lord Shiva and Parvati are in a joyful, dancing mood and readily grant boons to devotees.",
+    "hindi": "प्रदोष व्रत प्रत्येक पक्ष की त्रयोदशी को किया जाता है। प्रदोष काल — सूर्यास्त से 1.5 घंटे पहले — इस समय भगवान शिव की पूजा करना अत्यंत फलदायक है।",
+    "telugu": "ప్రదోషం ప్రతి పక్షంలో త్రయోదశి నాడు జరుపుకుంటారు. సూర్యాస్తమయానికి ముందు 1.5 గంటల ప్రదోష కాలంలో శివుని పూజ అత్యంత ఫలప్రదం."
+  },
+  "specialVariants": [
+    { "name": "Soma Pradosham", "condition": "Pradosham falls on Monday", "note": "Exceptionally auspicious — Monday is already dedicated to Shiva" },
+    { "name": "Bhauma Pradosham", "condition": "Pradosham falls on Tuesday", "note": "Powerful for removing debts, enemies, and health issues" },
+    { "name": "Shani Pradosham", "condition": "Pradosham falls on Saturday", "note": "Extremely auspicious; Lord Shani and Shiva together remove hardships" }
+  ],
+  "whatToEat": [
+    "Fruits",
+    "Milk and milk products",
+    "Panchamrita (milk, curd, honey, ghee, sugar)",
+    "Coconut",
+    "Dry fruits and nuts",
+    "Sendha namak (rock salt) only"
+  ],
+  "whatToAvoid": [
+    "All grains",
+    "Non-vegetarian food",
+    "Onion and garlic",
+    "Regular salt",
+    "Alcohol and tobacco",
+    "Consuming food during the Pradosha Kala itself — fast through the puja window"
+  ],
+  "prayersToRecite": [
+    "shiva_panchakshara_stotram",
+    "shiva_tandava_stotram",
+    "shiva_ashtottara",
+    "maha_mrityunjaya"
+  ],
+  "howToObserve": {
+    "english": [
+      "Begin the fast at sunrise or from the previous evening (Dwadashi night)",
+      "Bathe and wear clean white or light-colored clothes",
+      "Visit a Shiva temple during the Pradosha Kala (roughly 4:30–6 PM) — this is mandatory if possible",
+      "Circumambulate the Shivalinga 7 times during the Pradosha Kala",
+      "Offer bilva (bel) leaves, white flowers, milk, and water to the Shivalinga",
+      "Chant 'Om Namah Shivaya' 108 times or recite the Panchakshara Stotram",
+      "Light a ghee lamp and incense before Shiva and Nandi",
+      "Break the fast after completing the Pradosha puja, with a simple sattvic meal"
+    ]
+  },
+  "significance": {
+    "english": "It is said that whatever boon a devotee seeks during the Pradosha Kala will be granted by Lord Shiva. The Shiva Purana states that fasting on both Pradoshams of a month is equivalent to performing a major yajna. Regular observance destroys sins, removes obstacles, grants health, wealth, and harmonious family life, and ultimately leads to liberation (moksha).",
+    "hindi": "प्रदोष काल में शिव की पूजा करने से मनोकामनाएं पूर्ण होती हैं। शिव पुराण के अनुसार, इस व्रत का फल यज्ञ के समान है।",
+    "telugu": "ప్రదోష కాలంలో శివుని పూజించిన భక్తుల కోరికలు తప్పకుండా నెరవేరతాయని శివ పురాణం చెప్తుంది."
+  }
+}

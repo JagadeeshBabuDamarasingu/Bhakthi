@@ -1,0 +1,57 @@
+{
+  "id": "mangalavar_vrata",
+  "name": {
+    "sanskrit": "मंगलवार व्रत",
+    "english": "Mangalavar Vrata",
+    "hindi": "मंगलवार व्रत",
+    "telugu": "మంగళవారం వ్రతం",
+    "tamil": "செவ்வாய் விரதம்"
+  },
+  "deity": "hanuman",
+  "recurrence": "weekly",
+  "weekday": 2,
+  "description": {
+    "english": "Mangalavar Vrata is the Tuesday fast, primarily dedicated to Lord Hanuman, and also to Mangal (Mars) among the Navagrahas. Tuesday (Mangalavar) is considered Hanuman's special day — Hanuman is an embodiment of strength, devotion, and celibacy, and is believed to protect devotees from evil and negative energy. In some traditions, Tuesday is also dedicated to Goddess Durga and Lord Murugan (Kartikeya).",
+    "hindi": "मंगलवार व्रत विशेष रूप से भगवान हनुमान को समर्पित है। हनुमान जी शक्ति, भक्ति और ब्रह्मचर्य के प्रतीक हैं।",
+    "telugu": "మంగళవారం వ్రతం ప్రధానంగా హనుమంతునికి అంకితం. హనుమంతుడు శక్తి, భక్తి మరియు బ్రహ్మచర్యానికి ప్రతీక."
+  },
+  "whatToEat": [
+    "One meal in the evening (sunset or after)",
+    "Fruits throughout the day",
+    "Milk and milk products",
+    "Sweet red foods — jaggery, red sweets (red is Hanuman's color)",
+    "Boondi laddoo — Hanuman's favorite prasad",
+    "Nuts and dry fruits"
+  ],
+  "whatToAvoid": [
+    "Non-vegetarian food",
+    "Onion and garlic",
+    "Alcohol and tobacco",
+    "Grains (for strict fasters)",
+    "Oil-fried foods (some observe this)"
+  ],
+  "prayersToRecite": [
+    "hanuman_chalisa",
+    "hanuman_ashtottara",
+    "bajrang_baan",
+    "ram_raksha_stotram"
+  ],
+  "howToObserve": {
+    "english": [
+      "Wake up early, take a bath, and wear red or orange clothes (Hanuman's colors)",
+      "Visit a Hanuman temple in the morning — Tuesday morning visits to Hanuman are among the most auspicious acts",
+      "Offer sindoor (red powder), red flowers, red cloth, and boondi laddoos to Hanuman",
+      "Apply a tilak of sindoor from Hanuman's murti to your own forehead — receive his blessing",
+      "Recite Hanuman Chalisa 3, 7, or 11 times — this is the central prayer of the day",
+      "If possible, also read Ram Raksha Stotram",
+      "Fast throughout the day, breaking only after evening prayers",
+      "Light a ghee or sesame oil lamp before Hanuman in the evening",
+      "Feed the poor or donate red items and sweets in the evening"
+    ]
+  },
+  "significance": {
+    "english": "Hanuman is the greatest devotee of Rama and is believed to be present wherever Ram's name is chanted. Fasting on Tuesdays is said to remove fear, bestow courage and strength, protect from evil spirits and black magic, reduce the malefic effects of Mars (Mangal) in the horoscope, remove obstacles in marriage and career, and grant the strength to overcome all difficulties. Hanuman never fails a sincere devotee.",
+    "hindi": "मंगलवार व्रत से भय नष्ट होता है, साहस और बल प्राप्त होता है। हनुमान जी की कृपा से बुरी शक्तियों से रक्षा होती है।",
+    "telugu": "మంగళవారం వ్రతంతో భయం నశిస్తుంది, ధైర్యం మరియు శక్తి లభిస్తాయి. హనుమంతుని అనుగ్రహంతో దుష్టశక్తుల నుండి రక్షణ లభిస్తుంది."
+  }
+}

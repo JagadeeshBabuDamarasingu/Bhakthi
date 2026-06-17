@@ -1,0 +1,57 @@
+{
+  "id": "shani_vrata",
+  "name": {
+    "sanskrit": "शनिवार व्रत",
+    "english": "Shani Vrata",
+    "hindi": "शनिवार व्रत",
+    "telugu": "శని వ్రతం",
+    "tamil": "சனி விரதம்"
+  },
+  "deity": "shiva",
+  "recurrence": "weekly",
+  "weekday": 6,
+  "description": {
+    "english": "Shani Vrata is the Saturday fast dedicated to Lord Shani (Saturn). Shani is the son of Surya (Sun) and Chhaya, and is considered the most powerful and feared of the Navagrahas (nine planets). Saturday (Shanivara) is his day. The fast is observed to appease Shanidev, reduce the malefic effects of Saturn in one's horoscope, and gain his blessings for discipline, justice, and karmic balance.",
+    "hindi": "शनिवार व्रत शनिदेव को प्रसन्न करने के लिए किया जाता है। शनिदेव न्याय के देवता हैं — इनकी कृपा से सभी कष्ट दूर होते हैं।",
+    "telugu": "శని వ్రతం శనిదేవుని అనుగ్రహం కోసం ఆచరిస్తారు. శని న్యాయదేవుడు — ఆయన అనుగ్రహంతో జీవితంలోని కష్టాలు తొలగిపోతాయి."
+  },
+  "whatToEat": [
+    "One meal only — preferably in the evening",
+    "Black sesame seeds (til) — most sacred to Shani",
+    "Black lentils (urad dal) preparations",
+    "Sesame oil-based foods",
+    "Fruits",
+    "Simple vegetarian food without much spice"
+  ],
+  "whatToAvoid": [
+    "Non-vegetarian food, especially avoid meat on Saturdays",
+    "Onion and garlic",
+    "Alcohol and tobacco",
+    "Sour foods (some traditions)",
+    "Oil — do not apply oil to the body on Saturdays (some traditions)",
+    "Wearing bright colors like red or yellow — black or dark blue is preferred"
+  ],
+  "prayersToRecite": [
+    "shiva_ashtottara",
+    "maha_mrityunjaya"
+  ],
+  "howToObserve": {
+    "english": [
+      "Wake up early, take a bath, and wear black or dark blue clothes",
+      "Visit a Shani temple or Navagraha temple — look for a Shani idol (made of black stone)",
+      "Offer black sesame seeds, black flowers, and sesame oil to Shanidev",
+      "Light a sesame oil lamp (til tel diya) before Shani",
+      "Chant the Shani Beej Mantra: 'Om Praam Preem Praum Sah Shanaischaraya Namah' 108 times",
+      "Circumambulate the Shani idol 7 times",
+      "Feed black sesame seeds or black sesame laddoos to the poor",
+      "Donate black items — black cloth, black sesame, mustard oil, iron items — to the needy",
+      "Feed crows — crows are Shani's vahana (mount) and feeding them pleases Shanidev",
+      "Break the fast in the evening with a simple meal"
+    ]
+  },
+  "significance": {
+    "english": "Lord Shani is the karmic planet — he gives exactly what is earned through past actions. Fasting on Saturdays is believed to reduce the severity of Shani's Dasha (Saturn's planetary period) and Sade Sati (Saturn's 7.5-year transit). Shani's blessings bring discipline, patience, hard work, and ultimately liberation. Those born under Saturn or those in Sade Sati especially benefit from this vrat.",
+    "hindi": "शनि कर्म के देवता हैं — शनिवार व्रत से शनि दशा और साढ़े साती के दुष्प्रभाव कम होते हैं।",
+    "telugu": "శని కర్మ దేవుడు — శని వ్రతంతో శని మహాదశ మరియు సాడేసాతి ప్రభావాలు తగ్గుతాయి."
+  }
+}

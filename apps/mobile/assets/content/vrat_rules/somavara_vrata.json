@@ -1,0 +1,58 @@
+{
+  "id": "somavara_vrata",
+  "name": {
+    "sanskrit": "सोमवार व्रत",
+    "english": "Somavara Vrata",
+    "hindi": "सोमवार व्रत",
+    "telugu": "సోమవారం వ్రతం",
+    "tamil": "திங்கள் விரதம்"
+  },
+  "deity": "shiva",
+  "recurrence": "weekly",
+  "weekday": 1,
+  "description": {
+    "english": "Somavara Vrata is the Monday fast dedicated to Lord Shiva. Monday (Somavara) is Shiva's own day — the Moon (Soma) rests on Shiva's matted locks, and Monday is named after the Moon. This is one of the most widely observed fasts in India, practiced by devotees seeking Shiva's blessings for health, marriage, family welfare, and liberation.",
+    "hindi": "सोमवार व्रत भगवान शिव को समर्पित है। सोम (चंद्रमा) भगवान शिव की जटाओं में विराजमान है, इसलिए सोमवार शिव का दिन है।",
+    "telugu": "సోమవారం వ్రతం శివునికి అంకితం. చంద్రుడు (సోముడు) శివుని జటాజూటంలో విరాజమానుడై ఉన్నాడు కాబట్టి సోమవారం శివుని రోజు."
+  },
+  "whatToEat": [
+    "One meal in the evening only (some observe full fast with only water or milk)",
+    "Fruits throughout the day",
+    "Milk, curd, ghee",
+    "Sabudana khichdi or vada",
+    "Sendha namak (rock salt) based preparations",
+    "Coconut and dry fruits"
+  ],
+  "whatToAvoid": [
+    "Non-vegetarian food",
+    "Onion and garlic",
+    "Alcohol and tobacco",
+    "Regular salt (if following strict fast)",
+    "Grains (for strict fast)",
+    "Eating multiple times — observe restraint in food"
+  ],
+  "prayersToRecite": [
+    "shiva_panchakshara_stotram",
+    "maha_mrityunjaya",
+    "shiva_ashtottara",
+    "bilvashtakam"
+  ],
+  "howToObserve": {
+    "english": [
+      "Wake up early, take a bath before sunrise",
+      "Visit a Shiva temple in the morning — this is central to the vrat",
+      "Offer bilva (bel) leaves — each leaf should ideally be a three-pronged shivalinga-shaped leaf",
+      "Pour water (abhisheka) over the Shivalinga while chanting 'Om Namah Shivaya'",
+      "Also offer milk, honey, or Panchamrita if available",
+      "Chant Shiva Panchakshara Stotram or Maha Mrityunjaya mantra 108 times",
+      "Observe fast throughout the day — break only in the evening after sunset prayers",
+      "Read or listen to Shiva Purana or Somavara Vrat Katha in the evening",
+      "Light a lamp before Shiva at home in the evening"
+    ]
+  },
+  "significance": {
+    "english": "The Somavara Vrata is mentioned in the Shiva Purana as one of the most pleasing observances to Lord Shiva. Sixteen consecutive Mondays (Solah Somavar) is a popular complete cycle of this vrat. Regular observance is believed to remove obstacles to marriage, bless married couples with harmony, grant good health, remove the malefic effects of the Moon in the horoscope, and ultimately grant the state of Shiva-consciousness.",
+    "hindi": "सोमवार व्रत से विवाह में आने वाली बाधाएं दूर होती हैं, वैवाहिक जीवन सुखी रहता है और शिव की कृपा प्राप्त होती है।",
+    "telugu": "సోమవారం వ్రతం వివాహ బంధాన్ని బలపరుస్తుంది, ఆరోగ్యాన్ని ప్రసాదిస్తుంది మరియు చంద్రుని దోష ప్రభావాన్ని తగ్గిస్తుంది."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ekadashi",
+  "name": {
+    "sanskrit": "एकादशी",
+    "english": "Ekadashi",
+    "hindi": "एकादशी",
+    "telugu": "ఏకాదశి",
+    "tamil": "ஏகாதசி"
+  },
+  "deity": "vishnu",
+  "recurrence": "monthly",
+  "tithi": 11,
+  "description": {
+    "english": "Ekadashi is the eleventh day (tithi) of each lunar fortnight — occurring twice every month, once in the bright fortnight (Shukla Paksha) and once in the dark fortnight (Krishna Paksha). It is the most sacred fast in Vaishnavism, observed in devotion to Lord Vishnu. The word Ekadashi means 'eleven' in Sanskrit.",
+    "hindi": "एकादशी प्रत्येक पक्ष की ग्यारहवीं तिथि को आती है — हर माह में दो बार, एक शुक्ल पक्ष में और एक कृष्ण पक्ष में। यह वैष्णवों का सबसे पवित्र व्रत है।",
+    "telugu": "ఏకాదశి ప్రతి పక్షంలో పదకొండవ తిథి — నెలకు రెండుసార్లు, శుక్ల పక్షంలో మరియు కృష్ణ పక్షంలో. వైష్ణవులకు అత్యంత పవిత్రమైన ఉపవాసం."
+  },
+  "specialMonths": [
+    { "name": "Vaikunta Ekadashi", "month": "Margashirsha / Dhanu", "note": "The most auspicious Ekadashi — gates of Vaikunta are open; also called Mukkoti Ekadashi" },
+    { "name": "Nirjala Ekadashi", "month": "Jyeshtha", "note": "The strictest fast — even water is avoided; observing this one is said to equal all 24 annual Ekadashis" },
+    { "name": "Devshayani Ekadashi", "month": "Ashadha Shukla", "note": "Vishnu enters Yoga Nidra (cosmic sleep); Chaturmas begins" },
+    { "name": "Devutthana Ekadashi", "month": "Kartika Shukla", "note": "Vishnu awakes from Yoga Nidra; Chaturmas ends; auspicious for weddings" }
+  ],
+  "whatToEat": [
+    "Fruits of all kinds",
+    "Milk, curd, paneer, ghee",
+    "Nuts and dry fruits",
+    "Sabudana (tapioca)",
+    "Sweet potato and other root vegetables (except onion/garlic)",
+    "Makhana (fox nuts)",
+    "Sendha namak (rock salt) only — no regular salt",
+    "Coconut in any form"
+  ],
+  "whatToAvoid": [
+    "All grains — rice, wheat, lentils, corn, barley",
+    "Regular salt (iodized)",
+    "Non-vegetarian food of any kind",
+    "Onion and garlic",
+    "Alcohol and tobacco",
+    "Masoor dal (red lentil)",
+    "Betel leaf with tobacco"
+  ],
+  "prayersToRecite": [
+    "vishnu_sahasranama_dhyana",
+    "vishnu_ashtottara",
+    "achyutam_keshavam"
+  ],
+  "howToObserve": {
+    "english": [
+      "Begin the fast at sunrise on Ekadashi and break it the following morning (Dwadashi) after sunrise — the fast lasts approximately 24 hours",
+      "Wake up early, take a bath, and set up a Vishnu puja with tulsi leaves and yellow flowers",
+      "Chant Vishnu Sahasranama or recite the Ekadashi Mahatmya (story of the specific Ekadashi)",
+      "Spend the day in prayer, bhajan, and reading scriptures — avoid sleep during the day",
+      "Light a lamp before Lord Vishnu in the evening",
+      "On Dwadashi morning, after bathing, offer tulsi and flowers to Vishnu, then break the fast with a simple meal — this is called Parana",
+      "Parana must be done within the Dwadashi tithi window and before the next Trayodashi begins — check the exact parana time for your location"
+    ]
+  },
+  "significance": {
+    "english": "According to the Padma Purana, fasting on Ekadashi bestows the merit of performing 1,000 Ashvamedha yajnas and destroys sins accumulated over many lifetimes. It purifies the mind and body, as grains are believed to harbour negative energy on this day. Regular observance is said to bring peace, prosperity, liberation from the cycle of rebirth, and ultimately, residence in Vaikunta.",
+    "hindi": "एकादशी व्रत करने से हजारों यज्ञों का पुण्य मिलता है और अनेक जन्मों के पाप नष्ट होते हैं।",
+    "telugu": "ఏకాదశి ఉపవాసం వేయి అశ్వమేధ యాగాల ఫలాన్నిస్తుంది మరియు అనేక జన్మల పాపాలను నాశనం చేస్తుంది."
+  }
+}
