@@ -1,0 +1,155 @@
+{
+  "id": "sri_suktam",
+  "title": {
+    "sanskrit": "श्रीसूक्तम्",
+    "transliteration": "Śrīsūktam",
+    "english": "Sri Suktam — The Vedic Hymn to Goddess Lakshmi",
+    "hindi": "श्रीसूक्तम्",
+    "telugu": "శ్రీ సూక్తం"
+  },
+  "deity": "lakshmi",
+  "type": "vedic_hymn",
+  "tags": ["lakshmi", "vedic", "rigveda", "prosperity", "wealth", "khila", "powerful"],
+  "description": {
+    "english": "The Sri Suktam is the most ancient hymn to Goddess Lakshmi/Sri, found as a supplement (khila) to the Rigveda. It consists of fifteen or sixteen primary mantras extolling Sri (the goddess of prosperity, fortune, and beauty) and invoking her grace to remove poverty and bestow wealth. Sri Suktam is used in virtually all Lakshmi pujas, Diwali worship, and Varalakshmi Vratam. It is one of the five primary suktas (the Pancha Suktam) recited in all major Vaishnava temple rituals.",
+    "hindi": "श्रीसूक्तम् देवी लक्ष्मी/श्री की सबसे प्राचीन वैदिक स्तुति है। यह ऋग्वेद के खिल भाग में है। इसमें पंद्रह-सोलह मुख्य मंत्र हैं जो श्री (समृद्धि और सौभाग्य की देवी) की स्तुति करते हैं और दरिद्रता को दूर कर धन की वर्षा का आह्वान करते हैं। यह पंच सूक्तम का भाग है।",
+    "telugu": "శ్రీ సూక్తం లక్ష్మీ దేవి/శ్రీకి సంబంధించిన అత్యంత పురాతన వైదిక స్తుతి. ఋగ్వేద ఖిల భాగంలో ఉంది. పదిహేను-పదహారు ముఖ్యమైన మంత్రాలు శ్రీ (సమృద్ధి మరియు సౌభాగ్యాల దేవత)ని స్తుతిస్తాయి. పంచ సూక్తంలో భాగం."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् ।\nचन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ।।",
+      "transliteration": "Oṃ Hiraṇyavarṇāṃ Hariṇīṃ Suvarṇarajatasrajām |\nCandrāṃ Hiraṇmayīṃ Lakṣmīṃ Jātavedo Ma Āvaha ||",
+      "hindi": "हे जातवेद (अग्नि)! उन लक्ष्मी को मेरे पास लाओ जो स्वर्ण के समान वर्ण वाली, हिरण के समान सुंदर, सोने-चाँदी की मालाओं वाली, चंद्रमा के समान आभावाली और स्वर्णमयी हैं।",
+      "telugu": "హే జాతవేద (అగ్ని)! బంగారు రంగులో ఉన్న, జింక వలె అందమైన, బంగారు వెండి మాలలు ధరించిన, చంద్రుని వంటి కాంతితో, బంగారు మయమైన ఆ లక్ష్మీని నా దగ్గరకు తీసుకురా.",
+      "english": "O Jataveda (Fire God)! Bring to me that Lakshmi — who is golden-hued, deer-like in her grace, garlanded with gold and silver, radiant as the moon, and made entirely of gold.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।\nयस्यां हिरण्यं विन्देयं गामश्वं पुरुषानहम् ।।",
+      "transliteration": "Tāṃ Ma Āvaha Jātavedo Lakṣmīmanapagāminīm |\nYasyāṃ Hiraṇyaṃ Vindeyaṃ Gāmaśvaṃ Puruṣānaham ||",
+      "hindi": "हे जातवेद! उन लक्ष्मी को मेरे पास लाओ जो मुझे न छोड़ें;\nजिनके साथ मैं सोना, गाय, घोड़ा और पुरुष (सेवक/संतान) प्राप्त करूँ।",
+      "telugu": "హే జాతవేద! వెళ్ళిపోని ఆ లక్ష్మీని నా దగ్గరకు తీసుకురా;\nఆమెతో పాటు నాకు బంగారం, గోవులు, గుర్రాలు, పురుషులు లభించాలి.",
+      "english": "O Jataveda! Bring to me that Lakshmi who will not leave me — in whose presence I may obtain gold, cows, horses, and servants (progeny).",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "अश्वपूर्वां रथमध्यां हस्तिनादप्रबोधिनीम् ।\nश्रियं देवीमुपह्वये श्रीर्मा देवी जुषताम् ।।",
+      "transliteration": "Aśvapūrvāṃ Rathamadhyāṃ Hastināgaprabodhīnīm |\nŚriyaṃ Devīmupahvaye Śrīrmā Devī Juṣatām ||",
+      "hindi": "जिनके आगे अश्व हैं, रथ के बीच में हैं, हाथियों की ध्वनि से जिनका स्वागत होता है —\nउस श्री-देवी को मैं आमंत्रित करता हूँ; श्री-देवी मुझे प्रसन्नता से स्वीकार करें।",
+      "telugu": "ముందు గుర్రాలు, మధ్య రథంలో, ఏనుగుల ధ్వనితో స్వాగతించబడే —\nఆ శ్రీ దేవిని ఆహ్వానిస్తున్నాను; శ్రీ దేవి నన్ను ప్రసన్నంగా స్వీకరించుగాక.",
+      "english": "I invoke that Goddess Sri who is preceded by horses, who rides in the middle of a chariot, and is heralded by the trumpeting of elephants — may Goddess Sri joyfully accept me.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "कांसोस्मितां हिरण्यप्राकारामार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् ।\nपद्मे स्थितां पद्मवर्णां तामिहोपह्वये श्रियम् ।।",
+      "transliteration": "Kāṃsosmitāṃ Hiraṇyaprākārāmārdrāṃ Jvalantīṃ Tṛptāṃ Tarpayantīm |\nPadme Sthitāṃ Padmavarṇāṃ Tāmihopahvaye Śriyam ||",
+      "hindi": "जो कान्तिमान मुस्कान वाली, स्वर्णिम प्राकार (दीप्ति) वाली, आर्द्र (करुणामयी) और ज्वलंत हैं;\nजो तृप्त हैं और (भक्तों को) तृप्त करती हैं, कमल पर स्थित और कमल-वर्ण की हैं —\nयहाँ उन श्री का आह्वान करता हूँ।",
+      "telugu": "కాంతివంతమైన చిరునవ్వుతో, బంగారు కాంతితో, కరుణా మయంగా, ప్రకాశించేదానా;\nతృప్తిగా ఉండి (భక్తులను) తృప్తి పరచేది, పద్మంపై నిలిచి పద్మ వర్ణురాలైన —\nఆ శ్రీని ఇక్కడికి ఆహ్వానిస్తున్నాను.",
+      "english": "Her whose smile is radiant, who shines with a golden lustre, who is tender and compassionate, who blazes with glory; who is satisfied herself and who satisfies others, who stands on a lotus and is lotus-hued — that Sri I invoke here.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम् ।\nतां पद्मिनीमीं शरणमहं प्रपद्ये अलक्ष्मीर्मे नश्यतां त्वां वृणे ।।",
+      "transliteration": "Candrāṃ Prabhāsāṃ Yaśasā Jvalantīṃ Śriyaṃ Loke Devajuṣṭāmudārām |\nTāṃ Padminīmīṃ Śaraṇamahaṃ Prapadye Alakṣmīrme Naśyatāṃ Tvāṃ Vṛṇe ||",
+      "hindi": "चंद्रमा के समान दीप्त, प्रकाश से युक्त, यश से ज्वलित, संसार में देवताओं द्वारा पूजित, उदार श्री को —\nउस पद्मिनी की शरण ग्रहण करता हूँ; हे देवी, मेरी अलक्ष्मी (दरिद्रता) नष्ट हो — आपको वरण करता हूँ।",
+      "telugu": "చంద్రుని వలె ప్రకాశించేది, తేజోవంతమైనది, కీర్తితో వెలిగేది, లోకంలో దేవతలచే పూజించబడేది, ఉదారమైన శ్రీని —\nఆ పద్మినిని శరణు పొందుతున్నాను; నా అలక్ష్మి (దారిద్ర్యం) నశించాలి — నిన్ను వరిస్తున్నాను.",
+      "english": "I take refuge in that Sri who is moon-like in brilliance, radiant with lustre, blazing with fame, worshipped by the gods in this world, and magnanimous — that lotus lady. O Goddess, may my misfortune (Alakshmi) be destroyed — I choose you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "आदित्यवर्णे तपसोधिजातो वनस्पतिस्तव वृक्षोथ बिल्वः ।\nतस्य फलानि तपसानुदन्तु मायान्तरायाश्च बाह्या अलक्ष्मीः ।।",
+      "transliteration": "Ādityavarṇe Tapasodhi Jāto Vanaspatistava Vṛkṣotha Bilvaḥ |\nTasya Phalāni Tapasānudantu Māyāntarāyāśca Bāhyā Alakṣmīḥ ||",
+      "hindi": "हे आदित्यवर्णे (सूर्य-वर्णा देवी)! तपस से उत्पन्न बेल-वृक्ष आपका वृक्ष है;\nउसके फलों से मेरी आंतरिक और बाह्य अलक्ष्मी (विघ्न और दरिद्रता) दूर हो।",
+      "telugu": "హే ఆదిత్యవర్ణే! తపస్సు నుండి జన్మించిన బిల్వవృక్షం నీ వృక్షం;\nఆ ఫలాలతో నా ఆంతరిక మరియు బాహ్య అలక్ష్మి (విఘ్నాలు, దారిద్ర్యం) దూరమవుగాక.",
+      "english": "O sun-complexioned Goddess! The bael tree, born of austerity, is your tree; may its fruits drive away my internal and external misfortune and obstacles.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "उपैतु मां देवसखः कीर्तिश्च मणिना सह ।\nप्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ।।",
+      "transliteration": "Upaithu Māṃ Devasakhaḥ Kīrtiśca Maṇinā Saha |\nPrādurbhūto'smi Rāṣṭre'smin Kīrtimṛddhiṃ Dadātu Me ||",
+      "hindi": "देवताओं के साथी (कुबेर) और कीर्ति, मणि के साथ मेरे पास आएँ;\nइस राष्ट्र में प्रकट होकर मुझे कीर्ति और समृद्धि प्रदान करें।",
+      "telugu": "దేవ సఖుడు (కుబేరుడు) మరియు కీర్తి, మణితో సహా నా దగ్గరకు వచ్చుగాక;\nఈ రాష్ట్రంలో ప్రకటితమై నాకు కీర్తి, సమృద్ధి ఇవ్వుగాక.",
+      "english": "May Devasakha (Kubera, the friend of the gods) and Fame, along with gems, come to me; appearing in this land, may they grant me fame and prosperity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् ।\nअभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ।।",
+      "transliteration": "Kṣutpipāsāmalāṃ Jyeṣṭhāmalakṣmīṃ Nāśayāmyaham |\nAbhūtimasamṛddhiṃ Ca Sarvāṃ Nirṇuda Me Gṛhāt ||",
+      "hindi": "भूख-प्यास से दूषित, ज्येष्ठा (अलक्ष्मी की बड़ी बहन) और अलक्ष्मी को मैं नष्ट करता हूँ;\nसमस्त दुर्भाग्य और अ-समृद्धि को मेरे घर से दूर करें।",
+      "telugu": "ఆకలి దాహంతో కూడిన జ్యేష్ఠ (అలక్ష్మి) మరియు అలక్ష్మిని నాశనం చేస్తున్నాను;\nసమస్త దుర్భాగ్యం, అ-సమృద్ధిని నా ఇంటి నుండి తొలగించు.",
+      "english": "I destroy the impure Jyeshtha (the elder sister of Lakshmi associated with misfortune) and Alakshmi beset by hunger and thirst; drive away all poverty and lack of prosperity from my home.",
+      "audioUrl": ""
+    },
+    {
+      "index": 9,
+      "sanskrit": "गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् ।\nईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियम् ।।",
+      "transliteration": "Gandhadvarāṃ Durādharṣāṃ Nityapuṣṭāṃ Karīṣinīm |\nĪśvarīṃ Sarvabhūtānāṃ Tāmihopahvaye Śriyam ||",
+      "hindi": "जो गंध की द्वार (गंध से प्राप्त होने योग्य), दुर्धर्ष (दुर्लभ), नित्य-पुष्ट और उर्वर (करीषिणी) हैं,\nसमस्त प्राणियों की ईश्वरी — उन श्री का यहाँ आह्वान करता हूँ।",
+      "telugu": "గంధ ద్వారగా, దుర్ధర్ష, నిత్య పుష్టగా, ఫలభరితంగా,\nసమస్త ప్రాణులకు ఈశ్వరిగా ఉన్న — ఆ శ్రీని ఇక్కడికి ఆహ్వానిస్తున్నాను.",
+      "english": "She who is attainable through fragrance (as a gateway through the senses), invincible, ever well-nourished, fertile, the sovereign of all beings — that Sri I invoke here.",
+      "audioUrl": ""
+    },
+    {
+      "index": 10,
+      "sanskrit": "मनसः काममाकूतिं वाचः सत्यमशीमहि ।\nपशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ।।",
+      "transliteration": "Manasaḥ Kāmamākūtiṃ Vācaḥ Satyamaśīmahi |\nPaśūnāṃ Rūpamannasya Mayi Śrīḥ Śrayatāṃ Yaśaḥ ||",
+      "hindi": "मन की कामना, संकल्प, वाणी की सत्यता प्राप्त हो;\nपशु और अन्न मिले — मुझ में श्री और यश का वास हो।",
+      "telugu": "మనసు కోరిక, సంకల్పం, వాక్కు సత్యత లభించాలి;\nపశువులు, అన్నం లభించాలి — నాలో శ్రీ, యశస్సు నివసించాలి.",
+      "english": "May we obtain the desire of the mind, the intention, the truth of speech; cattle and food; may Sri and fame take up residence in me.",
+      "audioUrl": ""
+    },
+    {
+      "index": 11,
+      "sanskrit": "कर्दमेन प्रजाभूता मयि सम्भव कर्दम ।\nश्रियं वासय मे कुले मातरं पद्ममालिनीम् ।।",
+      "transliteration": "Kardamena Prajābhūtā Mayi Sambhava Kardama |\nŚriyaṃ Vāsaya Me Kule Mātaraṃ Padmamālinīm ||",
+      "hindi": "हे कर्दम! (श्री के पुत्र कर्दम ऋषि) जो प्रजाओं के उत्पत्ति-कर्ता हैं,\nमुझमें प्रकट हो; मेरे कुल में पद्ममालिनी माता श्री को बसाओ।",
+      "telugu": "హే కర్దమ! (శ్రీ పుత్రుడు) ప్రజలకు జన్మనిచ్చేవాడా,\nనాలో ప్రకటమవ్వు; నా వంశంలో పద్మమాలినీ అమ్మ శ్రీని నివసింపచేయి.",
+      "english": "O Kardama (son of Sri)! From whom creation proceeds, manifest in me; establish in my lineage the Mother Sri who wears a garland of lotuses.",
+      "audioUrl": ""
+    },
+    {
+      "index": 12,
+      "sanskrit": "आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे ।\nनि च देवीं मातरं श्रियं वासय मे कुले ।।",
+      "transliteration": "Āpaḥ Sṛjantu Snigdhāni Ciklīta Vasa Me Gṛhe |\nNi Ca Devīṃ Mātaraṃ Śriyaṃ Vāsaya Me Kule ||",
+      "hindi": "हे चिक्लीत! (श्री के पुत्र) स्नेहमयी वस्तुएँ उत्पन्न करें;\nमेरे घर में वास करें और माता देवी श्री को मेरे कुल में स्थापित करें।",
+      "telugu": "హే చిక్లీత! (శ్రీ పుత్రుడు) స్నేహమయమైన వస్తువులు ఉత్పత్తి చేయి;\nనా ఇంటిలో నివసించి అమ్మ దేవి శ్రీని నా వంశంలో నెలకొల్పు.",
+      "english": "O Chiklita (son of Sri)! May the waters create what is nourishing; dwell in my home; and establish in my family the Divine Mother Sri.",
+      "audioUrl": ""
+    },
+    {
+      "index": 13,
+      "sanskrit": "आर्द्रां पुष्करिणीं पुष्टिं सुवर्णां हेममालिनीम् ।\nसूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ।।",
+      "transliteration": "Ārdrāṃ Puṣkariṇīṃ Puṣṭiṃ Suvarṇāṃ Hemamālinīm |\nSūryāṃ Hiraṇmayīṃ Lakṣmīṃ Jātavedo Ma Āvaha ||",
+      "hindi": "हे जातवेद! उस लक्ष्मी को लाओ जो आर्द्र (करुणामयी), कमल-वाली, पुष्टि (समृद्धि) की रूप,\nसुवर्णा, स्वर्ण-माला वाली, सूर्य-प्रकाश युक्त और स्वर्णमयी हैं।",
+      "telugu": "హే జాతవేద! ఆర్ద్ర (కరుణా మయమైన), కమల సంపన్న, పుష్టిస్వరూప,\nసువర్ణ, హేమ మాల ధరించిన, సూర్య ప్రకాశయుత, బంగారు మయమైన లక్ష్మీని తీసుకురా.",
+      "english": "O Jataveda! Bring to me that Lakshmi — who is tender and compassionate, associated with lotus ponds, the embodiment of nourishment, golden-hued, garlanded with gold, as radiant as the sun, and made entirely of gold.",
+      "audioUrl": ""
+    },
+    {
+      "index": 14,
+      "sanskrit": "आर्द्रां यः करिणीं यष्टिं सुवर्णां हेममालिनीम् ।\nसूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ।।",
+      "transliteration": "Ārdrāṃ Yaḥ Kariṇīṃ Yaṣṭiṃ Suvarṇāṃ Hemamālinīm |\nSūryāṃ Hiraṇmayīṃ Lakṣmīṃ Jātavedo Ma Āvaha ||",
+      "hindi": "हे जातवेद! उस लक्ष्मी को लाओ जो आर्द्र, हथिनी के समान (गजलक्ष्मी), यष्टि (मंगलदंड) वाली,\nसुवर्णा, स्वर्ण-माला वाली, सूर्य और स्वर्णमयी हैं।",
+      "telugu": "హే జాతవేద! ఆర్ద్ర, ఏనుగు వంటి (గజలక్ష్మి), యష్టి ధరించిన,\nసువర్ణ, హేమ మాల ధరించిన, సూర్య, బంగారు మయమైన లక్ష్మీని తీసుకురా.",
+      "english": "O Jataveda! Bring to me that Lakshmi — who is compassionate, like an elephant queen (Gajalakshmi), holding an auspicious wand, golden-hued, garlanded with gold, and radiant as the sun.",
+      "audioUrl": ""
+    },
+    {
+      "index": 15,
+      "sanskrit": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् ।\nयस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान्विन्देयं पुरुषानहम् ।।",
+      "transliteration": "Tāṃ Ma Āvaha Jātavedo Lakṣmīmanapagāminīm |\nYasyāṃ Hiraṇyaṃ Prabhūtaṃ Gāvo Dāsyo'śvānvindeyaṃ Puruṣānaham ||",
+      "hindi": "हे जातवेद! उस लक्ष्मी को लाओ जो न जाएं;\nजिनके साथ मैं प्रचुर सोना, गायें, दासियाँ, घोड़े और पुरुष (संतान) प्राप्त करूँ।",
+      "telugu": "హే జాతవేద! వెళ్ళని ఆ లక్ష్మీని తీసుకురా;\nఆమెతో పాటు నాకు పుష్కలమైన బంగారం, గోవులు, దాసీలు, గుర్రాలు, పురుషులు లభించాలి.",
+      "english": "O Jataveda! Bring to me that Lakshmi who will not leave — in whose presence I may obtain abundant gold, cows, maidservants, horses, and men (progeny).",
+      "audioUrl": ""
+    }
+  ]
+}

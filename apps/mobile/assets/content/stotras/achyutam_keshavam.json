@@ -1,0 +1,65 @@
+{
+  "id": "achyutam_keshavam",
+  "title": {
+    "sanskrit": "अच्युतम् केशवम्",
+    "transliteration": "Acyutam Keśavam",
+    "english": "Achyutam Keshavam — Bhajan in Praise of Vishnu and Krishna",
+    "hindi": "अच्युतम् केशवम्",
+    "telugu": "అచ్యుతం కేశవం"
+  },
+  "deity": "vishnu",
+  "type": "bhajan",
+  "tags": ["vishnu", "krishna", "bhajan", "names", "popular", "daily"],
+  "description": {
+    "english": "Achyutam Keshavam is a beloved bhajan recounting the many beautiful names and forms of Lord Vishnu and Krishna. 'Achyuta' means the infallible one who never falls — one of the most beloved epithets of Vishnu. 'Keshava' refers to Krishna as the one with beautiful or flowing hair, and also as the slayer of the demon Keshi. This bhajan is sung with joy and devotion across Vaishnavite traditions.",
+    "hindi": "अच्युतम् केशवम् भगवान विष्णु और कृष्ण के अनेक सुंदर नामों और रूपों का गुणगान करने वाला लोकप्रिय भजन है। 'अच्युत' का अर्थ है जो कभी नहीं गिरते, और 'केशव' कृष्ण का एक प्रमुख नाम है।",
+    "telugu": "అచ్యుతం కేశవం శ్రీ విష్ణువు మరియు కృష్ణుని అనేక అందమైన నామాలు మరియు రూపాలను కీర్తించే ప్రసిద్ధ భజన. 'అచ్యుత' అంటే పడిపోని వాడు, 'కేశవ' కృష్ణుని ముఖ్య నామం."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "अच्युतम् केशवम् रामनारायणम्\nकृष्णदामोदरम् वासुदेवम् हरिम् ।\nश्रीधरम् माधवम् गोपिकावल्लभम्\nजानकीनायकम् रामचन्द्रम् भजे ।।",
+      "transliteration": "Acyutam Keśavam Rāmanārāyaṇam\nKṛṣṇadāmodaraṃ Vāsudevaṃ Harim |\nŚrīdharaṃ Mādhavaṃ Gopikāvallabhaṃ\nJānakīnāyakaṃ Rāmacandraṃ Bhaje ||",
+      "hindi": "मैं अच्युत, केशव, राम, नारायण,\nकृष्ण, दामोदर, वासुदेव, हरि,\nश्रीधर, माधव, गोपिकावल्लभ,\nजानकीनायक रामचंद्र का भजन करता हूँ।",
+      "telugu": "అచ్యుతం కేశవం రామనారాయణం\nకృష్ణదామోదరం వాసుదేవం హరిం;\nశ్రీధరం మాధవం గోపికావల్లభం\nజానకీనాయకం రామచంద్రం భజే.",
+      "english": "I worship Achyuta, Keshava, Rama, Narayana, Krishna, Damodara, Vasudeva, Hari, Shridhara, Madhava, the beloved of the Gopis, the Lord of Janaki (Sita) — Ramachandra.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "रामं रघुनंदनम् रावणान्तकरम्\nराजीवलोचनम् रामभद्रं भजे ।\nरामं रघुनंदनम् रावणान्तकरम्\nराजीवलोचनम् रामभद्रं भजे ।।",
+      "transliteration": "Rāmaṃ Raghunandanaṃ Rāvaṇāntakaraṃ\nRājīvalocanaṃ Rāmabhadraṃ Bhaje |\nRāmaṃ Raghunandanaṃ Rāvaṇāntakaraṃ\nRājīvalocanaṃ Rāmabhadraṃ Bhaje ||",
+      "hindi": "मैं राम का भजन करता हूँ — रघुनंदन, रावण का अंत करने वाले,\nकमल-नयन, रामभद्र।",
+      "telugu": "రఘునందనం, రావణాంతకరం, రాజీవ లోచనం —\nరామభద్రం భజే.",
+      "english": "I worship Rama — the joy of the Raghu dynasty, the slayer of Ravana, the lotus-eyed, the auspicious Rama.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "हे राम हे राम हे राम हे राम\nहे कृष्ण हे कृष्ण हे कृष्ण हे कृष्ण ।\nहे नारायण हे नारायण हे नारायण\nहे गोविन्द हे गोविन्द हे गोविन्द ।।",
+      "transliteration": "He Rāma He Rāma He Rāma He Rāma\nHe Kṛṣṇa He Kṛṣṇa He Kṛṣṇa He Kṛṣṇa |\nHe Nārāyaṇa He Nārāyaṇa He Nārāyaṇa\nHe Govinda He Govinda He Govinda ||",
+      "hindi": "हे राम! हे राम! हे राम! हे राम!\nहे कृष्ण! हे कृष्ण! हे कृष्ण! हे कृष्ण!\nहे नारायण! हे नारायण! हे नारायण!\nहे गोविन्द! हे गोविन्द! हे गोविन्द!",
+      "telugu": "హే రామ! హే రామ! హే రామ! హే రామ!\nహే కృష్ణ! హే కృష్ణ! హే కృష్ణ! హే కృష్ణ!\nహే నారాయణ! హే నారాయణ! హే నారాయణ!\nహే గోవింద! హే గోవింద! హే గోవింద!",
+      "english": "O Rama! O Rama! O Rama! O Rama! O Krishna! O Krishna! O Krishna! O Krishna! O Narayana! O Narayana! O Narayana! O Govinda! O Govinda! O Govinda!",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "वसुदेव सुतम् देवम् कंस चाणूर मर्दनम् ।\nदेवकी परमानन्दम् कृष्णम् वन्दे जगद्गुरुम् ।।",
+      "transliteration": "Vasudeva Sutaṃ Devam Kaṃsa Cāṇūra Mardanam |\nDevakī Paramānandaṃ Kṛṣṇam Vande Jagadgurum ||",
+      "hindi": "वसुदेव के पुत्र, देव, कंस और चाणूर के मर्दक,\nदेवकी के परमानंद — उन जगद्गुरु कृष्ण को मैं वंदन करता हूँ।",
+      "telugu": "వసుదేవ పుత్రుడు, దేవుడు, కంస చాణూర మర్దనుడు,\nదేవకీ పరమానందం — ఆ జగద్గురు కృష్ణుడికి వందనం.",
+      "english": "I salute Krishna — the son of Vasudeva, the divine one, the destroyer of Kamsa and Chanura, the supreme bliss of Devaki, the Guru of the universe.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "अधरं मधुरं वदनं मधुरं\nनयनं मधुरं हसितं मधुरम् ।\nहृदयं मधुरं गमनं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Adharaṃ Madhuraṃ Vadanaṃ Madhuraṃ\nNayanaṃ Madhuraṃ Hasitaṃ Madhuram |\nHṛdayaṃ Madhuraṃ Gamanaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "अधर मधुर, मुख मधुर, नेत्र मधुर, हँसी मधुर;\nहृदय मधुर, चाल मधुर — हे मधुराधिपति सब कुछ मधुर।",
+      "telugu": "పెదవులు మధురం, ముఖం మధురం, నేత్రాలు మధురం, నవ్వు మధురం;\nహృదయం మధురం, నడక మధురం — హే మధురాధిపతి సర్వం మధురం.",
+      "english": "Sweet are your lips, sweet is your face, sweet are your eyes, sweet is your smile; sweet is your heart, sweet is your gait — O Lord of sweetness, all of you is sweet.",
+      "audioUrl": ""
+    }
+  ]
+}

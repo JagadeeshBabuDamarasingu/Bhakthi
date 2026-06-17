@@ -1,7 +1,9 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import '../../core/services/favorites_service.dart';
 import '../../core/theme/app_theme.dart';
+import '../../data/models/models.dart';
+import '../../data/repositories/content_repository.dart';
+import '../../shared/widgets/verse_display.dart';
 
 class StotraDetailScreen extends StatefulWidget {
   final String stotraId;
@@ -12,21 +14,38 @@ class StotraDetailScreen extends StatefulWidget {
 }
 
 class _StotraDetailScreenState extends State<StotraDetailScreen> {
-  Map<String, dynamic>? _stotra;
+  Stotra? _stotra;
   int _langIndex = 0;
+  bool _isFav = false;
 
   static const _langs = ['Sanskrit', 'Transliteration', 'English'];
-  static const _keys  = ['sanskrit', 'transliteration', 'english'];
 
   @override
   void initState() {
     super.initState();
-    rootBundle
-        .loadString('assets/content/stotras/${widget.stotraId}.json')
-        .then((s) => setState(() => _stotra = jsonDecode(s)));
+    _isFav = FavoritesService.instance.isStotraFavorited(widget.stotraId);
+    ContentRepository.instance
+        .getStotra(widget.stotraId)
+        .then((s) { if (mounted) setState(() => _stotra = s); });
   }
 
-  Color get _color => deityColors[_stotra?['deity'] as String? ?? ''] ?? BhakthiColors.rust;
+  Future<void> _toggleFav() async {
+    await FavoritesService.instance.toggleStotra(widget.stotraId);
+    if (mounted) {
+      setState(() => _isFav = FavoritesService.instance.isStotraFavorited(widget.stotraId));
+    }
+  }
+
+  Color get _color =>
+      deityColors[_stotra?.deity ?? ''] ?? BhakthiColors.rust;
+
+  String _verseText(Verse v) {
+    switch (_langIndex) {
+      case 1: return v.transliteration;
+      case 2: return v.english;
+      default: return v.sanskrit;
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -39,10 +58,9 @@ class _StotraDetailScreenState extends State<StotraDetailScreen> {
       );
     }
 
-    final title = _stotra!['title'] as Map<String, dynamic>;
-    final verses = (_stotra!['verses'] as List<dynamic>)
-        .cast<Map<String, dynamic>>()
-        .where((v) => !((v['sanskrit'] as String? ?? '').startsWith('// TODO')))
+    final stotra = _stotra!;
+    final verses = stotra.verses
+        .where((v) => !v.sanskrit.startsWith('// TODO'))
         .toList();
 
     return Scaffold(
@@ -53,19 +71,28 @@ class _StotraDetailScreenState extends State<StotraDetailScreen> {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(title['english'] as String? ?? '',
+            Text(stotra.title.english,
                 style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w600)),
-            if ((title['sanskrit'] as String? ?? '').isNotEmpty)
-              Text(title['sanskrit'] as String,
+            if ((stotra.title.sanskrit ?? '').isNotEmpty)
+              Text(stotra.title.sanskrit!,
                   style: const TextStyle(
                       fontSize: 11,
                       color: Colors.white54,
                       fontWeight: FontWeight.w400)),
           ],
         ),
+        actions: [
+          IconButton(
+            onPressed: _toggleFav,
+            icon: Icon(
+              _isFav ? Icons.bookmark : Icons.bookmark_border,
+              color: _isFav ? BhakthiColors.amber : Colors.white,
+            ),
+          ),
+        ],
       ),
       body: Column(children: [
-        _LangBar(
+        LangBar(
             langs: _langs,
             selected: _langIndex,
             color: _color,
@@ -78,12 +105,11 @@ class _StotraDetailScreenState extends State<StotraDetailScreen> {
             itemBuilder: (_, i) {
               final v = verses[i];
               final isSanskrit = _langIndex == 0;
-              return _VerseCard(
-                index: v['index'] as int? ?? i + 1,
-                text: v[_keys[_langIndex]] as String? ?? '',
+              return VerseCard(
+                index: v.index,
+                text: _verseText(v),
                 isSanskrit: isSanskrit,
-                transliteration:
-                    isSanskrit ? (v['transliteration'] as String? ?? '') : '',
+                transliteration: isSanskrit ? v.transliteration : '',
                 color: _color,
               );
             },
@@ -94,141 +120,3 @@ class _StotraDetailScreenState extends State<StotraDetailScreen> {
   }
 }
 
-class _LangBar extends StatelessWidget {
-  final List<String> langs;
-  final int selected;
-  final Color color;
-  final ValueChanged<int> onSelect;
-  const _LangBar(
-      {required this.langs,
-      required this.selected,
-      required this.color,
-      required this.onSelect});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      color: Colors.white,
-      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-      child: Row(
-        children: List.generate(langs.length, (i) {
-          final active = i == selected;
-          return Expanded(
-            child: GestureDetector(
-              onTap: () => onSelect(i),
-              child: Container(
-                margin: EdgeInsets.only(right: i < langs.length - 1 ? 8 : 0),
-                padding: const EdgeInsets.symmetric(vertical: 8),
-                decoration: BoxDecoration(
-                  color: active ? color : Colors.transparent,
-                  borderRadius: BorderRadius.circular(999),
-                  border: Border.all(
-                      color: active ? color : BhakthiColors.lineStrong),
-                ),
-                child: Text(langs[i],
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                        fontSize: 12,
-                        fontWeight: active ? FontWeight.w600 : FontWeight.w400,
-                        color: active ? Colors.white : BhakthiColors.textSecondary,
-                        letterSpacing: 0.1)),
-              ),
-            ),
-          );
-        }),
-      ),
-    );
-  }
-}
-
-class _VerseCard extends StatelessWidget {
-  final int index;
-  final String text;
-  final bool isSanskrit;
-  final String transliteration;
-  final Color color;
-
-  const _VerseCard({
-    required this.index,
-    required this.text,
-    required this.isSanskrit,
-    required this.transliteration,
-    required this.color,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(14),
-        border: Border.all(color: BhakthiColors.line),
-      ),
-      child: IntrinsicHeight(
-        child: Row(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            // Left color bar — roadmap weeks block style
-            Container(
-              width: 4,
-              decoration: BoxDecoration(
-                color: color,
-                borderRadius: const BorderRadius.horizontal(
-                    left: Radius.circular(13)),
-              ),
-            ),
-            Expanded(
-              child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    // Zero-padded index
-                    Text(
-                      index.toString().padLeft(2, '0'),
-                      style: TextStyle(
-                        fontSize: 11,
-                        fontWeight: FontWeight.w700,
-                        color: color,
-                        letterSpacing: 0.5,
-                        fontFeatures: const [FontFeature.tabularFigures()],
-                      ),
-                    ),
-                    const SizedBox(height: 10),
-                    // Main text
-                    Text(
-                      text,
-                      style: TextStyle(
-                        fontSize: isSanskrit ? 19 : 15,
-                        color: BhakthiColors.deepInk,
-                        height: 1.8,
-                        fontWeight: isSanskrit ? FontWeight.w600 : FontWeight.w400,
-                        letterSpacing: isSanskrit ? -0.2 : 0.1,
-                      ),
-                    ),
-                    // Transliteration below Sanskrit
-                    if (isSanskrit && transliteration.isNotEmpty) ...[
-                      const SizedBox(height: 12),
-                      Container(height: 1, color: BhakthiColors.line),
-                      const SizedBox(height: 12),
-                      Text(
-                        transliteration,
-                        style: const TextStyle(
-                          fontSize: 12,
-                          color: BhakthiColors.textSecondary,
-                          height: 1.75,
-                          fontStyle: FontStyle.italic,
-                          letterSpacing: 0.2,
-                        ),
-                      ),
-                    ],
-                  ],
-                ),
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}

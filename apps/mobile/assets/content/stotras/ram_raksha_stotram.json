@@ -1,0 +1,83 @@
+{
+  "id": "ram_raksha_stotram",
+  "title": {
+    "sanskrit": "रामरक्षास्तोत्रम्",
+    "transliteration": "Rāmarakṣāstotram",
+    "english": "Ram Raksha Stotram — The Protective Armour of Rama",
+    "hindi": "राम रक्षा स्तोत्रम्",
+    "telugu": "రామ రక్షా స్తోత్రం"
+  },
+  "deity": "rama",
+  "type": "stotra",
+  "tags": ["rama", "protection", "raksha", "kavach", "daily recitation", "Budha Kaushika"],
+  "description": {
+    "english": "The Ram Raksha Stotram is a divine armour in verse composed by the sage Budha Kaushika, revealed in a dream by Lord Shiva himself. Each verse invokes Rama's name to protect every part of the devotee's body, mind, and life. It is one of the most powerful protective stotras in Hinduism, and is traditionally recited daily — especially in the morning — for total protection from all harm.",
+    "hindi": "राम रक्षा स्तोत्रम् महर्षि बुध कौशिक द्वारा रचित दिव्य कवच है, जो स्वयं शिव ने उन्हें स्वप्न में प्रकट किया था। प्रत्येक श्लोक भक्त के शरीर, मन और जीवन की रक्षा के लिए राम के नाम का आह्वान करता है। प्रतिदिन, विशेषतः प्रातःकाल पाठ करने से सर्वत्र रक्षा होती है।",
+    "telugu": "రామ రక్షా స్తోత్రం మహర్షి బుధ కౌశికుడు రచించిన దివ్య కవచం, శివుడే స్వప్నంలో ప్రకటించాడు. ప్రతి శ్లోకం భక్తుని శరీరం, మనస్సు, జీవితం అన్ని భాగాలకు రాముని నామంతో రక్షణ ప్రసాదిస్తుంది. ప్రతిదినం, ముఖ్యంగా ఉదయం పఠించడం సర్వ రక్షణ ఇస్తుంది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "चरितं रघुनाथस्य शतकोटिप्रविस्तरम् ।\nएकैकमक्षरं पुंसां महापातकनाशनम् ।।\nध्यात्वा नीलोत्पलश्यामं रामं राजीवलोचनम् ।\nजानकीलक्ष्मणोपेतं जटामुकुटमण्डितम् ।।",
+      "transliteration": "Caritaṃ raghu-nāthasya śata-koṭi-pravistaram |\nEkaikam akṣaraṃ puṃsāṃ mahā-pātaka-nāśanam ||\nDhyātvā nīlotpala-śyāmaṃ Rāmaṃ rājīva-locanam |\nJānakī-lakṣmaṇopetaṃ jaṭā-mukuṭa-maṇḍitam ||",
+      "english": "The story of Raghunatha (Rama) extends across a hundred crore verses — each and every syllable of it destroys the gravest sins of all beings. Meditate on Rama — dark as a blue lotus, lotus-eyed, accompanied by Janaki (Sita) and Lakshmana, adorned with a crown of matted hair.",
+      "telugu": "రఘునాథుని చరిత్ర వంద కోట్ల విస్తారంలో ఉంది — దానిలో ఒక్కొక్క అక్షరం మానవుల మహాపాపాలను నాశనం చేస్తుంది. నీల కమలంలా నల్లగా, కమలలోచనుడు, జానకీ లక్ష్మణ సమేతుడు, జటా మకుటంతో అలంకృతుడైన రాముని ధ్యానించు.",
+      "hindi": "रघुनाथ का चरित्र सौ करोड़ श्लोकों में विस्तृत है — उसके एक-एक अक्षर से मनुष्यों के महापाप नष्ट होते हैं। नीले कमल जैसे श्यामवर्ण, कमलनेत्र, जानकी-लक्ष्मण सहित, जटामुकुट से सुशोभित राम का ध्यान करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "सासितूणधनुर्बाणपाणिं नक्तंचरान्तकम् ।\nस्वलीलया जगत्त्रातुमाविर्भूतमजं विभुम् ।।\nरामरक्षां पठेत्प्राज्ञः पापघ्नीं सर्वकामदाम् ।\nशिरो मे राघवः पातु भालं दशरथात्मजः ।।",
+      "transliteration": "Sa-asitūṇa-dhanuḥ-bāṇa-pāṇiṃ naktaṃcarāntakam |\nSvalīlayā jagat-trātum āvirbhūtam ajaṃ vibhum ||\nRāmarakṣāṃ paṭhet prājñaḥ pāpa-ghnīṃ sarva-kāmadām |\nŚiro me Rāghavaḥ pātu bhālaṃ daśarathātmajaḥ ||",
+      "english": "Holding a quiver, a bow, and arrows in his hands; the destroyer of the night-wanderers (rakshasas); the unborn, all-pervading Lord, who manifested to protect the worlds through his divine sport — let the wise one recite this Ram Raksha Stotram, the destroyer of sins and grantor of all desires. May Raghava protect my head; may the son of Dasharatha protect my forehead.",
+      "telugu": "అమ్ముల పొది, విల్లు, బాణాలు చేతిలో ధరించి; రాక్షసులను నశింపజేసే; స్వీయ లీలతో జగత్తును రక్షించేందుకు అవతరించిన అజుడు, విభువు. పాపఘ్ని, సర్వకామద రామ రక్షను జ్ఞాని పఠించుగాక. రాఘవుడు నా శిరస్సును రక్షించుగాక; దశరథ పుత్రుడు నా నుదుటిని రక్షించుగాక.",
+      "hindi": "जो तरकस, धनुष और बाण हाथों में लिए, राक्षसों के अंतक; अपनी लीला से जगत की रक्षा के लिए प्रकट हुए अज, विभु हैं। पापनाशक, सर्वकामदाय इस राम रक्षा का पाठ करे विद्वान। राघव मेरे मस्तक की रक्षा करें; दशरथ पुत्र मेरे भाल की रक्षा करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "कौसल्येयो दृगौ पातु विश्वामित्रप्रियः श्रुती ।\nघ्राणं पातु मखत्राता मुखं सौमित्रिवत्सलः ।।\nजिह्वां विद्यानिधिः पातु कण्ठं भरतवन्दितः ।\nस्कन्धौ दिव्यायुधः पातु भुजौ भग्नेशकार्मुकः ।।",
+      "transliteration": "Kausaly-eyo dṛgau pātu viśvāmitrapriyaḥ śrutī |\nGhrāṇaṃ pātu makhatrātā mukhaṃ saumitrīvatsalaḥ ||\nJihvāṃ vidyānidhiḥ pātu kaṇṭhaṃ bharata-vanditaḥ |\nSkandhau divyāyudhaḥ pātu bhujau bhagneśakārmukaḥ ||",
+      "english": "May Kausalya's son (Rama) protect my eyes; may the beloved of Vishwamitra protect my ears; may the protector of the sacrifice (Rama, who guarded Vishwamitra's yajna) protect my nose; may the one dear to Lakshmana protect my face. May the treasure of knowledge protect my tongue; may the one worshipped by Bharata protect my throat; may the wielder of divine weapons protect my shoulders; may the breaker of Shiva's bow protect my arms.",
+      "telugu": "కౌసల్య పుత్రుడు నా కళ్ళను రక్షించుగాక; విశ్వామిత్రునికి ప్రియుడు నా చెవులు రక్షించుగాక; యజ్ఞ రక్షకుడు నా నాసికను రక్షించుగాక; సౌమిత్రి వత్సలుడు నా ముఖాన్ని రక్షించుగాక. విద్యానిధి నా నాలుకను రక్షించుగాక; భరత వందితుడు నా కంఠాన్ని రక్షించుగాక; దివ్యాయుధధారి నా భుజాలు రక్షించుగాక; శివ ధనుర్ భంజకుడు నా చేతులు రక్షించుగాక.",
+      "hindi": "कौसल्यानंदन मेरी आँखें रक्षित करें; विश्वामित्रप्रिय मेरे कानों की रक्षा करें; यज्ञरक्षक मेरी नाक की; सौमित्रिवत्सल मेरे मुख की रक्षा करें। विद्यानिधि मेरी जिह्वा की; भरतवंदित मेरे कंठ की; दिव्यायुध मेरे कंधों की; शिवधनुर्भंजक मेरी भुजाओं की रक्षा करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "करौ सीतापतिः पातु हृदयं जामदग्न्यजित् ।\nमध्यं पातु खरध्वंसी नाभिं जाम्बवदाश्रयः ।।\nसुग्रीवेशः कटी पातु सक्थिनी हनुमत्प्रभुः ।\nऊरू रघूत्तमः पातु रक्षःकुलविनाशकृत् ।।",
+      "transliteration": "Karau Sītāpatiḥ pātu hṛdayaṃ jāmadagnya-jit |\nMadhyaṃ pātu khara-dhvaṃsī nābhiṃ jāmbavad-āśrayaḥ ||\nSugrīveśaḥ kaṭī pātu sakthini hanumat-prabhuḥ |\nŪrū raghūttamaḥ pātu rakṣaḥ-kula-vināśakṛt ||",
+      "english": "May the lord of Sita protect my hands; may the victor of Parashurama (son of Jamadagni) protect my heart; may the destroyer of Khara protect my waist; may the refuge of Jambavant protect my navel. May the lord of Sugriva protect my hips; may the master of Hanuman protect my thighs; may the best of the Raghus, the destroyer of the race of rakshasas, protect my upper legs.",
+      "telugu": "సీతాపతి నా చేతులు రక్షించుగాక; జమదగ్న్య జిత్తు నా హృదయం రక్షించుగాక; ఖర ధ్వంసి నా నడుమును రక్షించుగాక; జాంబవంత ఆశ్రయుడు నా నాభిని రక్షించుగాక. సుగ్రీవేశుడు నా నడికట్టు రక్షించుగాక; హనుమత్ ప్రభువు నా తొడలు రక్షించుగాక; రక్షః కుల వినాశకుడైన రఘూత్తముడు నా ఊరువులు రక్షించుగాక.",
+      "hindi": "सीतापति मेरे हाथों की; जमदग्निजयी मेरे हृदय की; खरध्वंसी मेरी कमर की; जाम्बवदाश्रय मेरी नाभि की रक्षा करें। सुग्रीवेश मेरे कटि की; हनुमत्प्रभु मेरी जंघाओं की; रक्षःकुलविनाशक रघुश्रेष्ठ मेरी ऊरुओं की रक्षा करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "जानुनी सेतुकृत्पातु जङ्घे दशमुखान्तकः ।\nपादौ बिभीषणश्रेष्ठः पातु रामोऽखिलं वपुः ।।\nएतां रामबलोपेतां रक्षां यः सुकृती पठेत् ।\nस चिरायुः सुखी पुत्री विजयी विनयी भवेत् ।।",
+      "transliteration": "Jānunī setu-kṛt pātu jaṅghe daśa-mukhāntakaḥ |\nPādau vibhīṣaṇa-śreṣṭhaḥ pātu Rāmo'khilaṃ vapuḥ ||\nEtāṃ Rāma-balopetāṃ rakṣāṃ yaḥ sukṛtī paṭhet |\nSa cirāyuḥ sukhī putrī vijayī vinayī bhavet ||",
+      "english": "May the builder of the bridge protect my knees; may the destroyer of the ten-headed Ravana protect my shins; may the excellent Vibhishana's lord protect my feet; may Rama protect my entire body. The virtuous person who reads this Ram Raksha, endowed with the strength of Rama — shall enjoy long life, happiness, a good son, victory, and humility.",
+      "telugu": "సేతు నిర్మాత నా మోకాళ్ళు రక్షించుగాక; దశముఖ నాశకుడు నా కాళ్ళను రక్షించుగాక; విభీషణ శ్రేష్ఠుడైన రాముడు నా పాదాలు రక్షించుగాక; రాముడు నా అఖిల శరీరాన్ని రక్షించుగాక. రాముని బలంతో కూడిన ఈ రక్షను పఠించే సుకృతి దీర్ఘాయుష్మంతుడు, సుఖి, పుత్రవంతుడు, విజయశాలి, వినయవంతుడు అవుతాడు.",
+      "hindi": "सेतुकर्ता मेरे घुटनों की; दशमुखांतक मेरी पिंडलियों की; विभीषणश्रेष्ठ मेरे पैरों की; और राम मेरे सम्पूर्ण शरीर की रक्षा करें। राम के बल से युक्त इस रक्षा का पाठ करने वाला सुकृती मनुष्य चिरायु, सुखी, पुत्रवान, विजयी और विनयशील होता है।",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "पातालभूतलव्योम चारिणश्छद्मचारिणः ।\nन द्रष्टुमपि शक्तास्ते रक्षितं रामनामभिः ।।\nरामेति रामभद्रेति रामचन्द्रेति वा स्मरन् ।\nनरो न लिप्यते पापैर्भुक्तिं मुक्तिं च विन्दति ।।",
+      "transliteration": "Pātāla-bhūtala-vyoma-cāriṇaś chadma-cāriṇaḥ |\nNa draṣṭum api śaktās te rakṣitaṃ Rāmanāmabhiḥ ||\nRāmeti Rāma-bhadreti Rāmacandhreti vā smaran |\nNaro na lipyate pāpair bhuktiṃ muktiṃ ca vindati ||",
+      "english": "Those who roam in the netherworlds, on the earth, or in the sky — those who move in disguise — they are unable even to look at one who is protected by the names of Rama. Remembering 'Rama', 'Ramabhadra', or 'Ramachandra', a person is not tainted by sins and attains both enjoyment and liberation.",
+      "telugu": "పాతాళంలో, భూతలంలో, ఆకాశంలో, మారువేషంలో సంచరించే వారు — రాముని నామాలతో రక్షించబడిన వాడిని చూసే శక్తికూడా వారికి ఉండదు. 'రామ', 'రామభద్ర', 'రామచంద్ర' అని స్మరించే మానవుడు పాపాలతో లేపబడడు, భోగమూ మోక్షమూ పొందుతాడు.",
+      "hindi": "पाताल, भूतल और आकाश में विचरण करने वाले, छद्मचारी — वे राम के नाम से रक्षित व्यक्ति को देख भी नहीं सकते। 'राम', 'रामभद्र' या 'रामचन्द्र' का स्मरण करने वाला मनुष्य पापों से लिप्त नहीं होता और भोग एवं मोक्ष दोनों पाता है।",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "रामं दूर्वादलश्यामं पद्माक्षं पीतवाससम् ।\nस्तुवन्ति नामभिर्दिव्यैर्न ते संसारिणो नरः ।।\nरामं लक्ष्मणपूर्वजं रघुवरं सीतापतिं सुन्दरम् ।\nकाकुत्स्थं करुणार्णवं गुणनिधिं विप्रप्रियं धार्मिकम् ।\nराजेन्द्रं सत्यसन्धं दशरथनयं श्यामलं शान्तमूर्तिं ।\nवन्दे लोकाभिरामं रघुकुलतिलकं राघवं रावणारिम् ।।",
+      "transliteration": "Rāmaṃ dūrvādala-śyāmaṃ padmākṣaṃ pīta-vāssam |\nStuvanti nāmabhir divyair na te saṃsāriṇo naraḥ ||\nRāmaṃ lakṣmaṇa-pūrvajaṃ raghu-varaṃ Sītāpatiṃ sundaram |\nKākutsthaṃ karuṇārṇavaṃ guṇa-nidhiṃ vipra-priyaṃ dhārmikam |\nRājendraṃ satya-sandhaṃ daśaratha-nayaṃ śyāmalaṃ śānta-mūrtim |\nVande lokābhirāmaṃ raghu-kula-tilakaṃ Rāghavaṃ Rāvaṇārim ||",
+      "english": "Those who praise Rama — dark as the dūrvā grass blade, lotus-eyed, clad in yellow — with divine names, they are not bound to the cycle of worldly existence. I salute Rama, the elder of Lakshmana, the best of the Raghus, the beautiful lord of Sita; the Kakutstha, the ocean of compassion, the treasury of virtues, beloved by the learned, the righteous; the king of kings, of true vows, born of Dasharatha, dark and of peaceful form — the joy of the worlds, the jewel of the Raghu clan, Raghava, the enemy of Ravana.",
+      "telugu": "దూర్వాదళంలా నల్లగా, పద్మాక్షుడు, పీతాంబర ధారి అయిన రాముని దివ్య నామాలతో స్తుతించేవారు సంసారులు కారు. లక్ష్మణుని అగ్రజుడు, రఘువరుడు, సుందరుడు, సీతాపతి, కాకుత్స్థుడు, కరుణాసాగరుడు, గుణనిధి, విప్రప్రియుడు, ధార్మికుడు; రాజేంద్రుడు, సత్యసంధుడు, దశరథ తనయుడు, శ్యాముడు, శాంతమూర్తి — లోకాభిరాముడు, రఘుకుల తిలకుడు, రాఘవుడు, రావణ వైరి అయిన రాముని వందిస్తున్నాను.",
+      "hindi": "दूर्वादल जैसे श्यामल, पद्माक्ष, पीतवस्त्र राम की दिव्य नामों से स्तुति करने वाले संसारी नहीं होते। लक्ष्मण के अग्रज, रघुश्रेष्ठ, सुंदर, सीतापति, काकुत्स्थ, करुणासागर, गुणनिधि, विप्रप्रिय, धार्मिक; राजेन्द्र, सत्यसंध, दशरथनंदन, श्याम, शांतमूर्ति — लोकाभिराम, रघुकुलतिलक, राघव, रावणारि को मैं वन्दन करता हूँ।",
+      "audioUrl": ""
+    }
+  ]
+}

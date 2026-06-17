@@ -1,0 +1,55 @@
+{
+  "id": "lakshmi",
+  "name": {
+    "sanskrit": "लक्ष्मीः",
+    "transliteration": "Lakṣmīḥ",
+    "english": "Lakshmi",
+    "hindi": "लक्ष्मी",
+    "telugu": "లక్ష్మీ దేవి"
+  },
+  "aliases": [
+    "Shri", "Padma", "Kamala", "Mahalakshmi", "Indira",
+    "Ramaa", "Padmapriya", "Padmahasta", "Bhargavi",
+    "Harivallabha", "Vasundharaa", "Lokmata", "Narayana-priya"
+  ],
+  "tradition": "vaishnava",
+  "associatedDay": "friday",
+  "primaryMantra": "om_shreem_mahalakshmiyei_namaha",
+  "imageAsset": "assets/images/Lakshmi.png",
+  "description": {
+    "english": "Goddess Lakshmi is the consort of Lord Vishnu and the goddess of wealth, fortune, prosperity, beauty, and auspiciousness. She is one of the principal deities in Hinduism, revered across all traditions. Seated on a lotus and flanked by elephants, she is depicted with four arms — holding lotus flowers and showering gold coins. Her presence symbolizes all that is abundant and beautiful in the universe.",
+    "hindi": "देवी लक्ष्मी भगवान विष्णु की पत्नी और धन, समृद्धि, सौंदर्य और सौभाग्य की देवी हैं। वे कमल पर विराजमान हैं और चार भुजाओं में कमल पुष्प और स्वर्ण मुद्राएं धारण करती हैं।",
+    "telugu": "లక్ష్మీ దేవి విష్ణుమూర్తి భార్య మరియు సంపద, శ్రేయస్సు, అందం మరియు శుభం యొక్క దేవత. ఆమె పద్మాసనంపై కూర్చుని, నాలుగు చేతులలో పద్మాలు మరియు బంగారు నాణేలు ధరిస్తుంది."
+  },
+  "significance": {
+    "english": "Lakshmi represents the divine principle of abundance — not just material wealth, but spiritual prosperity, inner beauty, and cosmic harmony. She dwells in homes where cleanliness, gratitude, and devotion are practiced. Worshipping Lakshmi is said to destroy poverty, grant prosperity, and bestow the four goals of life: dharma, artha, kama, and moksha.",
+    "hindi": "लक्ष्मी केवल भौतिक धन की नहीं, आध्यात्मिक समृद्धि, सौंदर्य और ब्रह्मांडीय सामंजस्य की देवी हैं। वे उस घर में वास करती हैं जहां स्वच्छता, कृतज्ञता और भक्ति होती है।",
+    "telugu": "లక్ష్మీ దేవి కేవలం ధనానికి మాత్రమే కాదు, ఆధ్యాత్మిక సమృద్ధికి, అందానికి మరియు విశ్వ సాంత్వనకు దేవత."
+  },
+  "iconography": {
+    "lotus": "Padma — purity, beauty, spiritual awakening; she is born from and always holds the lotus",
+    "four_arms": "Four arms represent the four goals of life: dharma, artha, kama, moksha",
+    "gold_coins": "Right lower hand rains gold coins — continuous flow of wealth and abundance",
+    "elephants": "Two white elephants flank her, showering water — royal purification and sovereignty",
+    "red_garment": "Red silk — activity, prosperity, beauty, and divine grace",
+    "owl": "Uluka (owl) as her vehicle — wisdom to perceive in darkness; watchfulness"
+  },
+  "stotras": [
+    "mahalakshmi_ashtakam",
+    "lakshmi_ashtottara",
+    "sri_suktam",
+    "kanakadhara_stotram"
+  ],
+  "mantras": [
+    "om_shreem_mahalakshmiyei_namaha"
+  ],
+  "festivals": [
+    "diwali",
+    "varalakshmi_vratam"
+  ],
+  "pujaGuide": "lakshmi_puja",
+  "colors": ["red", "gold", "lotus pink"],
+  "flowers": ["lotus", "red rose", "marigold", "jasmine"],
+  "offering": "lotus flowers, gold ornaments, turmeric, red cloth",
+  "sacred_number": 8
+}

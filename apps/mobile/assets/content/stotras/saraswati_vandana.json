@@ -1,0 +1,56 @@
+{
+  "id": "saraswati_vandana",
+  "title": {
+    "sanskrit": "सरस्वती वन्दना",
+    "transliteration": "Sarasvatī Vandanā",
+    "english": "Saraswati Vandana — Hymn of Praise to the Goddess of Knowledge",
+    "hindi": "सरस्वती वन्दना",
+    "telugu": "సరస్వతీ వందన"
+  },
+  "deity": "saraswati",
+  "type": "stotra",
+  "tags": ["saraswati", "vandana", "knowledge", "students", "daily"],
+  "description": {
+    "english": "The Saraswati Vandana is a collection of key invocation verses to Goddess Saraswati, the deity of knowledge, wisdom, and the arts. These include the famous 'Ya Kundendu' shloka and other verses from Sanskrit literature. Traditionally recited before beginning any study, examination, or artistic performance.",
+    "hindi": "सरस्वती वंदना ज्ञान, बुद्धि और कला की देवी सरस्वती की स्तुति के मुख्य श्लोकों का संग्रह है। किसी भी पढ़ाई, परीक्षा या कलात्मक प्रदर्शन से पहले पाठ किया जाता है।",
+    "telugu": "సరస్వతీ వందన జ్ఞాన, బుద్ధి మరియు కళల దేవత సరస్వతీ దేవిని స్తుతించే ముఖ్యమైన శ్లోకాల సమాహారం."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।\nया ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता\nसा माम् पातु सरस्वती भगवती निःशेषजाड्यापहा ।।",
+      "transliteration": "Yā Kundendutuṣārahāradhavalā Yā Śubhravāstrāvṛtā\nYā Vīṇāvaradaṇḍamaṇḍitakarā Yā Śvetapadmāsanā |\nYā Brahmācyutaśaṃkaraprabhṛtibhirdevaiḥ Sadā Vanditā\nSā Māṃ Pātu Sarasvatī Bhagavatī Niḥśeṣajāḍyāpahā ||",
+      "hindi": "जो कुन्द, चंद्रमा और हिम के हार के समान श्वेत हैं, जो शुभ्र वस्त्र धारण करती हैं,\nजो वीणा और वरदंड से सुशोभित हाथों वाली हैं, श्वेत कमल पर आसीन हैं;\nजो ब्रह्मा, विष्णु, शंकर आदि देवताओं द्वारा सदा वंदित हैं —\nवे भगवती सरस्वती, जो सम्पूर्ण जड़ता को नष्ट करती हैं, मेरी रक्षा करें।",
+      "telugu": "కుంద, చంద్రుడు, మంచు హారం వలె తెల్లగా ఉండేదానా, తెల్లని వస్త్రాలు ధరించినదానా,\nవీణ మరియు వరదండంతో అలంకరించబడిన చేతులతో శ్వేత పద్మంపై కూర్చున్నదానా;\nబ్రహ్మ, విష్ణు, శంకర ప్రభృతులైన దేవతలచే సదా వందింపబడేదానా —\nసంపూర్ణ జాడ్యాన్ని నాశనం చేసే ఆ సరస్వతీ భగవతి నన్ను రక్షించుగాక.",
+      "english": "She who is as white as the jasmine flower, the moon, and the garland of snow; who is clad in pure white garments; whose hands are adorned with the veena and the boon-granting wand; who is seated on a white lotus; who is ever worshipped by Brahma, Vishnu, Shiva and all the gods — may that divine Saraswati protect me and dispel all my dullness and ignorance.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "शुक्लां ब्रह्मविचारसारपरमाद्यां जगद्व्यापिनीं\nवीणापुस्तकधारिणीमभयदां जाड्यान्धकारापहाम् ।\nहस्ते स्फटिकमालिकां विदधतीं पद्मासने संस्थिताम्\nवन्दे तां परमेश्वरीं भगवतीं बुद्धिप्रदां शारदाम् ।।",
+      "transliteration": "Śuklāṃ Brahmavicārasāraparamādyāṃ Jagadvyāpinīṃ\nVīṇāpustakadhāriṇīmabhayadāṃ Jāḍyāndhakārāpahām |\nHaste Sphaṭikamālikāṃ Vidadhatīṃ Padmāsane Saṃsthitāṃ\nVande Tāṃ Parameśvarīṃ Bhagavatīṃ Buddhipradāṃ Śāradām ||",
+      "hindi": "जो श्वेत हैं, ब्रह्म-विचार का सार हैं, सर्वोच्च आद्या हैं, जगद्व्यापिनी हैं,\nवीणा और पुस्तक धारण करने वाली, अभय देने वाली, जड़ता के अंधकार को दूर करने वाली;\nहाथ में स्फटिक माला लिए, पद्मासन पर विराजमान —\nउन परमेश्वरी, भगवती, बुद्धिप्रदा, शारदा को मैं वंदन करता हूँ।",
+      "telugu": "శుక్లవర్ణురాలు, బ్రహ్మ విచారసారం, పరమాద్యురాలు, జగద్వ్యాపినీ,\nవీణా పుస్తకాలు ధరించిన, అభయమిచ్చే, జాడ్యాంధకారాన్ని తొలగించే;\nస్ఫటిక మాల చేతపట్టి పద్మాసనంపై ఉన్న —\nఆ పరమేశ్వరీ భగవతీ బుద్ధిప్రదా శారదకు వందనం.",
+      "english": "I salute that supreme Sharada — who is white, the essence of contemplation on Brahman, the primordial first, pervading the universe; who holds the veena and the book, who bestows fearlessness and removes the darkness of dullness; who holds a crystal rosary in her hand and is seated on a lotus — that sovereign Goddess who bestows wisdom.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ।।",
+      "transliteration": "Sarasvati Namastubhyaṃ Varade Kāmarūpiṇi |\nVidyārambhaṃ Kariṣyāmi Siddhirbhavatu Me Sadā ||",
+      "hindi": "हे सरस्वती, हे वरदायिनी, हे इच्छानुसार रूप धारण करने वाली,\nआपको नमस्कार। मैं विद्या आरंभ करता हूँ — मुझे सदा सिद्धि प्राप्त हो।",
+      "telugu": "సరస్వతీ నమస్తుభ్యం వరదే కామరూపిణి,\nవిద్యారంభం కరిష్యామి సిద్ధిర్భవతు మే సదా.",
+      "english": "Salutations to you, O Saraswati, giver of boons, you who can take any form you wish — I am beginning my studies; may I always achieve success.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "यो वेदादौ स्वरः प्रोक्तो वेदान्ते च प्रतिष्ठितः ।\nतस्य प्रकृतिलीनस्य यः परस्स महेश्वरः ।।",
+      "transliteration": "Yo Vedādau Svaraḥ Prokto Vedānte Ca Pratiṣṭhitaḥ |\nTasya Prakṛtilīnasya Yaḥ Parasya Maheśvaraḥ ||",
+      "hindi": "वेद के आदि में जो ओंकार स्वर प्रकट किया गया और वेदान्त में जो स्थापित है,\nप्रकृति में लीन उस परम महेश्वर का स्वरूप सरस्वती हैं।",
+      "telugu": "వేదాదిలో స్వరంగా చెప్పబడి వేదాంతంలో స్థాపించబడిన,\nప్రకృతిలో లీనమైన ఆ పరమ మహేశ్వరుని స్వరూపమే సరస్వతి.",
+      "english": "The sound that is proclaimed at the beginning of the Vedas and established at their end — that supreme Maheshvara who dissolves back into nature — Saraswati is that supreme reality manifested as speech.",
+      "audioUrl": ""
+    }
+  ]
+}

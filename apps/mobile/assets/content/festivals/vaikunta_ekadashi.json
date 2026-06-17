@@ -1,0 +1,62 @@
+{
+  "id": "vaikunta_ekadashi",
+  "name": {
+    "english": "Vaikunta Ekadashi — The Eleventh Day that Opens Vaikuntha's Gates",
+    "hindi": "वैकुण्ठ एकादशी",
+    "telugu": "వైకుంఠ ఏకాదశి",
+    "sanskrit": "वैकुण्ठैकादशी"
+  },
+  "deity": "vishnu",
+  "tithiMonth": 9,
+  "tithiDay": 11,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "December–January",
+  "duration_days": 1,
+  "significance": {
+    "english": "Vaikunta Ekadashi is the most sacred Ekadashi (eleventh tithi) of the year, falling on the Shukla Ekadashi of Margashirsha (also called Mokshada Ekadashi) or in some traditions the Shukla Ekadashi of Pausha month. Vishnu devotees believe that on this day the gates of Vaikuntha (the divine abode of Vishnu) open — those who observe this Ekadashi by fasting, staying awake through the night, and worshipping Vishnu are said to attain liberation directly. The Bhagavad Gita was also narrated by Krishna to Arjuna on this day on the battlefield of Kurukshetra. In South India, this is celebrated with great grandeur at Tirupati and other Vishnu temples.",
+    "hindi": "वैकुण्ठ एकादशी मार्गशीर्ष शुक्ल एकादशी को आती है। यह सबसे पावन एकादशी मानी जाती है। इस दिन वैकुण्ठ के द्वार खुलते हैं और उपवास-जागरण से मोक्ष मिलता है। इसी दिन कृष्ण ने अर्जुन को गीता का उपदेश दिया था।",
+    "telugu": "వైకుంఠ ఏకాదశి మార్గశిర శుక్ల ఏకాదశి నాడు వస్తుంది. ఈ రోజు వైకుంఠ ద్వారాలు తెరుచుకుంటాయని విశ్వాసం. ఉపవాసం, రాత్రి మేలుకోవడం, విష్ణు పూజ చేస్తే మోక్షం లభిస్తుంది. కృష్ణుడు అర్జునుడికి గీత బోధించిన రోజు కూడా ఇదే."
+  },
+  "mythology": {
+    "english": "According to the Padma Purana, there was a demon named Muran who could not be defeated. Lord Vishnu fought him for 1000 years until Vishnu retired to a cave to rest. The demon entered the cave to kill Vishnu in his sleep. But a divine maiden emanated from Vishnu's body and killed Muran with a thunderbolt. Vishnu was pleased and asked this maiden her name — she said she had no name. Vishnu named her Ekadashi and declared that anyone who fasted on this day would never have to be reborn. Also: it is the Ekadashi on which Bhishma asked Yudhishthira about Vishnu Sahasranama — and the day Bhagavad Gita was born.",
+    "hindi": "पद्म पुराण के अनुसार मुर नामक दैत्य को देवी एकादशी ने मारा। विष्णु ने उसे एकादशी नाम दिया और वरदान दिया कि इस दिन उपवास से पुनर्जन्म नहीं होगा। यही वह दिन भी है जब गीता का प्रकटीकरण हुआ।",
+    "telugu": "పద్మ పురాణం ప్రకారం మురుడనే రాక్షసుని దేవి ఏకాదశి సంహరించింది. విష్ణువు ఆమెకు ఏకాదశి అని పేరు పెట్టి ఈ రోజు ఉపవాసించే వారికి పునర్జన్మ ఉండదని వరమిచ్చాడు. గీత ప్రకటమైన రోజు కూడా ఇదే."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a strict fast — no food and ideally no water (or only water/fruits for those who cannot fast fully)",
+      "Wake up before sunrise, take a bath, and start the day with Vishnu Sahasranama or 'Om Namo Narayanaya'",
+      "Visit a Vishnu temple through the specially opened 'Swarga Dwaram' (heavenly gate)",
+      "Perform Vishnu puja with tulsi leaves, lotus flowers, panchamrita",
+      "Recite Vishnu Sahasranama Dhyana shlokas, Vishnu Ashtottara",
+      "Stay awake through the night reciting Vishnu stotras and bhajans",
+      "Read or listen to Bhagavad Gita — this is the day it was narrated",
+      "Break the fast on the next day (Dwadashi) only after morning puja"
+    ],
+    "telugu": [
+      "నిర్జల ఉపవాసం ఉండండి (శక్తి లేనివారు ఫలాహారం తినవచ్చు)",
+      "తెల్లవారుజామున స్నానం చేసి 'ఓం నమో నారాయణాయ' జపించండి",
+      "విష్ణు ఆలయంలో స్వర్గ ద్వారం ద్వారా ప్రవేశించి దర్శనం చేయండి",
+      "తులసి, పంచామృతంతో విష్ణు పూజ చేయండి",
+      "విష్ణు సహస్రనామ ధ్యాన శ్లోకాలు, విష్ణు అష్టోత్తరం పఠించండి",
+      "రాత్రి జాగారంతో భగవద్గీత వినండి / పఠించండి",
+      "తర్వాత రోజు ద్వాదశిలో ఉదయం పూజ తర్వాత ఉపవాసం విడవాలి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Complete fast is ideal. On Dwadashi (the day after), the fast is broken auspiciously with tulsi water and panchamrita. Traditional Dwadashi prasad includes fruits, papad (rice crackers), and sabudana (sago) khichdi. Avoid grains, salt, and non-vegetarian food on Ekadashi.",
+    "telugu": "పూర్తి ఉపవాసం ఉండాలి. ద్వాదశి నాడు తులసి నీళ్ళు, పంచామృతంతో ఉపవాసం విడవాలి. ఏకాదశి నాడు ధాన్యం, ఉప్పు, మాంసాహారం నిషిద్ధం."
+  },
+  "associatedStotras": [
+    "vishnu_sahasranama_dhyana",
+    "vishnu_ashtottara",
+    "achyutam_keshavam"
+  ],
+  "regionalNames": [
+    { "region": "Tamil Nadu", "localName": "Vaikunta Ekadashi / Mukkoti Ekadashi" },
+    { "region": "Andhra / Telangana", "localName": "Vaikunta Ekadashi (Swarga Dvara)" },
+    { "region": "Karnataka", "localName": "Vaikunta Ekadashi" },
+    { "region": "North India", "localName": "Mokshada Ekadashi" },
+    { "region": "Tirupati", "localName": "Vaikunta Ekadashi (most celebrated Vishnu festival)" }
+  ]
+}

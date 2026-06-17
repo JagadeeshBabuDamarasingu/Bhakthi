@@ -1,0 +1,74 @@
+{
+  "id": "shiva_panchakshara_stotram",
+  "title": {
+    "sanskrit": "शिवपञ्चाक्षरस्तोत्रम्",
+    "transliteration": "Śivapañcākṣarastotram",
+    "english": "Shiva Panchakshara Stotram — Hymn on the Five Syllables of Shiva",
+    "hindi": "शिव पञ्चाक्षर स्तोत्रम्",
+    "telugu": "శివ పంచాక్షర స్తోత్రం"
+  },
+  "deity": "shiva",
+  "type": "stotra",
+  "tags": ["shiva", "panchakshara", "om namah shivaya", "shankaracharya", "daily"],
+  "description": {
+    "english": "The Shiva Panchakshara Stotram is a devotional hymn composed by Adi Shankaracharya on the five sacred syllables 'Na-Ma-Shi-Va-Ya' (Om Namah Shivaya). Each of the five main verses meditates on one of the five syllables, revealing its cosmic significance. The Panchakshara (five letters) represents the five elements (earth, water, fire, air, space) and is considered the most potent mantra of the Shaiva tradition.",
+    "hindi": "शिव पञ्चाक्षर स्तोत्र आदि शंकराचार्य रचित 'न-म-शि-व-य' पाँच अक्षरों पर ध्यान करने वाला भक्तिपूर्ण स्तोत्र है। पंचाक्षर पाँच तत्वों का प्रतीक है।",
+    "telugu": "శివ పంచాక్షర స్తోత్రం ఆది శంకరాచార్యుడు రచించిన 'న-మ-శి-వ-య' అనే ఐదు అక్షరాలపై ధ్యానం చేసే భక్తి స్తోత్రం. పంచాక్షరం పంచభూతాలకు ప్రతీకం."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "नागेन्द्रहाराय त्रिलोचनाय\nभस्माङ्गरागाय महेश्वराय ।\nनित्याय शुद्धाय दिगम्बराय\nतस्मै 'न'काराय नमः शिवाय ।।",
+      "transliteration": "Nāgendrahārāya Trilocanāya\nBhasmāṅgarāgāya Maheśvarāya |\nNityāya Śuddhāya Digambarāya\nTasmai 'Na'kārāya Namaḥ Śivāya ||",
+      "hindi": "जो सर्पों का हार धारण करते हैं, त्रिनेत्रधारी, भस्म से अंग रंजित,\nमहेश्वर, नित्य, शुद्ध, दिगम्बर —\nउस 'न' अक्षर स्वरूप शिव को नमस्कार।",
+      "telugu": "నాగేంద్ర హారముగలవాడు, త్రినేత్రుడు, విభూతి భూషితుడు,\nమహేశ్వరుడు, నిత్యుడు, శుద్ధుడు, దిగంబరుడు —\nఆ 'న' అక్షరస్వరూప శివునకు నమస్కారం.",
+      "english": "Salutations to Shiva — who wears the king of serpents as a garland, who has three eyes, whose body is smeared with ash, the Great Lord, the eternal, the pure, the one clad in the directions (naked as the sky) — salutations to Shiva who is the syllable 'Na'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "मन्दाकिनीसलिलचन्दनचर्चिताय\nनन्दीश्वरप्रमथनाथमहेश्वराय ।\nमन्दारपुष्पबहुपुष्पसुपूजिताय\nतस्मै 'म'काराय नमः शिवाय ।।",
+      "transliteration": "Mandākinīsalilacandanacarcitāya\nNandīśvarapramathanāthamaheshvarāya |\nMandārapuṣpabahupuṣpasupūjitāya\nTasmai 'Ma'kārāya Namaḥ Śivāya ||",
+      "hindi": "जो मंदाकिनी के जल और चंदन से पूजित हैं,\nनंदीश्वर और प्रमथ-नाथ महेश्वर,\nमंदार और अनेक पुष्पों से सुपूजित —\nउस 'म' अक्षर स्वरूप शिव को नमस्कार।",
+      "telugu": "మందాకినీ జలముతో చందనముతో పూజింపబడేవాడు,\nనందీశ్వర ప్రమథనాథ మహేశ్వరుడు,\nమందారపుష్పాది బహు పుష్పాలతో సుపూజితుడు —\nఆ 'మ' అక్షరస్వరూప శివునకు నమస్కారం.",
+      "english": "Salutations to Shiva — worshipped with the waters of the Mandakini (Ganga) and sandalwood paste, the Great Lord who is master of Nandi and the Pramatha hosts, worshipped with mandara and many other flowers — salutations to Shiva who is the syllable 'Ma'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "शिवाय गौरीवदनाब्जवृन्द-\nसूर्याय दक्षाध्वरनाशकाय ।\nश्रीनीलकण्ठाय वृषध्वजाय\nतस्मै 'शि'काराय नमः शिवाय ।।",
+      "transliteration": "Śivāya Gaurīvadanābjavṛnda-\nSūryāya Dakṣādhvaranāśakāya |\nŚrīnīlakaṇṭhāya Vṛṣadhvajāya\nTasmai 'Śi'kārāya Namaḥ Śivāya ||",
+      "hindi": "जो शिव हैं, गौरी के मुख-कमल के लिए सूर्य समान,\nदक्ष के यज्ञ के विनाशक, श्रीनीलकण्ठ,\nवृषभ-ध्वज (बैल के चिह्न वाले) —\nउस 'शि' अक्षर स्वरूप शिव को नमस्कार।",
+      "telugu": "శివుడు, గౌరీ ముఖపద్మానికి సూర్యుడు,\nదక్ష యజ్ఞ వినాశకుడు, శ్రీ నీలకంఠుడు,\nవృషభ ధ్వజుడు —\nఆ 'శి' అక్షరస్వరూప శివునకు నమస్కారం.",
+      "english": "Salutations to Shiva — who is auspiciousness itself, who is like the sun for the lotus-face of Gauri (Parvati), the destroyer of Daksha's sacrifice, the blue-throated Lord Neelakantha, whose banner bears the bull — salutations to Shiva who is the syllable 'Shi'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "वशिष्ठकुम्भोद्भवगौतमार्य-\nमुनीन्द्रदेवार्चितशेखराय ।\nचन्द्रार्कवैश्वानरलोचनाय\nतस्मै 'व'काराय नमः शिवाय ।।",
+      "transliteration": "Vaśiṣṭhakumbhodbhavagautamārya-\nMunīndradevārcitaśekharāya |\nCandrārkavaiśvānaralocanāya\nTasmai 'Va'kārāya Namaḥ Śivāya ||",
+      "hindi": "जो वशिष्ठ, अगस्त्य, गौतम आदि महर्षियों और देवताओं द्वारा पूजित हैं,\nजिनके नेत्र चंद्रमा, सूर्य और अग्नि हैं —\nउस 'व' अक्षर स्वरूप शिव को नमस्कार।",
+      "telugu": "వసిష్ఠ, కుంభోద్భవ, గౌతమ ప్రభృతి మహర్షులు మరియు దేవతలచే పూజింపబడే శేఖరుడు,\nచంద్ర, సూర్య, అగ్నులే నేత్రాలుగా గలవాడు —\nఆ 'వ' అక్షరస్వరూప శివునకు నమస్కారం.",
+      "english": "Salutations to Shiva — whose crown is worshipped by the great sages Vasishtha, Agastya, Gautama and by the gods, whose three eyes are the moon, the sun, and fire — salutations to Shiva who is the syllable 'Va'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "यक्षस्वरूपाय जटाधराय\nपिनाकहस्ताय सनातनाय ।\nदिव्याय देवाय दिगम्बराय\nतस्मै 'य'काराय नमः शिवाय ।।",
+      "transliteration": "Yakṣasvarūpāya Jaṭādharāya\nPinākahastāya Sanātanāya |\nDivyāya Devāya Digambarāya\nTasmai 'Ya'kārāya Namaḥ Śivāya ||",
+      "hindi": "जो यक्ष-स्वरूप हैं, जटाधारी हैं, पिनाक धनुष धारण किए हैं,\nसनातन, दिव्य, देव, दिगम्बर —\nउस 'य' अक्षर स्वरूप शिव को नमस्कार।",
+      "telugu": "యక్ష స్వరూపుడు, జటాధారి, పినాక ధనుస్సు చేపట్టినవాడు,\nసనాతనుడు, దివ్యుడు, దేవుడు, దిగంబరుడు —\nఆ 'య' అక్షరస్వరూప శివునకు నమస్కారం.",
+      "english": "Salutations to Shiva — who has the form of the yaksha, who wears matted locks, who holds the Pinaka bow in his hand, the eternal, the divine, the god, clad in the directions — salutations to Shiva who is the syllable 'Ya'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "पञ्चाक्षरमिदं पुण्यं यः पठेच्छिवसंनिधौ ।\nशिवलोकमवाप्नोति शिवेन सह मोदते ।।",
+      "transliteration": "Pañcākṣaramidaṃ Puṇyaṃ Yaḥ Paṭhecchivasannidhau |\nŚivalokamavāpnoti Śivena Saha Modate ||",
+      "hindi": "जो शिव की उपस्थिति में इस पवित्र पंचाक्षर स्तोत्र का पाठ करता है,\nवह शिवलोक को प्राप्त होता है और शिव के साथ आनंद भोगता है।",
+      "telugu": "శివ సన్నిధిలో ఈ పవిత్ర పంచాక్షర స్తోత్రాన్ని పఠించేవాడు\nశివలోకాన్ని పొంది శివునితో ఆనందిస్తాడు.",
+      "english": "Whoever recites this sacred Panchakshara prayer in the presence of Shiva shall attain the world of Shiva and rejoice there with Shiva himself.",
+      "audioUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "rama_ashtottara",
+  "title": {
+    "sanskrit": "श्रीरामाष्टोत्तरशतनामस्तोत्रम्",
+    "transliteration": "Śrīrāmāṣṭottaraśatanāmastotram",
+    "english": "Rama Ashtottara Shatanamavali — 108 Names of Lord Rama",
+    "hindi": "श्री राम अष्टोत्तर शतनाम स्तोत्र",
+    "telugu": "శ్రీ రామ అష్టోత్తర శతనామ స్తోత్రం"
+  },
+  "deity": "rama",
+  "type": "ashtottara",
+  "tags": ["rama", "108 names", "ashtottara", "namavali", "ram navami", "ramayana"],
+  "description": {
+    "english": "The Rama Ashtottara Shatanamavali contains 108 sacred names of Lord Rama — the perfect king, ideal husband, devoted son, and the seventh avatara of Vishnu. Each name reflects one of his immutable qualities: from Ramachandra (moon of the Raghu clan) to Maryada-purushottama (the perfectly righteous). Chanting these names on Ram Navami, on Sundays, or daily brings purity, protection, and liberation.",
+    "hindi": "श्री राम अष्टोत्तर शतनामावली में भगवान राम के 108 पवित्र नाम हैं। रामनवमी, रविवार या प्रतिदिन पाठ पवित्रता, रक्षा और मोक्ष प्रदान करता है।",
+    "telugu": "శ్రీ రామ అష్టోత్తరంలో రాముని 108 పవిత్ర నామాలు ఉన్నాయి. రామ నవమి, ఆదివారం లేదా నిత్యం పఠించడం పవిత్రత, రక్షణ, మోక్షం ఇస్తుంది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "ॐ रामाय नमः । ॐ रामभद्राय नमः । ॐ रामचन्द्राय नमः ।\nॐ शाश्वताय नमः । ॐ राजीवलोचनाय नमः ।\nॐ श्रीमते नमः । ॐ राजेन्द्राय नमः ।\nॐ रघुपुङ्गवाय नमः । ॐ जानकीवल्लभाय नमः ।।",
+      "transliteration": "Oṃ Rāmāya Namaḥ | Oṃ Rāmabhadrāya Namaḥ | Oṃ Rāmacaṃdrāya Namaḥ |\nOṃ Śāśvatāya Namaḥ | Oṃ Rājīvalochanāya Namaḥ |\nOṃ Śrīmate Namaḥ | Oṃ Rājendre Namaḥ |\nOṃ Raghupuṃgavāya Namaḥ | Oṃ Jānakīvallabhāya Namaḥ ||",
+      "english": "1. Rama (the joy of Raghu's lineage) 2. Ramabhadra (the auspicious Rama) 3. Ramachandra (moon of the Raghus) 4. Shashvata (the eternal) 5. Rajiivalochana (lotus-eyed) 6. Shrimate (the glorious) 7. Rajendra (king of kings) 8. Raghupungava (bull of the Raghus) 9. Janakivallabha (beloved of Janaki/Sita)",
+      "telugu": "1. రామ 2. రామభద్ర 3. రామచంద్ర 4. శాశ్వత 5. రాజీవ లోచన 6. శ్రీమత్ 7. రాజేంద్ర 8. రఘు పుంగవ 9. జానకీ వల్లభ",
+      "hindi": "1. राम 2. रामभद्र 3. रामचन्द्र 4. शाश्वत 5. राजीवलोचन 6. श्रीमत् 7. राजेन्द्र 8. रघुपुंगव 9. जानकीवल्लभ",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "ॐ जैत्राय नमः । ॐ जितामित्राय नमः । ॐ जनार्दनाय नमः ।\nॐ विश्वामित्रप्रियाय नमः । ॐ दान्ताय नमः ।\nॐ शरणत्राणतत्पराय नमः । ॐ वाल्यायै नमः ।\nॐ वालिप्रमथनाय नमः । ॐ वायुपुत्रप्रियाय नमः ।।",
+      "transliteration": "Oṃ Jaitrāya Namaḥ | Oṃ Jitāmitrāya Namaḥ | Oṃ Janārdanāya Namaḥ |\nOṃ Viśvāmitrapriyāya Namaḥ | Oṃ Dāntāya Namaḥ |\nOṃ Śaraṇatrāṇatatparāya Namaḥ | Oṃ Vālyāyai Namaḥ |\nOṃ Vālipramathanāya Namaḥ | Oṃ Vāyuputrapriyāya Namaḥ ||",
+      "english": "10. Jaitra (the victorious) 11. Jitamitra (one who conquered enemies) 12. Janardana (worshipped by all) 13. Vishvamitra-priya (beloved of Vishwamitra) 14. Danta (the self-controlled) 15. Sharana-trana-tatpara (ever ready to protect those who surrender) 16. Vali-vadha (the one who killed Vali) 17. Valiprammathana (destroyer of Vali) 18. Vayuputra-priya (dear to son of Vayu/Hanuman)",
+      "telugu": "10. జైత్ర 11. జితామిత్ర 12. జనార్దన 13. విశ్వామిత్ర ప్రియ 14. దాంత 15. శరణ త్రాణ తత్పర 16. వాలి వధ 17. వాలి ప్రమథన 18. వాయు పుత్ర ప్రియ",
+      "hindi": "10. जैत्र 11. जितामित्र 12. जनार्दन 13. विश्वामित्रप्रिय 14. दान्त 15. शरणत्राणतत्पर 16. वालिवध 17. वालिप्रमथन 18. वायुपुत्रप्रिय",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "ॐ वत्सलाय नमः । ॐ वत्सवर्धनाय नमः । ॐ समुद्रवरदाय नमः ।\nॐ शूराय नमः । ॐ जितशत्रवे नमः ।\nॐ विधिस्तुताय नमः । ॐ वैकुण्ठाय नमः ।\nॐ पूर्णकामाय नमः । ॐ भरताग्रजाय नमः ।।",
+      "transliteration": "Oṃ Vatsalāya Namaḥ | Oṃ Vatsavardhanāya Namaḥ | Oṃ Samudra-varadāya Namaḥ |\nOṃ Śūrāya Namaḥ | Oṃ Jitaśatrave Namaḥ |\nOṃ Vidhis tutāya Namaḥ | Oṃ Vaikuṇṭhāya Namaḥ |\nOṃ Pūrṇakāmāya Namaḥ | Oṃ Bharatāgrajāya Namaḥ ||",
+      "english": "19. Vatsala (affectionate like a parent to calf) 20. Vatsavardhana (nourisher of the devoted) 21. Samudra-varada (boon-giver to the ocean) 22. Shura (the brave) 23. Jitashatru (conqueror of enemies) 24. Vidhis-tuta (praised by Brahma) 25. Vaikuntha (dweller of Vaikuntha) 26. Purnakama (of fulfilled desires) 27. Bharatagraja (elder brother of Bharata)",
+      "telugu": "19. వత్సల 20. వత్సవర్ధన 21. సముద్ర వరద 22. శూర 23. జిత శత్రు 24. విధిస్తుత 25. వైకుంఠ 26. పూర్ణ కామ 27. భరతాగ్రజ",
+      "hindi": "19. वत्सल 20. वत्सवर्धन 21. समुद्रवरद 22. शूर 23. जितशत्रु 24. विधिस्तुत 25. वैकुण्ठ 26. पूर्णकाम 27. भरताग्रज",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "ॐ सर्वपुण्याधिकफलाय नमः । ॐ स्मृतसर्वाघनाशनाय नमः । ॐ आदिपुरुषाय नमः ।\nॐ परमपुरुषाय नमः । ॐ महापुरुषाय नमः ।\nॐ पुण्योदयाय नमः । ॐ दयासाराय नमः ।\nॐ पुराणपुरुषोत्तमाय नमः । ॐ स्मितवक्त्राय नमः ।।",
+      "transliteration": "Oṃ Sarvapuṇyādhikaphalāya Namaḥ | Oṃ Smṛtasarvāgha-nāśanāya Namaḥ | Oṃ Ādipuruṣāya Namaḥ |\nOṃ Paramapuruṣāya Namaḥ | Oṃ Mahāpuruṣāya Namaḥ |\nOṃ Puṇyodayāya Namaḥ | Oṃ Dayāsārāya Namaḥ |\nOṃ Purāṇapuruṣottamāya Namaḥ | Oṃ Smitavaktrāya Namaḥ ||",
+      "english": "28. Sarva-punya-adhika-phala (fruit beyond all merit) 29. Smrita-sarva-agha-nashana (remover of all sins when remembered) 30. Adipurusha (the primordial person) 31. Parama-purusha (the Supreme Person) 32. Maha-purusha (the great man) 33. Punyodaya (rise of merit) 34. Daya-sara (essence of compassion) 35. Purana-purushottama (Supreme Person of the Puranas) 36. Smitavaktra (smiling-faced)",
+      "telugu": "28. సర్వ పుణ్యాధిక ఫల 29. స్మృత సర్వాఘ నాశన 30. ఆది పురుష 31. పరమ పురుష 32. మహా పురుష 33. పుణ్యోదయ 34. దయా సార 35. పురాణ పురుషోత్తమ 36. స్మిత వక్త్ర",
+      "hindi": "28. सर्वपुण्याधिकफल 29. स्मृतसर्वाघनाशन 30. आदिपुरुष 31. परमपुरुष 32. महापुरुष 33. पुण्योदय 34. दयासार 35. पुराणपुरुषोत्तम 36. स्मितवक्त्र",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "ॐ मित्रवत्सलाय नमः । ॐ कोसलेयाय नमः । ॐ दशरथात्मजाय नमः ।\nॐ सीतानाथाय नमः । ॐ लक्ष्मीपतये नमः ।\nॐ सत्यसन्धाय नमः । ॐ सत्यधर्माय नमः ।\nॐ सत्यवतायै नमः । ॐ मर्यादापुरुषोत्तमाय नमः ।।",
+      "transliteration": "Oṃ Mitravatsalāya Namaḥ | Oṃ Kosaleyāya Namaḥ | Oṃ Daśarathātmajāya Namaḥ |\nOṃ Sītānāthāya Namaḥ | Oṃ Lakṣmīpataye Namaḥ |\nOṃ Satyasandhāya Namaḥ | Oṃ Satyadharmāya Namaḥ |\nOṃ Satyavatāyai Namaḥ | Oṃ Maryādāpuruṣottamāya Namaḥ ||",
+      "english": "37. Mitravatsala (affectionate towards friends) 38. Kosaleya (of the kingdom of Kosala) 39. Dasharatha-atmaja (son of Dasharatha) 40. Sitanatha (lord of Sita) 41. Lakshmipati (lord of Lakshmi) 42. Satya-sandha (bound by truth) 43. Satya-dharma (of true dharma) 44. Satyavrata (vow of truth) 45. Maryada-purushottama (the Perfect Righteous Man)",
+      "telugu": "37. మిత్రవత్సల 38. కోసలేయ 39. దశరథ ఆత్మజ 40. సీతానాథ 41. లక్ష్మీపతి 42. సత్యసంధ 43. సత్య ధర్మ 44. సత్యవ్రత 45. మర్యాదా పురుషోత్తమ",
+      "hindi": "37. मित्रवत्सल 38. कोसलेय 39. दशरथात्मज 40. सीतानाथ 41. लक्ष्मीपति 42. सत्यसंध 43. सत्यधर्म 44. सत्यव्रत 45. मर्यादापुरुषोत्तम",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "ॐ काकुत्स्थाय नमः । ॐ पितृभक्ताय नमः । ॐ मातृभक्ताय नमः ।\nॐ गुरुभक्ताय नमः । ॐ एकपत्निव्रताय नमः ।\nॐ धीराय नमः । ॐ वीराय नमः ।\nॐ गम्भीराय नमः । ॐ वनवासिने नमः ।।",
+      "transliteration": "Oṃ Kākutsthāya Namaḥ | Oṃ Pitṛbhaktāya Namaḥ | Oṃ Mātṛbhaktāya Namaḥ |\nOṃ Gurubhaktāya Namaḥ | Oṃ Ekapatnivratāya Namaḥ |\nOṃ Dhīrāya Namaḥ | Oṃ Vīrāya Namaḥ |\nOṃ Gambhīrāya Namaḥ | Oṃ Vanavāsine Namaḥ ||",
+      "english": "46. Kakutstha (of the Kakutstha dynasty) 47. Pitri-bhakta (devoted to father) 48. Matri-bhakta (devoted to mother) 49. Guru-bhakta (devoted to the teacher) 50. Eka-patni-vrata (faithful husband to one wife) 51. Dhira (the steadfast) 52. Vira (the brave) 53. Gambhira (the grave/deep) 54. Vanavasi (dweller of the forest)",
+      "telugu": "46. కాకుత్స్థ 47. పితృభక్త 48. మాతృభక్త 49. గురుభక్త 50. ఏకపత్నీవ్రత 51. ధీర 52. వీర 53. గంభీర 54. వనవాసి",
+      "hindi": "46. काकुत्स्थ 47. पितृभक्त 48. मातृभक्त 49. गुरुभक्त 50. एकपत्नीव्रत 51. धीर 52. वीर 53. गम्भीर 54. वनवासी",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "ॐ पावनाय नमः । ॐ लोकपावनाय नमः । ॐ दीनबन्धवे नमः ।\nॐ तापसप्रियाय नमः । ॐ रक्षःकुलविनाशकाय नमः ।\nॐ विभीषणपरित्रात्रे नमः । ॐ सेतुबन्धकाय नमः ।\nॐ सुग्रीवसहायाय नमः । ॐ सर्वदेवनमस्कृताय नमः ।।",
+      "transliteration": "Oṃ Pāvanāya Namaḥ | Oṃ Lokapāvanāya Namaḥ | Oṃ Dīnabandhave Namaḥ |\nOṃ Tāpasapriyāya Namaḥ | Oṃ Rakṣaḥkula-vināśakāya Namaḥ |\nOṃ Vibhīṣaṇa-paritrātre Namaḥ | Oṃ Setubanddhakāya Namaḥ |\nOṃ Sugrīvasahāyāya Namaḥ | Oṃ Sarvadevanamaskkṛtāya Namaḥ ||",
+      "english": "55. Pavana (the pure) 56. Lokapavana (purifier of worlds) 57. Diinabandhu (friend of the afflicted) 58. Tapasa-priya (dear to the ascetics) 59. Rakshas-kula-vinashaka (destroyer of the rakshasa clan) 60. Vibhishana-paritra (protector/saviour of Vibhishana) 61. Setu-bandhaka (builder of the bridge) 62. Sugriva-sahaya (helper of Sugriva) 63. Sarva-deva-namaskrita (saluted by all the gods)",
+      "telugu": "55. పావన 56. లోకపావన 57. దీన బంధు 58. తాపస ప్రియ 59. రక్షఃకుల వినాశక 60. విభీషణ పరిత్రాతృ 61. సేతు బంధక 62. సుగ్రీవ సహాయ 63. సర్వ దేవ నమస్కృత",
+      "hindi": "55. पावन 56. लोकपावन 57. दीनबंधु 58. तापसप्रिय 59. रक्षःकुलविनाशक 60. विभीषणपरित्राता 61. सेतुबंधक 62. सुग्रीवसहाय 63. सर्वदेवनमस्कृत",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "ॐ मुनिसंस्तुताय नमः । ॐ विप्रप्रियाय नमः । ॐ धर्मस्थापकाय नमः ।\nॐ कृपालवे नमः । ॐ आर्यधर्मपरिपालकाय नमः ।\nॐ रावणहन्त्रे नमः । ॐ लङ्काधीशाय नमः ।\nॐ जगत्पालकाय नमः । ॐ रामराज्यप्रतिष्ठापनाय नमः ।।",
+      "transliteration": "Oṃ Munisaṃstutāya Namaḥ | Oṃ Viprapriyāya Namaḥ | Oṃ Dharmasthāpakāya Namaḥ |\nOṃ Kṛpālave Namaḥ | Oṃ Ārryadharma-paripālakāya Namaḥ |\nOṃ Rāvaṇahantre Namaḥ | Oṃ Laṃkādhīśāya Namaḥ |\nOṃ Jagatpālakāya Namaḥ | Oṃ Rāmarājya-pratiṣṭhāpanāya Namaḥ ||",
+      "english": "64. Muni-samstuta (praised by sages) 65. Vipra-priya (beloved of the learned) 66. Dharma-sthapaka (establisher of dharma) 67. Kripalava (the compassionate) 68. Arya-dharma-paripaalaka (protector of noble dharma) 69. Ravana-hantr (slayer of Ravana) 70. Lanka-adhisha (lord of Lanka) 71. Jagat-palaka (protector of the universe) 72. Rama-rajya-pratisthaapana (establisher of Rama-rajya)",
+      "telugu": "64. ముని సంస్తుత 65. విప్ర ప్రియ 66. ధర్మ స్థాపక 67. కృపాలవ 68. ఆర్య ధర్మ పరిపాలక 69. రావణ హంత్ర 70. లంకాధీశ 71. జగత్ పాలక 72. రామ రాజ్య ప్రతిష్ఠాపన",
+      "hindi": "64. मुनिसंस्तुत 65. विप्रप्रिय 66. धर्मस्थापक 67. कृपालु 68. आर्यधर्मपरिपालक 69. रावणहंता 70. लंकाधीश 71. जगत्पालक 72. रामराज्यप्रतिष्ठापन",
+      "audioUrl": ""
+    },
+    {
+      "index": 9,
+      "sanskrit": "ॐ अयोध्यापतये नमः । ॐ रघुनाथाय नमः । ॐ भव्यस्वरूपाय नमः ।\nॐ सुन्दरायाय नमः । ॐ शुभाङ्गाय नमः ।\nॐ शुभलक्षणाय नमः । ॐ महाबलाय नमः ।\nॐ महाशक्तये नमः । ॐ महातेजसे नमः ।।",
+      "transliteration": "Oṃ Ayodhyāpataye Namaḥ | Oṃ Raghunaathāya Namaḥ | Oṃ Bhavyasvarūpāya Namaḥ |\nOṃ Sundarāyāya Namaḥ | Oṃ Śubhāṅgāya Namaḥ |\nOṃ Śubhalakṣaṇāya Namaḥ | Oṃ Mahābalāya Namaḥ |\nOṃ Mahāśaktaye Namaḥ | Oṃ Mahātejase Namaḥ ||",
+      "english": "73. Ayodhya-pati (lord of Ayodhya) 74. Raghunaatha (master of the Raghu clan) 75. Bhavya-svarupa (of splendid form) 76. Sundara (beautiful) 77. Shubhanga (of auspicious limbs) 78. Shubha-lakshana (of auspicious marks) 79. Mahavala (of great strength) 80. Mahashakti (of great power) 81. Mahatejasa (of great radiance)",
+      "telugu": "73. అయోధ్యాపతి 74. రఘునాథ 75. భవ్య స్వరూప 76. సుందర 77. శుభాంగ 78. శుభ లక్షణ 79. మహాబల 80. మహాశక్తి 81. మహాతేజస్",
+      "hindi": "73. अयोध्यापति 74. रघुनाथ 75. भव्यस्वरूप 76. सुंदर 77. शुभांग 78. शुभलक्षण 79. महाबल 80. महाशक्ति 81. महातेजस्",
+      "audioUrl": ""
+    },
+    {
+      "index": 10,
+      "sanskrit": "ॐ ब्रह्मण्याय नमः । ॐ नित्याय नमः । ॐ सत्याय नमः ।\nॐ धर्माय नमः । ॐ परमार्थाय नमः ।\nॐ चराचरगुरवे नमः । ॐ समस्तदेवसंस्तुताय नमः ।\nॐ अनन्ताय नमः । ॐ अव्यक्ताय नमः ।।",
+      "transliteration": "Oṃ Brahmaṇyāya Namaḥ | Oṃ Nityāya Namaḥ | Oṃ Satyāya Namaḥ |\nOṃ Dharmāya Namaḥ | Oṃ Paramārthāya Namaḥ |\nOṃ Carācara-gurave Namaḥ | Oṃ Samasta-deva-saṃstutāya Namaḥ |\nOṃ Anantāya Namaḥ | Oṃ Avyaktāya Namaḥ ||",
+      "english": "82. Brahmannya (of Brahman-nature) 83. Nitya (eternal) 84. Satya (truth itself) 85. Dharma (righteousness itself) 86. Paramartha (the highest purpose) 87. Charachara-guru (teacher of the movable and immovable) 88. Samasta-deva-samstuta (praised by all gods) 89. Ananta (the infinite) 90. Avyakta (the unmanifest)",
+      "telugu": "82. బ్రహ్మణ్య 83. నిత్య 84. సత్య 85. ధర్మ 86. పరమార్థ 87. చరాచర గురు 88. సమస్త దేవ సంస్తుత 89. అనంత 90. అవ్యక్త",
+      "hindi": "82. ब्रह्मण्य 83. नित्य 84. सत्य 85. धर्म 86. परमार्थ 87. चराचरगुरु 88. समस्तदेवसंस्तुत 89. अनन्त 90. अव्यक्त",
+      "audioUrl": ""
+    },
+    {
+      "index": 11,
+      "sanskrit": "ॐ पुराणपुरुषाय नमः । ॐ परमेश्वराय नमः । ॐ परमात्मने नमः ।\nॐ सर्वेश्वराय नमः । ॐ सर्वलोकमहेश्वराय नमः ।\nॐ हरये नमः । ॐ नारायणाय नमः ।\nॐ विष्णवे नमः । ॐ अनन्तशयनाय नमः ।।",
+      "transliteration": "Oṃ Purāṇapuruṣāya Namaḥ | Oṃ Parameśvarāya Namaḥ | Oṃ Paramātmane Namaḥ |\nOṃ Sarveśvarāya Namaḥ | Oṃ Sarvaloka-maheśvarāya Namaḥ |\nOṃ Haraye Namaḥ | Oṃ Nārāyaṇāya Namaḥ |\nOṃ Viṣṇave Namaḥ | Oṃ Anantaśayanāya Namaḥ ||",
+      "english": "91. Purana-purusha (the Ancient Person) 92. Parameshvara (the Supreme Lord) 93. Paramatman (the Supreme Soul) 94. Sarveshvara (lord of all) 95. Sarvaloka-maheshvara (great lord of all worlds) 96. Hari (the remover of sins) 97. Narayana (refuge of all) 98. Vishnu (the all-pervading) 99. Anantashayana (resting on the infinite Shesha)",
+      "telugu": "91. పురాణ పురుష 92. పరమేశ్వర 93. పరమాత్మ 94. సర్వేశ్వర 95. సర్వలోక మహేశ్వర 96. హరి 97. నారాయణ 98. విష్ణు 99. అనంత శయన",
+      "hindi": "91. पुराणपुरुष 92. परमेश्वर 93. परमात्मा 94. सर्वेश्वर 95. सर्वलोकमहेश्वर 96. हरि 97. नारायण 98. विष्णु 99. अनंतशयन",
+      "audioUrl": ""
+    },
+    {
+      "index": 12,
+      "sanskrit": "ॐ पीताम्बराय नमः । ॐ चतुर्भुजाय नमः । ॐ महायोगिने नमः ।\nॐ सर्वाधाराय नमः ।\nॐ सर्वभावनाय नमः ।\nॐ भक्तवत्सलाय नमः ।\nॐ जगदानन्दकाराय नमः ।\nॐ श्रीरामाय नमः ।।",
+      "transliteration": "Oṃ Pītāmbarāya Namaḥ | Oṃ Caturbhujāya Namaḥ | Oṃ Mahāyogine Namaḥ |\nOṃ Sarvādhārāya Namaḥ |\nOṃ Sarvabhāvanāya Namaḥ |\nOṃ Bhaktavatsalāya Namaḥ |\nOṃ Jagadānandakārāya Namaḥ |\nOṃ Śrīrāmāya Namaḥ ||",
+      "english": "100. Pitambara (yellow-clad, his cosmic form) 101. Chaturbhuja (four-armed) 102. Mahayogi (the great yogi) 103. Sarvadhara (support of all) 104. Sarvabhavana (dwelling in all beings) 105. Bhaktavatsala (fond of his devotees) 106. Jagadananda-kara (maker of universal joy) 107-108. Sri Rama (the auspicious, joyful, supreme — beginning and end of all names)",
+      "telugu": "100. పీతాంబర 101. చతుర్భుజ 102. మహాయోగి 103. సర్వాధార 104. సర్వభావన 105. భక్తవత్సల 106. జగదానంద కార 107-108. శ్రీ రామ",
+      "hindi": "100. पीताम्बर 101. चतुर्भुज 102. महायोगी 103. सर्वाधार 104. सर्वभावन 105. भक्तवत्सल 106. जगदानंदकार 107-108. श्रीराम",
+      "audioUrl": ""
+    }
+  ]
+}

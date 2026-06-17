@@ -1,0 +1,61 @@
+{
+  "id": "varalakshmi_vratam",
+  "name": {
+    "english": "Varalakshmi Vratam — Friday Fast for the Boon-giving Lakshmi",
+    "hindi": "वरलक्ष्मी व्रतम्",
+    "telugu": "వరలక్ష్మీ వ్రతం",
+    "sanskrit": "वरलक्ष्मीव्रतम्"
+  },
+  "deity": "lakshmi",
+  "tithiMonth": 5,
+  "tithiDay": 13,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "July–August (Friday before or on Shravana Purnima)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Varalakshmi Vratam is observed by married women on the second Friday of the Shravana month (or the Friday closest to the full moon). Women fast and worship Goddess Varalakshmi — 'the Lakshmi who grants boons' — for the health, prosperity, and longevity of their husbands and families. It is particularly significant in South India, especially Andhra Pradesh, Telangana, Karnataka, and Tamil Nadu. The festival is believed to be equivalent to worshipping all eight forms of Lakshmi (Ashta Lakshmi).",
+    "hindi": "वरलक्ष्मी व्रत श्रावण शुक्ल त्रयोदशी के निकटतम शुक्रवार को मनाया जाता है। विवाहित महिलाएँ अपने पति और परिवार की सुख-समृद्धि के लिए उपवास रखती हैं और वरलक्ष्मी की पूजा करती हैं।",
+    "telugu": "వరలక్ష్మీ వ్రతం శ్రావణ మాసంలో పూర్ణిమకు ముందు శుక్రవారం లేదా దగ్గరగా ఉన్న శుక్రవారంనాడు జరుపుతారు. వివాహిత స్త్రీలు భర్త, కుటుంబ సుఖ సమృద్ధి కోసం వరలక్ష్మి వ్రతం చేస్తారు."
+  },
+  "mythology": {
+    "english": "According to the Skanda Purana, Goddess Parvati once asked Lord Shiva which vrata (fast/vow) is easiest to perform but gives the greatest benefit. Shiva described the Varalakshmi Vratam. He narrated the story of Charumati, a virtuous woman of Magadha, who had a dream in which Goddess Lakshmi commanded her to observe this vrata. She performed it faithfully and was blessed with sons, grandchildren, gold, and elephants — her entire family flourished. Varalakshmi, pleased by her devotion, granted all her boons. The goddess's form on this day is adorned with golden ornaments and seated on a golden throne.",
+    "hindi": "स्कंद पुराण के अनुसार, पार्वती के पूछने पर शिव ने इस व्रत का वर्णन किया। मगध की एक सती स्त्री चारुमती को स्वप्न में लक्ष्मी ने यह व्रत करने को कहा। व्रत के फलस्वरूप उसे पुत्र, सोना और हाथी जैसी संपदाएँ मिलीं।",
+    "telugu": "స్కంద పురాణం ప్రకారం పార్వతి శివుడిని ప్రశ్నించగా, శివుడు ఈ వ్రత మహిమ చెప్పాడు. మగధలోని చారుమతి స్వప్నంలో లక్ష్మీ దేవి ఆజ్ఞపై వ్రతం చేసి పుత్రులు, సంపద, ఏనుగులు పొందింది."
+  },
+  "howToObserve": {
+    "english": [
+      "Begin by drawing a rangoli (kolam) at the entrance early in the morning",
+      "Place a kalasha (copper pot) filled with rice and coconut, adorned with mango leaves, at the puja spot",
+      "Tie a yellow thread (sacred thread with 9 knots) around the kalasha — this represents Varalakshmi",
+      "Adorn the kalasha with a saree, blouse, and jewellery — it symbolises the goddess",
+      "Perform puja with turmeric, kumkum, lotus flowers, coconut, and sweets",
+      "Recite Varalakshmi names: Mahalakshmi, Dhanalakshmi, Santanalakshmi, Dhairya Lakshmi, Gaja Lakshmi, Vijaya Lakshmi, Vidya Lakshmi, Adi Lakshmi",
+      "Recite Shri Suktam and Mahalakshmi Ashtakam",
+      "Invite married women (sumangali) for the puja, offer them betel leaves, coconut, bangles, and sweets",
+      "Break the fast in the evening after the puja"
+    ],
+    "telugu": [
+      "ముగ్గు వేసి, కలశం స్థాపించి, మామిడి తోరణంతో అలంకరించండి",
+      "కళాశానికి పసుపు, కుంకుమ, చీర, నగలు అలంకరించి వరలక్ష్మి పూజ చేయండి",
+      "తొమ్మిది ముడులు ఉన్న పసుపు దారం కట్టండి",
+      "శ్రీ సూక్తం, మహాలక్ష్మి అష్టకం పఠించండి",
+      "సుమంగళులకు తాంబూలం, కొబ్బరి, గాజులు, మిఠాయి ఇవ్వండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Naivedyam includes coconut rice (kobbari annam), sweet pongal, fruits, and various sweets. Sumangali prasad typically includes betel leaves, areca nut, turmeric, kumkum, and fruits. No food is consumed until after the evening puja.",
+    "telugu": "కోబ్బరి అన్నం, మీఠా పొంగల్, పళ్ళు, వివిధ మిఠాయిలు నివేదిస్తారు. సాయంత్రం పూజ తర్వాతే ఉపవాసం విడవాలి."
+  },
+  "associatedStotras": [
+    "mahalakshmi_ashtakam",
+    "sri_suktam",
+    "kanakadhara_stotram",
+    "lakshmi_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Andhra Pradesh / Telangana", "localName": "Varalakshmi Vratam (major festival)" },
+    { "region": "Karnataka", "localName": "Varalakshmi Vratam" },
+    { "region": "Tamil Nadu", "localName": "Varalakshmi Nonbu" },
+    { "region": "Maharashtra", "localName": "Varalakshmi Pooja" }
+  ]
+}

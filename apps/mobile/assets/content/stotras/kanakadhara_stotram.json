@@ -1,0 +1,74 @@
+{
+  "id": "kanakadhara_stotram",
+  "title": {
+    "sanskrit": "कनकधारास्तोत्रम्",
+    "transliteration": "Kanakadhārāstotram",
+    "english": "Kanakadhara Stotram — The Hymn that Rained Gold",
+    "hindi": "कनकधारास्तोत्रम्",
+    "telugu": "కనకధారా స్తోత్రం"
+  },
+  "deity": "lakshmi",
+  "type": "stotra",
+  "tags": ["lakshmi", "wealth", "shankaracharya", "gold", "blessing", "prosperity"],
+  "description": {
+    "english": "The Kanakadhara Stotram is a hymn to Goddess Lakshmi composed by Adi Shankaracharya. Legend says that as a young boy begging for alms, a poor woman offered him her last amla (gooseberry) fruit. Moved by her poverty and devotion, the young Shankaracharya composed this stotra on the spot, and Goddess Lakshmi appeared and showered golden amla fruits upon her house. The name means 'stream of gold' (kanaka = gold, dhara = stream/flow). It has twenty-one verses of great beauty.",
+    "hindi": "कनकधारास्तोत्र आदि शंकराचार्य द्वारा देवी लक्ष्मी की स्तुति में रचित है। किंवदंती है कि बालक शंकर को एक दरिद्र महिला ने अपना आखिरी आँवला दिया; इससे प्रभावित होकर शंकराचार्य ने यह स्तोत्र रचा और लक्ष्मी ने उस घर पर स्वर्णिम आँवलों की वर्षा की।",
+    "telugu": "కనకధారా స్తోత్రం ఆది శంకరాచార్యుడు లక్ష్మీ దేవిని స్తుతించి రచించాడు. బాల శంకరుడికి ఒక పేద స్త్రీ తన చివరి ఉసిరికాయ ఇచ్చింది; అందుకు శంకరాచార్యుడు ఈ స్తోత్రం రచించాడు, లక్ష్మీదేవి ఆ ఇంటిపై బంగారు ఉసిరికాయలు వర్షించింది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "अङ्गं हरेः पुलकभूषणमाश्रयन्ती\nभृङ्गाङ्गनेव मुकुलाभरणं तमालम् ।\nअङ्गीकृताखिलविभूतिरपाङ्गलीला\nमाङ्गल्यदास्तु मम मङ्गलदेवतायाः ।।",
+      "transliteration": "Aṅgaṃ Hareḥ Pulakabhūṣaṇamāśrayantī\nBhṛṅgāṅganeva Mukulābharaṇaṃ Tamālam |\nAṅgīkṛtākhilabhūtirapaṅgalīlā\nMāṅgalyadāstu Mama Maṅgaladevtāyāḥ ||",
+      "hindi": "जो हरि के शरीर को आश्रय देती हैं — जैसे भ्रमरी कलियों से लदे तमाल वृक्ष का आश्रय लेती है;\nजिनकी कटाक्ष-लीला समस्त ऐश्वर्य को अपना लेती है —\nवे मंगल-देवता लक्ष्मी मुझे मंगल प्रदान करें।",
+      "telugu": "హరి శరీరాన్ని ఆశ్రయించేది — భ్రమర కళికలతో నిండిన తమాల వృక్షాన్ని ఆశ్రయించినట్లు;\nతన కడగంటి చూపుల లీలతో సమస్త విభూతులను స్వీకరించేది —\nఆ మంగళదేవత లక్ష్మీ నాకు మంగళం ఇవ్వుగాక.",
+      "english": "She who clings to the body of Hari (Vishnu) like a female bee clinging to a kadamba tree laden with blossoms; whose playful sidelong glance encompasses all prosperity — may that auspicious deity Lakshmi bestow blessings upon me.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "मुग्धा मुहुर्विदधती वदने मुरारेः\nप्रेमत्रपाप्रणिहितानि गतागतानि ।\nमाला दृशोर्मधुकरीव महोत्पले या\nसा मे श्रियं दिशतु सागरसम्भवायाः ।।",
+      "transliteration": "Mugdhā Muhurvidadhatī Vadane Murāreḥ\nPrematrapāpraṇihitāni Gatāgatāni |\nMālā Dṛśormadhukrīva Mahotpale Yā\nSā Me Śriyaṃ Diśatu Sāgarasambhavāyāḥ ||",
+      "hindi": "जो भोली-भाली होकर, प्रेम और लज्जा से भरी, मुरारि के मुख की ओर बार-बार देखती हैं;\nजिनकी दृष्टि के दो मधुकर (भ्रमर) जैसे नेत्र विशाल नीलकमल पर टिके हों —\nसागर से उत्पन्न उन लक्ष्मी से मुझे श्री (समृद्धि) प्राप्त हो।",
+      "telugu": "అమాయకంగా, ప్రేమ సిగ్గుతో, మురారి ముఖం వైపు మాటిమాటికి చూసేది;\nరెండు భ్రమరాల వంటి కళ్ళు మహా నీలకమలంపై నిలిపినట్లు —\nసాగర సంభవ లక్ష్మీ నాకు శ్రీ (సంపద) ఇవ్వుగాక.",
+      "english": "She who, innocent and shy with love, repeatedly turns her glance to the face of Murari (Vishnu); whose two bee-like eyes rest upon the great blue lotus — may that Lakshmi born of the ocean bestow prosperity upon me.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "आमीलिताक्षमधिगम्य मुदा मुकुन्दम्\nआनन्दकन्दमनिमेषमनङ्गतन्त्रम् ।\nआकेकरस्थितकनीनिकपक्ष्मनेत्रम्\nभूत्यै भवेन्मम भुजङ्गशयाङ्गनायाः ।।",
+      "transliteration": "Āmīlitākṣamadhigamya Mudā Mukundam\nĀnandakandamanimeṣamanangatanitram |\nĀkekarasthitakanīnikapaśmanetram\nBhūtyai Bhavenmama Bhujaṅgaśayāṅganāyāḥ ||",
+      "hindi": "जो आनंद के कंद, मुकुन्द (विष्णु) के पास आनंद से जा, अर्ध-निमीलित नेत्रों से,\nशेषनाग पर शयन करने वाले की अर्धांगिनी —\nउनसे मेरी समृद्धि हो।",
+      "telugu": "ఆనందకందమైన ముకుందుని దగ్గరకు ఆనందంగా వెళ్ళి, అర్ధ నిమీలిత నేత్రాలతో,\nభుజంగ శయన (విష్ణువు) అంగనగా —\nఆమె నుండి నా భూతి కలుగుగాక.",
+      "english": "She who joyfully approaches Mukunda (Vishnu), the root of all bliss, her eyes half-closed with joy — the beloved of the one who sleeps on the serpent (Ananta Shesha) — may she grant me prosperity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "बाह्वन्तरे मधुजितः श्रितकौस्तुभे या\nहारावलीव हरिनीलमयी विभाति ।\nकामप्रदा भगवतोऽपि कटाक्षमाला\nकल्याणमावहतु मे कमलालयायाः ।।",
+      "transliteration": "Bāhvantare Madhujitaḥ Śritakaustubhe Yā\nHārāvalīva Harīnīlamayī Vibhāti |\nKāmapradā Bhagavato'pi Kaṭākṣamālā\nKalyāṇamāvahatu Me Kamalālayāyāḥ ||",
+      "hindi": "जो मधुजित् (विष्णु) की भुजाओं के बीच, कौस्तुभ मणि पर आश्रित,\nहरे पन्ने की माला-सी प्रकाशित होती हैं;\nजिनकी कटाक्ष-माला भगवान को भी कामनाएँ पूर्ण करती है —\nकमलालया लक्ष्मी मुझे कल्याण प्रदान करें।",
+      "telugu": "మధుజిత్ (విష్ణువు) భుజాల మధ్య కౌస్తుభంపై నిలిచి,\nపచ్చల హారం వలె ప్రకాశించేది;\nభగవంతుడికైనా కోరికలు పూర్తి చేసే కటాక్ష మాల గలది —\nకమలాలయ లక్ష్మీ నాకు కల్యాణమివ్వుగాక.",
+      "english": "She who shines between the arms of Vishnu like a garland of emeralds, resting on the Kaustubha gem; whose chain of glances grants desires even to the Lord — may lotus-dwelling Lakshmi bring welfare to me.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "कालांबुदाळिललितोरसि कैटभारेः\nधाराधरे स्फुरति या तडिदङ्गनेव ।\nमातुः समस्तजगतां महनीयमूर्तिः\nभद्राणि मे दिशतु भार्गवनन्दनायाः ।।",
+      "transliteration": "Kālāmbulālilalathorasi Kaiṭabhāreḥ\nDhārādhari Sphurati Yā Taḍidaṅganeva |\nMātuḥ Samastagajatāṃ Mahanīyamūrtiḥ\nBhadrāṇi Me Diśatu Bhārgavanandanāyāḥ ||",
+      "hindi": "जो काले मेघों के वक्ष पर बिजली-सी चमकती हैं;\nसमस्त जगत की माता, भार्गव (भृगु) की पुत्री, पूज्य मूर्ति —\nवे मुझे शुभ प्रदान करें।",
+      "telugu": "నల్లని మేఘ వక్షస్థలంపై మెరుపు వలె మెరిసేది;\nసమస్త జగత్తుల మాత, భార్గవ నందన, పూజ్య మూర్తి —\nఆమె నాకు శుభాలిచ్చుగాక.",
+      "english": "She who gleams like lightning on the dark cloud-like chest of Vishnu (Kaitabha's foe); the venerable mother of all the worlds, the daughter of sage Bhrigu — may she grant me auspiciousness.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "प्रीत्यै भवन्तु सततं प्रणतस्य सम्पद्\nविष्णोः प्रिया विमलदेहलताविभूषा ।\nयस्याः प्रसादकलया प्रकृतिर्महत्त्वं\nप्राप्ता न किञ्चन तदन्यदपेक्षते वः ।।",
+      "transliteration": "Prītyai Bhavantu Satataṃ Praṇatasya Sampad\nViṣṇoḥ Priyā Vimaladehalatāvibhūṣā |\nYasyāḥ Prasādakalayā Prakṛtirmahatvaṃ\nPrāptā Na Kiñcana Tadanyadapekṣate Vaḥ ||",
+      "hindi": "विष्णु की प्रिया, निर्मल शरीर-लता को विभूषित करने वाली,\nनित्य नमस्कार करने वाले को समृद्धि दें;\nजिनकी कृपा के एक अंश मात्र से प्रकृति को महत्त्व प्राप्त है —\nउन्हें प्राप्त कर कुछ अन्य की अपेक्षा नहीं।",
+      "telugu": "విష్ణువుకు ప్రియమైనది, నిర్మల దేహలతను అలంకరించేది,\nనమస్కరించేవారికి నిత్యం సంపద ఇచ్చేది;\nఆమె కృపా కళతో ప్రకృతి మహత్వం పొందింది —\nఆమె లభించిన తర్వాత మరేమీ అక్కరలేదు.",
+      "english": "May the prosperity of one who bows to her — the beloved of Vishnu who adorns his pure body — be eternal; by a mere fraction of whose grace the material world attains greatness; having obtained her, nothing else is wanting.",
+      "audioUrl": ""
+    }
+  ]
+}

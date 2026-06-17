@@ -1,0 +1,56 @@
+{
+  "id": "krishna",
+  "name": {
+    "sanskrit": "कृष्णः",
+    "transliteration": "Kṛṣṇaḥ",
+    "english": "Krishna",
+    "hindi": "कृष्ण",
+    "telugu": "కృష్ణుడు"
+  },
+  "aliases": [
+    "Govinda", "Gopala", "Murali", "Nandanandana", "Vasudeva",
+    "Madhusudana", "Yadava", "Jagannatha", "Giridhari", "Damodara",
+    "Syamasundara", "Keshava", "Muralidhar", "Devaki-nandana", "Parthasarathi"
+  ],
+  "tradition": "vaishnava",
+  "associatedDay": "wednesday",
+  "primaryMantra": "om_krishnaya_namaha",
+  "imageAsset": "assets/images/Krishna.png",
+  "description": {
+    "english": "Lord Krishna is the eighth avatar of Vishnu and one of the most widely revered deities in Hinduism. He is the divine teacher of the Bhagavad Gita, the beloved cowherd of Vrindavan, the heroic warrior of Kurukshetra, and the supreme being who reveals his universal form (Vishvarupa) to Arjuna. Krishna embodies divine love (bhakti), wisdom (jnana), and action (karma) simultaneously. His life — from childhood pranks in Vrindavan to the philosophical discourse of the Gita — represents the full spectrum of human experience illuminated by divine consciousness.",
+    "hindi": "भगवान कृष्ण विष्णु के आठवें अवतार हैं। वे भगवद्गीता के उपदेशक, वृंदावन के प्रिय गोपाल, और कुरुक्षेत्र के महाभारत युद्ध के नायक हैं।",
+    "telugu": "శ్రీ కృష్ణుడు విష్ణువు యొక్క ఎనిమిదవ అవతారం. ఆయన భగవద్గీత బోధించిన దివ్య గురువు, వృందావనపు ప్రియమైన గోపాలుడు మరియు కురుక్షేత్ర మహాయుద్ధ నాయకుడు."
+  },
+  "significance": {
+    "english": "Krishna's teaching in the Bhagavad Gita is one of humanity's greatest spiritual texts. He teaches the path of selfless action (Nishkama Karma), devotion (Bhakti Yoga), knowledge (Jnana Yoga), and meditation (Raja Yoga). His flute music (bansuri) represents the divine call that awakens the soul. The Radha-Krishna relationship symbolizes the soul's longing for union with the divine. Devotion to Krishna — chanting his names, singing bhajans, remembering his leelas (divine plays) — is considered one of the most accessible paths to liberation.",
+    "hindi": "भगवद्गीता में कृष्ण का उपदेश मानवजाति के सबसे महान आध्यात्मिक ग्रंथों में से एक है। उनकी बांसुरी की धुन आत्मा को जागृत करती है।",
+    "telugu": "భగవద్గీతలో కృష్ణుని బోధ మానవజాతి యొక్క అత్యంత గొప్ప ఆధ్యాత్మిక గ్రంథాలలో ఒకటి. ఆయన వేణువు సంగీతం ఆత్మను మేల్కొల్పుతుంది."
+  },
+  "iconography": {
+    "flute": "Murali — the divine music that calls all souls to return to their source",
+    "peacock_feather": "Worn in his crown — beauty, immortality, divine joy; the peacock destroys snakes (ego)",
+    "yellow_dhoti": "Pitambara — solar radiance, purity, the light of consciousness",
+    "blue_complexion": "Shyama — the infinite sky and boundless ocean; the color of pure consciousness",
+    "cows_and_calves": "As Gopala — the tender of souls; divine love that nurtures without condition",
+    "chakra": "Sudarshana chakra — the cosmic mind; destroyer of delusion",
+    "conch": "Panchajanya — the primal sound; his battle cry that announced the war of dharma"
+  },
+  "stotras": [
+    "madhurashtakam",
+    "krishna_ashtottara",
+    "achyutam_keshavam"
+  ],
+  "mantras": [
+    "hare_krishna_mahamantra",
+    "om_krishnaya_namaha"
+  ],
+  "festivals": [
+    "janmashtami",
+    "radhashtami"
+  ],
+  "pujaGuide": "krishna_puja",
+  "colors": ["blue", "yellow", "gold"],
+  "flowers": ["tulsi", "parijata", "kadamba", "lotus"],
+  "offering": "butter, milk sweets, tulsi leaves, lotus flowers, fruits",
+  "sacred_number": 108
+}

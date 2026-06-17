@@ -1,0 +1,60 @@
+{
+  "id": "vishnu_jayanti",
+  "name": {
+    "english": "Vaikunta Chaturdashi — The Night Vishnu Receives Shiva's Blessings",
+    "hindi": "वैकुण्ठ चतुर्दशी",
+    "telugu": "వైకుంఠ చతుర్దశి",
+    "sanskrit": "वैकुण्ठचतुर्दशी"
+  },
+  "deity": "vishnu",
+  "tithiMonth": 8,
+  "tithiDay": 14,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "October–November (one day before Kartika Purnima)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Vaikunta Chaturdashi falls on the 14th day of the bright fortnight of Kartika month — the day before Kartika Purnima (also called Dev Diwali). On this sacred night, which the Skanda Purana says is equally revered by Vishnu and Shiva, it is believed that Shiva himself worships Vishnu with 1000 lotus flowers and Vishnu worships Shiva with 1000 bilva leaves. Devotees observe it as a night of unity of Hari (Vishnu) and Hara (Shiva). Anyone who worships both Vishnu and Shiva on this night is believed to attain Vaikuntha (Vishnu's divine abode). It is also called 'Hari-Hara Milan' — the meeting of Hari and Hara.",
+    "hindi": "वैकुण्ठ चतुर्दशी कार्तिक शुक्ल चतुर्दशी को आती है। इस रात स्वयं शिव ने विष्णु को 1000 कमल से और विष्णु ने शिव को 1000 बिल्वपत्र से पूजा की। हरि-हर मिलन की यह रात दोनों देवताओं की उपासना से वैकुण्ठ-प्राप्ति देती है।",
+    "telugu": "వైకుంఠ చతుర్దశి కార్తీక శుక్ల చతుర్దశి నాడు వస్తుంది. ఈ రాత్రి శివుడే విష్ణువుని 1000 కమలాలతో పూజించాడు, విష్ణువు శివుని 1000 బిల్వ పత్రాలతో పూజించాడు. హరి హర మిళనంగా పిలిచే ఈ రాత్రి రెండు దేవతలనూ పూజించడం వైకుంఠం ఇస్తుందని విశ్వాసం."
+  },
+  "mythology": {
+    "english": "According to the Skanda Purana, Lord Vishnu once decided to perform the Sahasra Kamala Puja (worship with 1000 lotus flowers) to Shiva. He gathered the flowers and began. As the puja progressed, Shiva stealthily removed one lotus to test Vishnu. When the count reached 999, Vishnu discovered one lotus was missing. Without hesitation, Vishnu offered one of his own lotus-like eyes to complete the count. Shiva was deeply moved by Vishnu's devotion and appeared before him, saying: 'Your eyes are the true lotus. I am pleased.' From that moment, Vishnu received the divine weapon Sudarshana Chakra from Shiva as a blessing. This night commemorates that divine exchange.",
+    "hindi": "स्कंद पुराण के अनुसार, विष्णु शिव को 1000 कमल से पूजा करने लगे। शिव ने परीक्षा के लिए एक कमल चुरा लिया। 999वें पर विष्णु को एक कमल कम दिखा। उन्होंने अपनी एक कमल-समान आँख निकालकर शिव को अर्पित की। प्रसन्न शिव ने विष्णु को सुदर्शन चक्र दिया।",
+    "telugu": "స్కంద పురాణం ప్రకారం, విష్ణువు శివుడికి 1000 కమలాలతో పూజ చేయడం మొదలుపెట్టాడు. శివుడు పరీక్షగా ఒక కమలం దాచాడు. 999వ దగ్గర విష్ణువుకు ఒక కమలం తక్కువ అయింది. వెంటనే తన కమలాక్షిని తీసి శివుడికి అర్పించాడు. సంతసించిన శివుడు విష్ణువుకు సుదర్శన చక్రం ఇచ్చాడు."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a fast through the day",
+      "In the evening: first worship Vishnu with tulsi leaves, lotus flowers, and yellow flowers",
+      "Then worship Shiva with bilva leaves and white flowers on the same evening",
+      "Recite Vishnu Sahasranama Dhyana shlokas and Vishnu Ashtottara",
+      "Recite Shiva Panchakshara Stotram as well — honouring both Hari and Hara",
+      "Stay awake through the night chanting both Vishnu and Shiva names",
+      "Light diyas (lamps) along the Ganga river or at home as part of the Dev Diwali celebrations",
+      "Donate food, clothing, or books on this day — charity is particularly meritorious"
+    ],
+    "telugu": [
+      "ఉదయం నుండి ఉపవాసం ఉండండి",
+      "సాయంత్రం: తులసి, కమలాలతో విష్ణువుని పూజించండి",
+      "తర్వాత బిల్వ పత్రాలు, తెల్ల పూలతో శివుని పూజించండి",
+      "విష్ణు సహస్రనామ ధ్యాన శ్లోకాలు, విష్ణు అష్టోత్తరం పఠించండి",
+      "శివ పంచాక్షర స్తోత్రం కూడా పఠించి హరి హర ఏకత్వాన్ని స్మరించండి",
+      "రాత్రి మేలుకుని నాలుగు దిక్కులా దీపాలు వెలిగించండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Complete fast through the day; the fast is broken the next morning (Kartika Purnima) or in the evening after puja. Panchamrita, fruits, and sweets are the naivedyam. Tulsi leaves are essential for Vishnu; bilva leaves for Shiva.",
+    "telugu": "పగలు పూర్తి ఉపవాసం; సాయంత్రం పూజ తర్వాత లేదా కార్తీక పూర్ణిమ ఉదయం విడవాలి. పంచామృతం, పళ్ళు, మిఠాయి నివేదిస్తారు."
+  },
+  "associatedStotras": [
+    "vishnu_sahasranama_dhyana",
+    "vishnu_ashtottara",
+    "shiva_panchakshara_stotram",
+    "maha_mrityunjaya"
+  ],
+  "regionalNames": [
+    { "region": "Varanasi / North India", "localName": "Dev Diwali eve (Vaikunta Chaturdashi)" },
+    { "region": "Andhra / Telangana / Tamil Nadu", "localName": "Vaikunta Chaturdashi" },
+    { "region": "Maharashtra", "localName": "Tripuri Purnima eve" }
+  ]
+}

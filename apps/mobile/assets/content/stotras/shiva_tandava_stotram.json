@@ -1,0 +1,155 @@
+{
+  "id": "shiva_tandava_stotram",
+  "title": {
+    "sanskrit": "शिवताण्डवस्तोत्रम्",
+    "transliteration": "Śivātāṇḍavastotram",
+    "english": "Shiva Tandava Stotram — Ravana's Hymn to the Cosmic Dance of Shiva",
+    "hindi": "शिव ताण्डव स्तोत्रम्",
+    "telugu": "శివ తాండవ స్తోత్రం"
+  },
+  "deity": "shiva",
+  "type": "stotra",
+  "tags": ["shiva", "tandava", "ravana", "powerful", "cosmic dance", "nataraja"],
+  "description": {
+    "english": "The Shiva Tandava Stotram is a magnificent hymn composed by Ravana, the mighty king of Lanka. When Ravana attempted to lift Mount Kailasha, Shiva pressed it down with his toe, trapping Ravana's arms. To appease the Lord, Ravana composed this magnificent hymn praising Shiva's cosmic dance (Tandava). Pleased, Shiva freed Ravana and granted him a divine sword and the name 'Ravana' (one whose roar makes the worlds tremble). This hymn is renowned for its powerful rhythm — the 'dha dhim dhim dha' onomatopoeia mimics the sound of Shiva's damaru (drum).",
+    "hindi": "शिव ताण्डव स्तोत्र लंकाधिपति रावण द्वारा रचित महाकाव्यिक स्तोत्र है। कैलाश उठाने के प्रयास में रावण के हाथ दब गए, तब उसने यह स्तोत्र रचकर शिव को प्रसन्न किया। शिव ने प्रसन्न होकर रावण को मुक्त कर दिव्य खड्ग दिया और 'रावण' नाम दिया।",
+    "telugu": "శివ తాండవ స్తోత్రం లంకాధిపతి రావణుడు రచించిన మహాకావ్య స్తోత్రం. కైలాసాన్ని లేపే ప్రయత్నంలో రావణుడి చేతులు నలిగిపోయినప్పుడు అతను ఈ స్తోత్రం రచించి శివుని ప్రసన్నం చేసుకున్నాడు. శివుడు సంతుష్టుడై రావణుని విముక్తుడిని చేసి దివ్య ఖడ్గం ఇచ్చి 'రావణ' నామం ఇచ్చాడు."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् ।\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम् ।।",
+      "transliteration": "Jaṭāṭavīgalajjalapravāhapāvitasthale\nGale'valambya Lambitāṃ Bhujaṅgatuṅgamālikām |\nḌamaḍḍamaḍḍamaḍḍamannināda vaḍḍamarvayaṃ\nCakāra Caṇḍatāṇḍavaṃ Tanotu Naḥ Śivaḥ Śivam ||",
+      "hindi": "जिनके जटारूपी वन से गंगा प्रवाहित होकर गले को पवित्र करती है,\nजिन्होंने ऊँचे सर्प-हार को गले में लपेटा है,\nडमड्डमड्डमड् की ध्वनि के साथ डमरू बजाते हुए\nजिन्होंने प्रचंड ताण्डव नृत्य किया — वे शिव हमारा कल्याण करें।",
+      "telugu": "జటాటవీ గళజ్జల ప్రవాహంతో కంఠం పవిత్రమైనది,\nఉన్నతమైన నాగ హారాన్ని కంఠంలో వేలాడుకున్నవాడు,\nడమడ్డమడ్డమ అనే ధ్వనితో డమరు మోగిస్తూ\nప్రచండ తాండవ నృత్యం చేసినవాడు — ఆ శివుడు మనకు శుభం ఇవ్వుగాక.",
+      "english": "He whose throat is purified by the flowing stream of water from his matted forest-like locks; who has draped the great serpent garland around his neck; who performs the fierce Tandava dance with the sound of his damaru going 'Damad damad damad dam' — may that Shiva grant us auspiciousness.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी\nविलोलवीचिवल्लरीविराजमानमूर्धनि ।\nधगद्धगद्धगज्ज्वलल्ललाटपट्टपावके\nकिशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम ।।",
+      "transliteration": "Jaṭākaṭāhasambhramabhraman Nilimpanirjharī\nVilolaveecivallarīvirājamānamūrdhani |\nDhagaddhagaddhagajjvalallalāṭapaṭṭapāvake\nKiśoracandraśekhare Ratiḥ Pratikṣaṇaṃ Mama ||",
+      "hindi": "जिनके जटा-कलश में घूमती हुई देवनदी (गंगा) तरंगमाला के साथ सिर पर शोभायमान है,\nजिनके ललाट पर अग्नि धधक-धधक कर जलती है,\nजो बालचंद्र को मस्तक पर धारण करते हैं —\nप्रतिक्षण उन्हें देखने की मेरी लालसा बनी रहे।",
+      "telugu": "జటా కటాహంలో తిరుగుతూ ఉన్న దేవనది (గంగ) అలల తీగతో శిరస్సుపై ప్రకాశిస్తోంది,\nలలాటంపై అగ్ని ధగ్-ధగ్ అని మంటలు వేస్తోంది,\nయువ చంద్రుని శిరస్సుపై ధరించిన —\nప్రతి క్షణం ఆయనపై నా ప్రేమ ఉండుగాక.",
+      "english": "In whose matted bowl-like locks the heavenly river Ganga swirls with rolling waves and adorns his head; at whose forehead fire blazes 'Dhagad dhagad dhagad'; who bears the crescent moon as a crown — may my love for him endure every moment.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर\nस्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे ।\nकृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि\nक्वचिद्दिगम्बरे मनो विनोदमेतु वस्तुनि ।।",
+      "transliteration": "Dharādharendranandanīvilāsabandhubandhura\nSphuraddigantasantatipramodamānamānase |\nKṛpākaṭākṣadhoraṇīniruddhadurdhurāpadi\nKvaciddigambare Mano Vinodametu Vastuni ||",
+      "hindi": "जो पर्वतराज-नन्दिनी (पार्वती) के विलासमय सखा हैं,\nजिनका मन दिशाओं के विस्तार में आनंदित है,\nजिनकी कृपा-दृष्टि कठिन आपदाओं को रोकती है —\nउन दिगम्बर शिव में मेरा मन आनंद पाए।",
+      "telugu": "పర్వతరాజ పుత్రి (పార్వతి) విలాస బంధువైన,\nదిశల అంతటా మనసు ఆనందించే,\nకరుణా కటాక్షంతో కష్టాపదలను అడ్డగించే —\nఆ దిగంబర శివుడిలో నా మనసు ఆనందం పొందుగాక.",
+      "english": "Who is the dear companion of the playful daughter of the mountain king (Parvati); whose mind delights in all the directions; whose flood of compassionate glances blocks all terrible calamities — in that sky-clad Shiva may my mind find delight.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा\nकदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे ।\nमदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे\nमनो विनोदमद्भुतं बिभर्तु भूतभर्तरि ।।",
+      "transliteration": "Jaṭābhujaṅgapiṅgalasphuratphaṇāmaṇiprabhā\nKadambakuṃkumadravapraliptadigvadhūmukhe |\nMadāndhasindhurasphurattvauttarīyamedure\nMano Vinodamadbhutaṃ Bibhartu Bhūtabhārtari ||",
+      "hindi": "जिनके जटाओं में लिपटे भूरे सर्प के फण की मणि की प्रभा कदम्ब और कुंकुम से दिशाओं की वधुओं के मुख को रंगती है;\nजो मदमस्त हाथी की खाल को उत्तरीय बनाते हैं —\nभूत-भर्ता (जगत पालक) शिव में अद्भुत मनोविनोद बना रहे।",
+      "telugu": "జటాలలో చుట్టుకున్న పింగళ వర్ణ నాగ ఫణ మణి ప్రభ కదంబ కుంకుమంతో దిక్కుల వధువుల ముఖాలను రంగులు పూస్తోంది;\nమదమత్త గజ చర్మాన్ని ఉత్తరీయంగా ధరించినవాడు —\nభూతభర్త శివుడిలో అద్భుత మనో వినోదం ఉండుగాక.",
+      "english": "The radiance of the jewel on the hood of the tawny serpent in his matted locks paints the faces of the direction-damsels with kadamba and saffron hues; who wears the skin of a frenzied elephant as his garment — in Shiva, the protector of all beings, may my mind find wondrous delight.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "सहस्रलोचनप्रभृत्यशेषलेखशेखर\nप्रसूनधूलिधोरणी विधूसराङ्घ्रिपीठभूः ।\nभुजङ्गराजमालया निबद्धजाटजूटकः\nश्रियै चिराय जायतां चकोरबन्धुशेखरः ।।",
+      "transliteration": "Sahasralocanaprabhṛtyaśeṣalekhaśekhara\nPrasūnadhūlidhāraṇī vidhūsarāṅghripīṭhabhūḥ |\nBhujaṅgarājamālayā nibaddhajāṭajūṭakaḥ\nŚriyai Cirāya Jāyatāṃ Cakorabandhuśekharaḥ ||",
+      "hindi": "जिनके चरण-पीठ की भूमि इन्द्र आदि देवताओं के मुकुट-पुष्पों की धूलि से धूसरित हो,\nजिनकी जटाएँ सर्पराज की माला से बँधी हैं,\nजो चकोर-मित्र (चंद्रमा) को मस्तक पर धारण करते हैं —\nवे चिरकाल तक श्री प्रदान करें।",
+      "telugu": "ఇంద్రాది దేవతల మకుట పుష్పాల ధూళితో చరణపీఠ భూమి ధూసరితమైనది,\nసర్పరాజ మాలతో జటలు బంధించినవాడు,\nచకోర మిత్రుడు (చంద్రుడు) శిరస్సుపై ధరించినవాడు —\nఆయన చిరకాలం శ్రీ ప్రదానం చేయుగాక.",
+      "english": "Whose footstool-ground is grayed by the flower-pollen from the crowns of Indra and all the gods; whose matted locks are bound by the garland of the serpent-king; who wears on his head the moon (friend of the chakora bird) — may such Shiva grant prosperity for a long time.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "ललाटचत्वरज्वलद्धनञ्जयस्फुलिङ्गभा-\nnipītapञ्चसायकं नमन्निलिम्पनायकम् ।\nसुधामयूखलेखया विराजमानशेखरं\nमहाकपालिसम्पदेशिरोजटालमस्तु नः ।।",
+      "transliteration": "Lalāṭacatvarajvaladhanañjayasphulinga-bhā\nnipīta-pañcasāyakaṃ namannilimpanāyakam |\nSudhāmayūkhalekayā virājamānaśekharaṃ\nMahākapālisampade Śirojaṭālamastu Naḥ ||",
+      "hindi": "जिन्होंने अपने ललाट की अग्नि (कामाग्नि) की चिनगारी से कामदेव को भस्म किया,\nजिनके सामने देवराज (इन्द्र) नत-मस्तक हैं,\nजो अमृत-किरणों के चंद्रमा से मुकुट-युक्त हैं —\nवे महाकपाली शिव की जटाएँ हमें संपदा प्रदान करें।",
+      "telugu": "లలాటాగ్ని స్ఫులింగంతో కాముడిని భస్మం చేసినవాడు,\nదేవేంద్రుడు నతమస్తకుడైనవాని ముందు,\nఅమృత కిరణ చంద్రుడితో మకుటం ధరించినవాడు —\nమహా కపాలి శివుని జటలు మనకు సంపద ఇవ్వుగాక.",
+      "english": "He who, by the sparks of the fire blazing at his forehead, consumed the five-arrowed god of love (Kama); before whom the king of gods (Indra) bows; whose crown is the crescent moon with its nectar rays — may the matted locks of that Mahakapali Shiva grant us prosperity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "करालभालपट्टिकाधगद्धगद्धगज्ज्वल-\nद्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायके ।\nधराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रक-\nप्रकल्पनैकशिल्पिनि त्रिलोचने रतिर्मम ।।",
+      "transliteration": "Karālabhālapaṭṭikādhagaddhagaddhagajjvala-\ndhanañjayāhutīkṛtapracaṇḍapañcasāyake |\nDharādharāndranandanīkucāgracitrapātraka-\nprakalpaanaikaśilpini Trilocan Ratirmama ||",
+      "hindi": "भयंकर ललाट पर धधकती अग्नि में कामदेव की आहुति देने वाले,\nपर्वतराज-नन्दिनी (पार्वती) के वक्ष पर चित्र-पत्र अंकित करने के एकमात्र कलाकार,\nत्रिलोचन शिव में मेरी प्रीति हो।",
+      "telugu": "భయంకర లలాటంపై ధగ్-ధగ్ మండే అగ్నిలో కాముడిని ఆహుతి చేసినవాడు,\nపర్వతరాజ పుత్రి (పార్వతి) వక్షస్థలంపై చిత్రాలు గీసే ఏకైక కళాకారుడు —\nత్రిలోచన శివుడిపై నా ప్రేమ ఉండుగాక.",
+      "english": "He who offered the five-arrowed Kama into the blazing fire of his terrifying forehead; the sole artist who draws designs (with sandalwood paste) on the bosom of the daughter of the mountain king — in that three-eyed Shiva, may my love abide.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "नवीनमेघमण्डली निरुद्धदुर्धरस्फुरत्-\nकुहूनिशीथिनीतमः प्रबद्धबद्धकन्धरः ।\nनिलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः\nकलानिधानबन्धुरः श्रियं जगद्धुरन्धरः ।।",
+      "transliteration": "Navīnameghamaṇḍalī Niruddhudurdhara-sphurat\nKuhūniśīthinītamaḥ prabaddhābaddhakandharaḥ |\nNilimpanirjharīdharastonotu Kṛttisindhurah\nKalānidhānabandhurah Śriyaṃ Jagaddhuraṃdharaḥ ||",
+      "hindi": "नए मेघ-मंडल से घिरे, अमावस्या की घोर रात्रि के अंधकार जैसे कंठ वाले,\nगंगा धारण करने वाले, गज-चर्म पहने,\nकला-निधि चंद्र से मुकुटित, जगत् के भार वाहक शिव\nहमें श्री प्रदान करें।",
+      "telugu": "నవీన మేఘ మండలంతో ఆవరించిన, అమావాస్య చీకటి వంటి కంఠం గలవాడు,\nగంగను ధరించినవాడు, గజచర్మం ధరించినవాడు,\nకళానిధి చంద్రుడితో మకుటం ధరించిన, జగత్భారం వహించే శివుడు\nమనకు శ్రీ ఇవ్వుగాక.",
+      "english": "Encircled by clusters of new clouds, with a throat dark as the moonless midnight sky; who holds the Ganga in his locks and wears elephant hide; who bears the moon (repository of the arts) as a diadem, and carries the burden of the world — may that Shiva grant us prosperity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 9,
+      "sanskrit": "प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभा-\nवलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम् ।\nस्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं\nगजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे ।।",
+      "transliteration": "Praphullanīlapaṃkajaprāpañcakālimaprabhā-\nvalambikandhallaruciprābaddhakandharaṃ |\nSmaracchidaṃ Puracchidaṃ Bhavacchidaṃ Makhacchidaṃ\nGajacchidāntakacchidaṃ Tamantakacchidaṃ Bhaje ||",
+      "hindi": "जिनके कंठ की नीलिमा खिले नीलकमल के विस्तृत नील-प्रभा से सुशोभित है;\nकाम को छेदने वाले, त्रिपुर को छेदने वाले, संसार को छेदने वाले,\nयज्ञ को छेदने वाले, गज (अहंकार) को छेदने वाले, अन्धक को छेदने वाले,\nयम को छेदने वाले उन शिव का मैं भजन करता हूँ।",
+      "telugu": "వికసించిన నీల పంకజ సమూహ కాలిమ ప్రభతో కంఠం సుశోభితం;\nకామ విచ్ఛేదకుడు, త్రిపుర విచ్ఛేదకుడు, భవ విచ్ఛేదకుడు,\nమఖ విచ్ఛేదకుడు, గజ విచ్ఛేదకుడు, అంధక విచ్ఛేదకుడు,\nయమ విచ్ఛేదకుడైన ఆ శివుని భజిస్తున్నాను.",
+      "english": "Whose throat shines with the dark-blue radiance of blooming blue lotuses; I worship that Shiva who destroyed Kama (desire), who destroyed the three cities (Tripura), who cut the cycle of existence, who destroyed Daksha's sacrifice, who slew the elephant demon, who killed Andhaka, and who conquered Yama (death).",
+      "audioUrl": ""
+    },
+    {
+      "index": 10,
+      "sanskrit": "अखर्वसर्वमङ्गला कलाकदम्बमञ्जरी\nरसप्रवाहमाधुरी विजृम्भणामधुव्रतम् ।\nस्मरान्तकं पुरान्तकं भवान्तकं मखान्तकं\nगजान्तकान्धकान्तकं तमन्तकान्तकं भजे ।।",
+      "transliteration": "Akhārvasarvamaṅgalā kalākadambamañjarī\nRasapravāhamādurī vijṛmbhaṇāmadhuvratam |\nSmarāntakaṃ Purāntakaṃ Bhavāntakaṃ Makhāntakaṃ\nGajāntakāndhakāntakaṃ Tamantakāntakaṃ Bhaje ||",
+      "hindi": "जो विशाल और सर्व-मंगलमयी कलाओं के कदम्ब-गुच्छ की मधुरता के रस-प्रवाह में रसिक हैं;\nकाम-अंत, पुर-अंत, भव-अंत, मख-अंत,\nगज-अंत, अन्धक-अंत और यम-अंत करने वाले उन शिव का मैं भजन करता हूँ।",
+      "telugu": "విశాల సర్వ మంగళ కళా కదంబ మంజరి రస ప్రవాహ మాధుర్యంలో రసికులు;\nకామాంతకం, పురాంతకం, భవాంతకం, మఖాంతకం,\nగజాంతకం, అంధకాంతకం, యమాంతకుని ఆ శివుని భజిస్తున్నాను.",
+      "english": "Who delights in the honey-flow of sweet arts and the cluster of all auspiciousness; I worship that Shiva who is the ender of Kama, the destroyer of Tripura, the ender of rebirth, the destroyer of Daksha's sacrifice, the slayer of the elephant demon and Andhaka, and the conqueror of Yama.",
+      "audioUrl": ""
+    },
+    {
+      "index": 11,
+      "sanskrit": "जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस-\nद्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट् ।\nधिमिद्धिमिद्धिमिद्धनन्मृदङ्गतुङ्गमङ्गल-\nध्वनिक्रमप्रवर्तित प्रचण्डताण्डवः शिवः ।।",
+      "transliteration": "Jayatvadbhravibhramabhramad Bhujaṅgamaśvasa-\ndvinirgamatksramasphurat Karālabhālhavyavāṭ |\nDhimiddhimiddhimiddhanānmṛdaṅgatuṅgamaṅgala-\ndhvaniKramapravartita Pracaṇḍatāṇḍavaḥ Śivaḥ ||",
+      "hindi": "जिनके ललाट की भयंकर हव्यवाट (अग्नि) से सर्प के श्वास की ध्वनि निकलती है;\nउत्कृष्ट और मंगलमय मृदंग की धिमिद्-धिमिद् ध्वनि के क्रम में प्रचंड ताण्डव करने वाले\nशिव की जय हो।",
+      "telugu": "లలాటపు భయంకర హవ్యవాహం నుండి నాగ శ్వాస ధ్వని వెలువడేది;\nఉత్కృష్ట మంగళ మృదంగ ధిమిద్-ధిమిద్ ధ్వని క్రమంలో ప్రచండ తాండవం చేస్తూ —\nఆ శివుడికి జయం.",
+      "english": "Victory to Shiva — whose terrifying forehead fire breathes like a serpent; who performs the fierce Tandava dance to the sequence of the auspicious, booming mridanga drum going 'Dhimid dhimid dhimid dhanam'.",
+      "audioUrl": ""
+    },
+    {
+      "index": 12,
+      "sanskrit": "दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-\nगरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः ।\nतृणारविन्दचक्षुषोः प्रजामहीमहेन्द्रयोः\nसमं प्रवर्तयन्मनः कदा सदाशिवं भजे ।।",
+      "transliteration": "Dṛṣadvicitratalpayorbhujaṅgamauktikasrajor-\nGariṣṭharatanaloṣṭhayoḥ Suhṛdvipakṣapakṣayoḥ |\nTṛṇāravindacakṣuṣoḥ Prajāmahīmahendrayoḥ\nSamaṃ Pravartayanmanaḥ Kadā Sadāśivaṃ Bhaje ||",
+      "hindi": "पत्थर और सुंदर बिस्तर में, सर्प-माला और मोती-माला में,\nमहंगे रत्न और मिट्टी के ढेले में, मित्र और शत्रु में,\nतृण और कमल में, प्रजा और राजा में — समभाव रखते हुए\nकब मैं सदाशिव का भजन करूँगा।",
+      "telugu": "రాయి మరియు అందమైన శయ్యలో, నాగ మాల మరియు ముత్యాల మాలలో,\nవిలువైన రత్నాలు మరియు మట్టి ముద్దలో, మిత్రుడు మరియు శత్రువులో,\nగడ్డి మరియు పద్మంలో, ప్రజ మరియు మహారాజులో — సమభావంతో\nఎప్పుడు నేను సదాశివుని భజిస్తాను?",
+      "english": "Regarding equally a stone floor and a beautiful bed, a garland of serpents and pearl necklace, a great gem and a lump of clay, a friend and an enemy, a blade of grass and a lotus, the common man and the great king — when shall I worship Sadashiva with such equanimity?",
+      "audioUrl": ""
+    },
+    {
+      "index": 13,
+      "sanskrit": "कदा निलिम्पनिर्झरीनिकुञ्जकोटरे वसन्\nविमुक्तदुर्मतिः सदा शिरःस्थमञ्जलिं वहन् ।\nविमुक्तलोललोचनो ललामभाललग्नकः\nशिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम् ।।",
+      "transliteration": "Kadā Nilimpanirjharīnikuñjakoṭare Vasan\nVimuktadurmatiḥ Sadā Śiraḥsthamañjaliṃ Vahan |\nVimuktalolalocano Lalāmabhālalagnakah\nŚiveti Mantramuccaran Kadā Sukhī Bhavāmyaham ||",
+      "hindi": "गंगा के कुंज की कोटर में निवास करते हुए,\nदुर्बुद्धि से मुक्त होकर, सदा मस्तक पर अञ्जलि रखते हुए,\nविमुक्त और चञ्चल नेत्रों से ललाट-तिलक लगाते हुए,\n'शिव' मंत्र का उच्चारण करते हुए — कब मैं सुखी होऊँगा?",
+      "telugu": "గంగా నికుంజ కోటరంలో నివసిస్తూ,\nదుర్మతి నుండి విముక్తుడై, సదా శిరస్సుపై అంజలి ఉంచుకుంటూ,\nవిముక్తమైన చపల నేత్రాలతో లలాట తిలకం ధరిస్తూ,\n'శివ' మంత్రం ఉచ్చరిస్తూ — ఎప్పుడు నేను సుఖీ అవుతాను?",
+      "english": "When shall I be happy — dwelling in the grove of the divine river, freed from evil thoughts, ever holding palms joined above my head, with unfettered and roving eyes fixed on the mark on my forehead, chanting the mantra 'Shiva'?",
+      "audioUrl": ""
+    },
+    {
+      "index": 14,
+      "sanskrit": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं\nपठन्स्मरन्ब्रुवन्नरो विशुद्धिमेति सन्ततम् ।\nहरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं\nविमोहनं हि देहिनां सुशङ्करस्य चिन्तनम् ।।",
+      "transliteration": "Imaṃ Hi Nityamevam Uktamuttamottamaṃ Stavaṃ\nPathansmaran Bruvannarō Viśuddhimeti Santatam |\nHare Gurau Subhaktimāśu Yāti Nānyathā Gatiṃ\nVimohanam Hi Dehinaṃ Suśaṃkasya Cintanam ||",
+      "hindi": "जो प्रतिदिन इस उत्तमोत्तम स्तोत्र को पढ़ता, स्मरण करता और गाता है,\nवह सतत विशुद्धि प्राप्त करता है;\nगुरु हर में शीघ्र सुभक्ति प्राप्त होती है — कोई अन्य मार्ग नहीं;\nसुंदर शंकर का चिंतन प्राणियों का विमोहन (मोह-मुक्ति) करता है।",
+      "telugu": "ప్రతిరోజూ ఈ ఉత్తమ స్తోత్రాన్ని పఠించేవాడు, స్మరించేవాడు, పాడేవాడు\nనిరంతరం శుద్ధత పొందుతాడు;\nగురువైన హరిలో త్వరగా సుభక్తి లభిస్తుంది — వేరే మార్గం లేదు;\nసుందర శంకరుని చింతన ప్రాణులకు విమోహనం (మోహ విముక్తి).",
+      "english": "One who daily reads, remembers, and recites this most excellent hymn continually attains purity; speedily attains devoted love for Guru Hara (Shiva); there is no other path — the contemplation of the beautiful Shankara grants liberation from delusion to all beings.",
+      "audioUrl": ""
+    },
+    {
+      "index": 15,
+      "sanskrit": "पूजावसानसमये दशवक्त्रगीतं\nयः शम्भुपूजनपरं पठति प्रदोषे ।\nतस्य स्थिरां रथगजेन्द्रतुरङ्गयुक्तां\nलक्ष्मीं सदैव सुमुखिं प्रददाति शम्भुः ।।",
+      "transliteration": "Pūjāvasānasamaye Daśavaktragītaṃ\nYaḥ Śambhupūjanaparaṃ Paṭhati Pradoṣe |\nTasya Sthirāṃ Rathagajendraturaṅgayuktāṃ\nLakṣmīṃ Sadaiva Sumkhīṃ Pradadāti Śambhuḥ ||",
+      "hindi": "पूजा के अंत में प्रदोष काल में दशमुख (रावण) द्वारा गाए गए इस शम्भु-पूजा स्तोत्र को जो पढ़ता है,\nउसे शम्भु रथ, हाथी और घोड़ों सहित स्थायी और प्रसन्न लक्ष्मी (समृद्धि) प्रदान करते हैं।",
+      "telugu": "పూజా సమాప్తిలో ప్రదోష వేళ దశముఖుడు (రావణుడు) పాడిన ఈ శంభు పూజా స్తోత్రం పఠించేవారికి,\nశంభుడు రథం, గజం, అశ్వాలతో కూడిన స్థిరమైన, ప్రసన్నమైన లక్ష్మీని (సంపద) ప్రసాదిస్తాడు.",
+      "english": "One who, at the conclusion of worship during the Pradosha time, recites this hymn sung by the ten-faced (Ravana) in praise of Shambhu — to that person, Shambhu bestows the ever-smiling, stable Lakshmi with chariots, elephants, and horses.",
+      "audioUrl": ""
+    }
+  ]
+}

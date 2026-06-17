@@ -1,0 +1,59 @@
+{
+  "id": "radhashtami",
+  "name": {
+    "english": "Radhashtami — Birth of Radha, the Supreme Devotee",
+    "hindi": "राधाष्टमी",
+    "telugu": "రాధాష్టమి",
+    "sanskrit": "राधाष्टमी"
+  },
+  "deity": "krishna",
+  "tithiMonth": 6,
+  "tithiDay": 8,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "August–September (15 days after Janmashtami)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Radhashtami celebrates the birth of Radha — the beloved of Krishna, the supreme devotee, and the embodiment of divine love (Bhakti). She appeared 15 days after Krishna's birth, on the Ashtami (eighth day) of the bright fortnight of Bhadrapada, at Barsana (near Vrindavan). Radha is considered the Shakti (divine energy) of Krishna — inseparable from him. Without Radha, it is said, even the name of Krishna cannot be uttered. The day is celebrated with great devotion in Vrindavan, Barsana, and Mathura, and by Vaishnavas worldwide.",
+    "hindi": "राधाष्टमी भाद्रपद शुक्ल अष्टमी को मनाई जाती है — कृष्ण जन्म के 15 दिन बाद। राधा कृष्ण की परम प्रिया और भक्ति की मूर्ति हैं। उनके बिना 'कृष्ण' नाम का उच्चारण भी अपूर्ण है। वृन्दावन, बरसाना में इसे महोत्सव के रूप में मनाते हैं।",
+    "telugu": "రాధాష్టమి భాద్రపద శుక్ల అష్టమి నాడు వస్తుంది — కృష్ణ జన్మకు 15 రోజుల తర్వాత. రాధ కృష్ణుని పరమ ప్రియురాలు, భక్తికి స్వరూపిణి. ఆమె లేకుండా 'కృష్ణ' నామం కూడా అసంపూర్ణమే. వృందావన్, బర్సానాలలో ఇది మహోత్సవం."
+  },
+  "mythology": {
+    "english": "According to the Brahma Vaivarta Purana, Radha is described as the primordial Shakti — the divine consort of Vishnu/Krishna who exists with him eternally. At the request of Brahma and Vishnu, she incarnated as the daughter of Vrishabhanu in Barsana. On the Ashtami of Bhadrapada Shukla, Vrishabhanu found her in a freshly bloomed lotus. Though born with open eyes, her eyes remained closed — she had vowed to open them only to see Krishna first. When the baby Krishna was brought to visit, she opened her eyes for the first time to see her Lord. This is the founding moment of the Radha-Krishna eternal love.",
+    "hindi": "ब्रह्म वैवर्त पुराण के अनुसार, राधा विष्णु की परा-शक्ति हैं। वृषभानु गोप को कमल में मिलीं। जन्म से आँखें बंद रखीं — पहले दर्शन कृष्ण को देना था। शिशु कृष्ण को लाने पर राधा ने पहली बार आँखें खोलीं।",
+    "telugu": "బ్రహ్మ వైవర్త పురాణం ప్రకారం రాధ విష్ణువు పర శక్తి. వృషభాను గోపాలుడికి పద్మంలో కనిపించింది. జన్మించినప్పటి నుండి కళ్ళు మూసుకుంది — మొదట కృష్ణుడినే చూడాలని. శిశు కృష్ణుడిని తీసుకు వచ్చినప్పుడు రాధ మొదటిసారి కళ్ళు తెరిచింది."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a fast in honour of Radha",
+      "Decorate the Radha-Krishna altar with fresh flowers, particularly lotuses and fragrant jasmine",
+      "Offer 16 traditional items of worship (Shodashopachara puja) to Radha-Krishna",
+      "Recite Madhurashtakam and Achyutam Keshavam",
+      "Sing Radha bhajans: 'Radha naam', 'Barsane wali Radhe', 'Radhey Radhey'",
+      "In Barsana and Vrindavan: attend special swing (Jhulanotsav) celebrations",
+      "Visit a Radha-Krishna temple; offer a silk cloth, lotus flowers, and sweets to Radha"
+    ],
+    "telugu": [
+      "రాధ పట్ల ఉపవాసం ఉండండి",
+      "రాధా కృష్ణ మందిరాన్ని తాజా పూలు, మల్లె పూలతో అలంకరించండి",
+      "షోడశోపచార పూజ చేయండి",
+      "మధురాష్టకం, అచ్యుతం కేశవం పఠించండి",
+      "'రాధే రాధే' భజనలు పాడండి",
+      "రాధా కృష్ణ ఆలయంలో రేషమి వస్త్రం, కమలాలు, మిఠాయి అర్పించండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Panchamrita, lotus petals in milk, and kheer (rice pudding) are traditional offerings. Mishri (rock sugar) and peda are Radha's favourite sweets. The fast is broken in the evening after the puja. Yellow and white foods are considered auspicious.",
+    "telugu": "పంచామృతం, పాలలో కమల దళాలు, పాయసం నివేదిస్తారు. మిఠాయి, పేడ రాధ ప్రియ మిఠాయిలు. సాయంత్రం పూజ తర్వాత ఉపవాసం విడవాలి."
+  },
+  "associatedStotras": [
+    "madhurashtakam",
+    "achyutam_keshavam",
+    "krishna_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Braj (Barsana / Vrindavan)", "localName": "Radhastami Mahotsav" },
+    { "region": "North India", "localName": "Radhashtami" },
+    { "region": "ISKCON worldwide", "localName": "Radhastami" },
+    { "region": "Andhra / Telangana", "localName": "Radhashtami" }
+  ]
+}

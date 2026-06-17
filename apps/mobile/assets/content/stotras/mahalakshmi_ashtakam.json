@@ -1,0 +1,92 @@
+{
+  "id": "mahalakshmi_ashtakam",
+  "title": {
+    "sanskrit": "महालक्ष्म्यष्टकम्",
+    "transliteration": "Mahālakṣmyaṣṭakam",
+    "english": "Mahalakshmi Ashtakam — Eight Verses to the Great Goddess",
+    "hindi": "महालक्ष्मी अष्टकम्",
+    "telugu": "మహాలక్ష్మ్యష్టకం"
+  },
+  "deity": "lakshmi",
+  "type": "stotra",
+  "tags": ["lakshmi", "ashtakam", "wealth", "indra", "padma purana"],
+  "description": {
+    "english": "The Mahalakshmi Ashtakam is an eight-verse prayer to Goddess Mahalakshmi composed by Indra, the king of gods, from the Padma Purana. It praises the goddess in her eight-armed form and is traditionally chanted to seek her blessings for wealth, well-being, and liberation. Each verse ends with 'Mahalakshmi Namostute' — Salutations to Mahalakshmi.",
+    "hindi": "महालक्ष्मी अष्टकम देवराज इंद्र द्वारा रचित पद्म पुराण का यह स्तोत्र महालक्ष्मी के आठ भुजाओं वाले स्वरूप की स्तुति करता है।",
+    "telugu": "మహాలక్ష్మ్యష్టకం పద్మ పురాణంలో ఇంద్రుడు రచించిన ఎనిమిది శ్లోకాల స్తోత్రం. ఇది అష్టభుజ మహాలక్ష్మీ దేవిని స్తుతిస్తుంది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Namaste'stu Mahāmāye Śrīpīṭhe Surapūjite |\nŚaṅkhacakragadāhaste Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे महामाया, श्री पीठ पर विराजमान, देवताओं द्वारा पूजित,\nशंख, चक्र और गदा धारण करने वाली महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "హే మహామాయే, శ్రీ పీఠంపై ఆసీనురాలా, దేవతలచే పూజింపబడేదానా,\nశంఖ చక్ర గదలు ధరించిన మహాలక్ష్మికి నమస్కారము.",
+      "english": "Salutations to you, O Great Illusion, seated on the divine throne, worshipped by the gods — O Mahalakshmi who holds the conch, discus, and mace, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "नमस्ते गरुडारूढे कोलासुरभयंकरि ।\nसर्वपापहरे देवि महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Namaste Garuḍārūḍhe Kolāsurabhayaṃkari |\nSarvapāpahare Devi Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे गरुड़ पर आरूढ़, कोलासुर को भय देने वाली,\nसभी पापों को हरने वाली देवी महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "హే గరుడవాహినీ, కోలాసుర భయంకరీ,\nసర్వ పాపహారిణీ దేవీ మహాలక్ష్మికి నమస్కారము.",
+      "english": "Salutations to you who ride the eagle Garuda, who strikes fear into the demon Kolasura, O Goddess who removes all sins — O Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "सर्वज्ञे सर्ववरदे सर्वदुष्टभयंकरि ।\nसर्वदुःखहरे देवि महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Sarvajñe Sarvavarade Sarvaduṣṭabhayaṃkari |\nSarvaduḥkhahare Devi Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे सर्वज्ञे, सब वरदान देने वाली, सब दुष्टों को भय देने वाली,\nसब दुःखों को हरने वाली देवी महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "సర్వజ్ఞురాలా, సర్వవరదాయినీ, సర్వదుష్ట భయంకరీ,\nసర్వ దుఃఖహారిణీ దేవీ మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Omniscient one, giver of all boons, terrifying to all the wicked, remover of all sorrows — O Goddess Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "सिद्धिबुद्धिप्रदे देवि भुक्तिमुक्तिप्रदायिनि ।\nमन्त्रमूर्ते सदा देवि महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Siddhibuddhiprade Devi Bhuktimuktipadāyini |\nMantramūrte Sadā Devi Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे सिद्धि और बुद्धि देने वाली देवी, भोग और मोक्ष प्रदान करने वाली,\nमंत्रमूर्ति सदा विराजमान देवी महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "సిద్ధి బుద్ధి ప్రదాయినీ, భుక్తి ముక్తి ప్రదాయినీ,\nమంత్రమూర్తీ సదా దేవీ మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Goddess who bestows spiritual powers and wisdom, giver of enjoyment and liberation, you who are the embodiment of sacred mantras — O Mahalakshmi, my salutations to you always.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "आद्यन्तरहिते देवि आद्याशक्तिमहेश्वरि ।\nयोगजे योगसम्भूते महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Ādyantarahite Devi Ādyāśaktimaheshvari |\nYogaje Yogasambhūte Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे आदि और अंत से रहित देवी, आदिशक्ति, महेश्वरी,\nयोग से उत्पन्न, योगमय देवी महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "ఆదంత రహితే దేవీ, ఆద్యాశక్తి మహేశ్వరీ,\nయోగజే యోగసంభూతే మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Goddess without beginning or end, the primordial Shakti, the great sovereign, born of yoga and dwelling in yoga — O Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "स्थूलसूक्ष्ममहारौद्रे महाशक्तिमहोदरे ।\nमहापापहरे देवि महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Sthūlasūkṣmamahāraudre Mahāśaktimahōdare |\nMahāpāpahare Devi Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे स्थूल और सूक्ष्म में व्याप्त, महारुद्रे, महाशक्ति, महोदरे,\nमहापापों को हरने वाली देवी महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "స్థూల సూక్ష్మ మహారౌద్రే, మహాశక్తి మహోదరే,\nమహాపాప హారిణీ దేవీ మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Goddess pervading the gross and subtle, the great fierce one, the great power, O vast-bellied one, remover of great sins — O Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "पद्मासनस्थिते देवि परब्रह्मस्वरूपिणि ।\nपरमेशि जगन्माते महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Padmāsanasthite Devi Parabrahmasvarūpiṇi |\nParameśi Jaganmāte Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे कमलासन पर विराजमान, परब्रह्म स्वरूपिणी देवी,\nपरमेश्वरी, जगन्माता महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "పద్మాసనస్థితే దేవీ, పరబ్రహ్మ స్వరూపిణీ,\nపరమేశీ జగన్మాతా మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Goddess seated on the lotus throne, embodiment of the Supreme Brahman, O Sovereign of all, Mother of the universe — O Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "श्वेताम्बरधरे देवि नानालंकारभूषिते ।\nजगत्स्थिते जगन्माते महालक्ष्मि नमोऽस्तु ते ।।",
+      "transliteration": "Śvetāmbaradhare Devi Nānālaṃkārabhūṣite |\nJagatsthite Jaganmāte Mahālakṣmi Namo'stu Te ||",
+      "hindi": "हे श्वेत वस्त्र धारण करने वाली देवी, अनेक आभूषणों से सुसज्जित,\nजगत में स्थित, जगन्माता महालक्ष्मी, आपको नमस्कार।",
+      "telugu": "శ్వేతాంబర ధారిణీ దేవీ, నానాలంకార భూషితా,\nజగత్స్థితే జగన్మాతా మహాలక్ష్మికి నమస్కారము.",
+      "english": "O Goddess clothed in white garments, adorned with many ornaments, dwelling within the universe, O Mother of the world — O Mahalakshmi, my salutations to you.",
+      "audioUrl": ""
+    }
+  ]
+}

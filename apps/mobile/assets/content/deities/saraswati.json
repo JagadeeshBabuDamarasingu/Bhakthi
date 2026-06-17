@@ -1,0 +1,55 @@
+{
+  "id": "saraswati",
+  "name": {
+    "sanskrit": "सरस्वती",
+    "transliteration": "Sarasvatī",
+    "english": "Saraswati",
+    "hindi": "सरस्वती",
+    "telugu": "సరస్వతి"
+  },
+  "aliases": [
+    "Sharada", "Vani", "Bharati", "Vak", "Vagdevi", "Vagishvari",
+    "Vidyadayini", "Brahmi", "Mahavidya", "Veenapani", "Hansavahini",
+    "Pustakadharini", "Sarvashukla"
+  ],
+  "tradition": "smarta",
+  "associatedDay": "thursday",
+  "primaryMantra": "om_aim_saraswatyai_namaha",
+  "imageAsset": "assets/images/Saraswati.png",
+  "description": {
+    "english": "Goddess Saraswati is the divine embodiment of knowledge, wisdom, arts, music, language, and learning. She is the consort of Lord Brahma and the mother of the Vedas. Dressed in pure white, seated on a white lotus, she holds a veena (lute), a book (the Vedas), a rosary, and a water pot. The white swan (hans) is her vehicle, symbolizing the ability to discriminate between the eternal and the transient.",
+    "hindi": "देवी सरस्वती ज्ञान, बुद्धि, कला, संगीत और विद्या की अधिष्ठात्री देवी हैं। वे ब्रह्माजी की पत्नी और वेदों की जननी हैं। श्वेत वस्त्र में वीणा, पुस्तक, माला और कमण्डलु धारण किए हंसवाहिनी सरस्वती का रूप अत्यंत मनोहारी है।",
+    "telugu": "సరస్వతీ దేవి జ్ఞానము, విద్య, కళలు, సంగీతము మరియు భాషకు అధిపతి. ఆమె బ్రహ్మదేవుని భార్య మరియు వేదాల తల్లి. తెల్లని వస్త్రాలు ధరించి, వీణ, పుస్తకం, జపమాల మరియు కమండలంతో హంసవాహనంపై విరాజిల్లుతుంది."
+  },
+  "significance": {
+    "english": "Saraswati is invoked before all learning, examinations, performances, and creative endeavours. Her blessing purifies the intellect, sharpens memory, and gives mastery of language and the arts. She is the source of all knowledge in the universe — the Vedas, music, dance, painting, sculpture, and every form of human creativity flow from her grace.",
+    "hindi": "विद्या आरंभ, परीक्षा, कला-प्रदर्शन से पहले सरस्वती का स्मरण किया जाता है। उनकी कृपा से बुद्धि, स्मृति और भाषा पर अधिकार प्राप्त होता है।",
+    "telugu": "చదువు ప్రారంభం, పరీక్షలు, కళా ప్రదర్శనలకు ముందు సరస్వతీ దేవిని పూజించాలి. ఆమె అనుగ్రహంతో మేధాశక్తి, జ్ఞాపకశక్తి మరియు సృజనాత్మకత వృద్ధి చెందుతుంది."
+  },
+  "iconography": {
+    "veena": "Musical instrument — mastery of all arts and the harmony of the universe",
+    "book": "The Vedas — supreme knowledge, eternal truth",
+    "rosary": "Japamala — meditation, spirituality, the power of repetition",
+    "water_pot": "Kamandalu — purification and the creative life force",
+    "white_garment": "Purity of knowledge, transcendence of desire",
+    "white_lotus": "Wisdom rising above ignorance (mud), self-realization",
+    "white_swan": "Vivekam (discrimination) — the ability to separate milk from water, truth from falsehood"
+  },
+  "stotras": [
+    "saraswati_vandana",
+    "saraswati_ashtottara",
+    "saraswati_ashtakam"
+  ],
+  "mantras": [
+    "om_aim_saraswatyai_namaha"
+  ],
+  "festivals": [
+    "vasant_panchami",
+    "saraswati_puja_navami"
+  ],
+  "pujaGuide": "saraswati_puja",
+  "colors": ["white", "yellow", "light blue"],
+  "flowers": ["white lotus", "jasmine", "white chrysanthemum"],
+  "offering": "white flowers, books, musical instruments, white sweets",
+  "sacred_number": 5
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dussehra",
+  "name": {
+    "english": "Dussehra — Victory of Rama over Ravana",
+    "hindi": "दशहरा / विजयादशमी",
+    "telugu": "దసరా / విజయదశమి",
+    "sanskrit": "विजयादशमी"
+  },
+  "deity": "rama",
+  "tithiMonth": 7,
+  "tithiDay": 10,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "September–October (follows Navratri)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Dussehra (also called Vijayadasami — 'Victory Tenth') falls on the tenth day of the bright fortnight of Ashvina, immediately after the nine days of Navratri. It commemorates Lord Rama's victory over the demon king Ravana — the triumph of righteousness (dharma) over unrighteousness (adharma), of light over darkness, and of truth over falsehood. In North India, the Ramlila (dramatic enactment of the Ramayana) culminates in the burning of giant effigies of Ravana, Meghanada, and Kumbhakarna. In Mysore (Karnataka), the Mysore Dasara is a spectacular 10-day royal procession. In Kullu, Himachal Pradesh, the Kullu Dussehra is a week-long fair.",
+    "hindi": "दशहरा आश्विन शुक्ल दशमी को नवरात्रि के तुरंत बाद मनाया जाता है। यह राम की रावण पर विजय का पर्व है — धर्म की अधर्म पर, सत्य की असत्य पर जीत। उत्तर भारत में रावण, कुंभकर्ण, मेघनाद के पुतले जलाए जाते हैं।",
+    "telugu": "దసరా ఆశ్వీయుజ శుక్ల దశమి నాడు నవరాత్రి తర్వాత వస్తుంది. ఇది రావణుడిపై రాముని విజయాన్ని జరుపుకునే పండుగ — అధర్మంపై ధర్మం, అసత్యంపై సత్యం విజయం. ఉత్తర భారతంలో రావణ పుత్తడి దహనం, మైసూరులో మహారాజా శోభాయాత్ర ప్రసిద్ధి."
+  },
+  "mythology": {
+    "english": "After 14 days of battle in Lanka, it was Sage Agastya who visited Lord Rama on the battlefield. He recited the Aditya Hridayam (hymn to the Sun) and instructed Rama to worship the Sun God to gain strength. Energised by the hymn, Rama faced Ravana and, with the divine Brahmastra arrow given to him by Agastya, struck Ravana's navel — the seat of his immortality — and killed him. This moment of Ravana's fall occurred on the Dashami tithi of Ashvina Shukla. Rama freed Sita and was reunited with her. The killing of Ravana symbolises the destruction of the ten forms of inner evil (kama, krodha, lobha, moha, mada, matsara, swartha, anyaya, amanavata, ahankar).",
+    "hindi": "रावण के साथ युद्ध में अगस्त्य मुनि ने राम को आदित्य हृदयम् का पाठ कराया। सूर्य की कृपा से शक्ति पाकर राम ने रावण की नाभि पर ब्रह्मास्त्र से प्रहार किया और उसका वध किया। दशमी तिथि पर यह विजय हुई। रावण के दस सिर — अहंकार सहित दस विकारों के प्रतीक हैं।",
+    "telugu": "రావణుడితో యుద్ధంలో అగస్త్య మహర్షి రాముడికి ఆదిత్య హృదయం బోధించాడు. సూర్య అనుగ్రహంతో శక్తి పొంది రాముడు రావణుని నాభిలో బ్రహ్మాస్త్రం వేసి సంహరించాడు. దశమి తిథి నాడు ఈ విజయం జరిగింది. రావణుని పది తలలు — అహంకారంతో సహా పది దురవస్థలకు సంకేతం."
+  },
+  "howToObserve": {
+    "english": [
+      "Visit a Rama temple; worship Rama, Sita, Lakshmana, and Hanuman together",
+      "Recite Aditya Hridayam — the hymn Agastya taught Rama before he killed Ravana",
+      "Recite Ram Raksha Stotram and Rama Ashtottara",
+      "Watch or participate in the Ramlila performance",
+      "In North India: watch or light the effigies of Ravana, Meghanada, Kumbhakarna at dusk",
+      "Retrieve books and tools placed before Saraswati during Saraswati Puja — begin Vidyarambha",
+      "In Karnataka (Mysore): watch the grand Dasara procession of the royal elephant carrying the golden howdah",
+      "Exchange Shami leaves (Prosopis cineraria) and wish 'Aparaajita' (unconquerable) to each other"
+    ],
+    "telugu": [
+      "రామ, సీత, లక్ష్మణ, హనుమంతుని కలిసి పూజించండి",
+      "ఆదిత్య హృదయం పఠించండి — రాముడికి అగస్త్యుడు బోధించిన స్తోత్రం",
+      "రామ రక్షా స్తోత్రం, రామ అష్టోత్తరం పఠించండి",
+      "సరస్వతీ దేవి వద్ద పెట్టిన పుస్తకాలు, ఉపకరణాలు తీసుకుని విద్యారంభం చేయండి",
+      "మైసూరు దసరా వేళ విద్యుత్ దీపాల శోభాయాత్ర చూడండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Traditionally, families share sweets and exchange Shami leaves. In North India, Jalebi and sweet puri are popular. In South India, cooked rice with ghee, payasam, and modak are offered to Rama. Light vegetarian food is appropriate on the day.",
+    "telugu": "కుటుంబాలు మిఠాయిలు పంచుకుంటారు, జమ్మి పత్రాలు ఇచ్చిపుచ్చుకుంటారు. రాముడికి అన్నం, పాయసం, మోదకం నివేదిస్తారు."
+  },
+  "associatedStotras": [
+    "aditya_hridayam",
+    "ram_raksha_stotram",
+    "rama_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "North India", "localName": "Dussehra / Ram Lila culmination" },
+    { "region": "Andhra / Telangana", "localName": "Dasara / Vijayadasami" },
+    { "region": "Karnataka", "localName": "Dasara / Mysore Dasara (royal celebration)" },
+    { "region": "Tamil Nadu", "localName": "Vijayadasami" },
+    { "region": "West Bengal", "localName": "Vijayadasami (end of Durga Puja)" },
+    { "region": "Himachal Pradesh", "localName": "Kullu Dussehra (week-long fair)" }
+  ]
+}

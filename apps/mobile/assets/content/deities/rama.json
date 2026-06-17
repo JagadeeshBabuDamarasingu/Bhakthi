@@ -1,0 +1,55 @@
+{
+  "id": "rama",
+  "name": {
+    "sanskrit": "रामः",
+    "transliteration": "Rāmaḥ",
+    "english": "Rama",
+    "hindi": "राम",
+    "telugu": "రాముడు"
+  },
+  "aliases": [
+    "Ramachandra", "Raghava", "Raghunatha", "Sita-Rama", "Kodanda-Rama",
+    "Pattabhirama", "Dasharathi", "Kakutstha", "Maryada Purushottama",
+    "Janaki-vallabha", "Koshalendra", "Raghupati", "Vaidehisha"
+  ],
+  "tradition": "vaishnava",
+  "associatedDay": "sunday",
+  "primaryMantra": "om_ram_ramaya_namaha",
+  "imageAsset": "assets/images/Rama.png",
+  "description": {
+    "english": "Lord Rama is the seventh avatar of Vishnu and the hero of the epic Ramayana, composed by the sage Valmiki. He is called Maryada Purushottama — the perfect man, the ideal of righteousness. Rama is the ideal son, husband, brother, king, and warrior. His fourteen-year exile with wife Sita and brother Lakshmana, the abduction of Sita by the demon king Ravana, and her rescue with the help of Hanuman and the monkey army (Vanara Sena) form the story of the Ramayana — one of humanity's greatest epics.",
+    "hindi": "भगवान राम विष्णु के सातवें अवतार हैं और वाल्मीकि रचित महाकाव्य रामायण के नायक हैं। वे मर्यादा पुरुषोत्तम — आदर्श मानव और धर्म के प्रतीक हैं।",
+    "telugu": "శ్రీ రాముడు విష్ణువు యొక్క ఏడవ అవతారం మరియు వాల్మీకి రచించిన రామాయణ మహాకావ్య నాయకుడు. ఆయన మర్యాదా పురుషోత్తముడు — ధర్మానికి ప్రతీక."
+  },
+  "significance": {
+    "english": "Rama represents the ideal of dharmic living — placing duty above personal desire, truth above convenience, and the welfare of his people above his own comfort. The Ram Raksha Stotram and the Ramanama ('Ram Ram') are among the most sacred chants in Hinduism. Mahatma Gandhi's last words were 'Hey Ram.' Reciting Rama's name is said to wash away all sins — the Vishnu Purana states that chanting 'Rama' once is equivalent to reciting all 1000 names of Vishnu.",
+    "hindi": "राम धर्मपूर्ण जीवन के आदर्श हैं — व्यक्तिगत इच्छा से ऊपर कर्तव्य, सुविधा से ऊपर सत्य। रामनाम 'राम राम' हिंदू धर्म का सबसे पवित्र मंत्र है।",
+    "telugu": "రాముడు ధర్మ జీవనానికి ఆదర్శం — వ్యక్తిగత కోరికల కంటే కర్తవ్యం, సౌకర్యం కంటే సత్యం. 'రామ నామ' హిందూ ధర్మంలో పవిత్రమైన మంత్రం."
+  },
+  "iconography": {
+    "bow_and_arrow": "Kodanda — the divine bow; symbol of dharma, strength, and the destroyer of evil",
+    "blue_complexion": "Like Vishnu — infinite, all-pervading, the color of pure consciousness",
+    "crown": "Mukuta — his return to Ayodhya as king; righteousness crowned",
+    "sita": "Always depicted with Sita — the ideal of conjugal devotion and dharmic partnership",
+    "lakshmana": "His devoted brother — loyalty, selfless service, and fraternal love",
+    "hanuman": "Always at his feet — the power of devotion (bhakti) at the feet of dharma"
+  },
+  "stotras": [
+    "ram_raksha_stotram",
+    "rama_ashtottara",
+    "aditya_hridayam"
+  ],
+  "mantras": [
+    "om_ram_ramaya_namaha",
+    "rama_taraka_mantra"
+  ],
+  "festivals": [
+    "ram_navami",
+    "dussehra"
+  ],
+  "pujaGuide": "rama_puja",
+  "colors": ["blue", "green", "gold"],
+  "flowers": ["tulsi", "lotus", "jasmine", "parijata"],
+  "offering": "tulsi leaves, lotus flowers, fruits, panchamrita",
+  "sacred_number": 108
+}

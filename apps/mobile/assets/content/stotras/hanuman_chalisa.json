@@ -1,0 +1,398 @@
+{
+  "id": "hanuman_chalisa",
+  "title": {
+    "sanskrit": "हनुमान चालीसा",
+    "transliteration": "Hanumān Cālīsā",
+    "english": "Hanuman Chalisa — Forty Verses in Praise of Hanuman",
+    "hindi": "हनुमान चालीसा",
+    "telugu": "హనుమాన్ చాలీసా"
+  },
+  "deity": "hanuman",
+  "type": "stotra",
+  "tags": ["hanuman", "chalisa", "tulsidas", "protection", "strength", "daily", "popular"],
+  "description": {
+    "english": "The Hanuman Chalisa is a devotional hymn of forty verses (chalisa = forty) composed by the saint-poet Goswami Tulsidas in Awadhi Hindi, likely in the 16th century. It narrates the glories of Lord Hanuman — his divine birth, strength, wisdom, devotion to Rama, and his powers as a protector and remover of suffering. Recited by hundreds of millions of Hindus daily, it is arguably the most popular prayer in the Hindi-speaking world. Tulsidas composed it during his imprisonment in Kashi (Varanasi) by the Mughal governor; after reciting it, he was miraculously freed.",
+    "hindi": "हनुमान चालीसा गोस्वामी तुलसीदास द्वारा अवधी भाषा में रचित चालीस पदों का भक्तिगीत है। इसमें हनुमान जी के जन्म, शक्ति, ज्ञान, राम-भक्ति और उनकी रक्षकशक्ति का वर्णन है। करोड़ों हिंदू प्रतिदिन इसका पाठ करते हैं।",
+    "telugu": "హనుమాన్ చాలీసా గోస్వామి తులసీదాస్ అవధి హిందీలో రచించిన నలభై పద్యాల భక్తి గీతం. హనుమంతుని జన్మ, శక్తి, జ్ఞానం, రామ భక్తి, రక్షణ శక్తి వర్ణించబడింది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "॥ दोहा ॥\nश्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि ।\nबरनउँ रघुबर बिमल जसु जो दायकु फल चारि ।।",
+      "transliteration": "|| Dohā ||\nŚrīguru Carana Saroja Raja Nija Manu Mukuru Sudhāri |\nBaranaũ Raghubar Bimala Jasu Jo Dāyaku Phala Cāri ||",
+      "hindi": "श्री गुरु के चरण-कमलों की धूल से अपने मन के दर्पण को साफ करके,\nमैं रघुवर (राम) के निर्मल यश का वर्णन करता हूँ जो चारों फलों (धर्म, अर्थ, काम, मोक्ष) का दाता है।",
+      "telugu": "శ్రీ గురువు పాదపద్మ ధూళితో తన మనసు అనే అద్దాన్ని శుభ్రపరచుకుని,\nనలుగురు ఫలాలను (ధర్మ, అర్థ, కామ, మోక్ష) ఇచ్చే రఘువర (రాముని) నిర్మల కీర్తిని వర్ణిస్తాను.",
+      "english": "Cleansing the mirror of my mind with the dust of my Guru's lotus feet, I narrate the pure glory of Raghubar (Lord Rama), who is the bestower of the four fruits of life — dharma, wealth, desire, and liberation.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "बुद्धिहीन तनु जानिकै सुमिरौं पवन-कुमार ।\nबल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार ।।",
+      "transliteration": "Buddhihīna Tanu Jānikai Sumirauṃ Pavana-Kumāra |\nBala Budhi Bidyā Dehu Mohiṃ Harahu Kalesa Bikāra ||",
+      "hindi": "अपने शरीर को बुद्धिहीन जानकर, मैं पवनकुमार (हनुमान) का स्मरण करता हूँ;\nमुझे बल, बुद्धि और विद्या दो तथा मेरे दुःखों और दोषों को दूर करो।",
+      "telugu": "తన శరీరాన్ని బుద్ధిహీనమని తెలుసుకుని పవనపుత్రుని (హనుమంతుని) స్మరిస్తున్నాను;\nనాకు బలం, బుద్ధి, విద్య ఇవ్వు మరియు నా కష్టాలు, దోషాలను తొలగించు.",
+      "english": "Knowing my body to be without intelligence, I meditate on Pavanakumara (Hanuman), the son of the Wind; O Lord, grant me strength, wisdom, and knowledge, and remove my sorrows and impurities.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "॥ चौपाई ॥\nजय हनुमान ज्ञान गुन सागर ।\nजय कपीस तिहुँ लोक उजागर ।।",
+      "transliteration": "|| Caupāī ||\nJaya Hanumāna Jñāna Guna Sāgara |\nJaya Kapīsa Tihũ Loka Ujāgara ||",
+      "hindi": "जय हो हनुमान जी! आप ज्ञान और गुणों के सागर हैं;\nहे कपीश! तीनों लोकों में आपकी कीर्ति फैली है।",
+      "telugu": "జయ హనుమాన్! జ్ఞాన గుణ సాగరం;\nజయ కపీస! మూడు లోకాలలో ప్రకాశిస్తున్నవాడా.",
+      "english": "Victory to Hanuman, ocean of wisdom and virtue; victory to the Lord of monkeys, who illuminates all three worlds.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "राम दूत अतुलित बल धामा ।\nअञ्जनि-पुत्र पवनसुत नामा ।।",
+      "transliteration": "Rāma Dūta Atulita Bala Dhāmā |\nAñjani-Putra Pavanasuta Nāmā ||",
+      "hindi": "आप राम के दूत हैं, असीम शक्ति के धाम हैं;\nअंजनी-पुत्र (अंजना के पुत्र) और पवनसुत (वायु-पुत्र) आपके नाम हैं।",
+      "telugu": "రాముని దూతవు, అతుల బలానికి నిలయమైనవాడు;\nఅంజనీపుత్రుడు, పవనసుతుడు నీ పేర్లు.",
+      "english": "You are the messenger of Rama, the abode of incomparable strength; your names are Anjaniputra (son of Anjana) and Pavanaputra (son of the Wind God).",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "महाबीर बिक्रम बजरंगी ।\nकुमति निवार सुमति के संगी ।।",
+      "transliteration": "Mahābīra Bikrama Bajaraṃgī |\nKumati Nivāra Sumati Ke Saṃgī ||",
+      "hindi": "हे महावीर, विक्रम करने वाले, वज्र-शरीर (वज्रांगी);\nबुरी बुद्धि को दूर करने वाले, अच्छी बुद्धि के साथी।",
+      "telugu": "మహావీరా, విక్రమ శాలీ, వజ్రాంగీ;\nచెడు బుద్ధిని తొలగించేవాడు, మంచి బుద్ధికి సహాయమైనవాడు.",
+      "english": "O Great Hero, mighty and strong as the thunderbolt, remover of evil thoughts and companion of good wisdom.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "कञ्चन बरन बिराज सुबेसा ।\nकानन कुण्डल कुञ्चित केसा ।।",
+      "transliteration": "Kañcana Barana Birāja Subesā |\nKānana Kuṇḍala Kuñcita Kesā ||",
+      "hindi": "आपका रंग सुनहरा है, सुंदर वेश में सुशोभित हैं;\nकान में कुण्डल और घुंघराले बाल हैं।",
+      "telugu": "బంగారు వర్ణంతో అందమైన వేషంలో ఉన్నావు;\nచెవులలో కుండలాలు, సంకుచిత కేశాలు.",
+      "english": "Golden in colour, beautifully dressed, with earrings in your ears and curly hair.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "हाथ बज्र औ ध्वजा बिराजै ।\nकाँधे मूँज जनेऊ साजै ।।",
+      "transliteration": "Hātha Bajra Au Dhvajā Birājai |\nKāṃdhe Mūṃja Janeu Sājai ||",
+      "hindi": "हाथ में वज्र और ध्वजा सुशोभित है;\nकंधे पर मूँज की जनेऊ शोभायमान है।",
+      "telugu": "చేతిలో వజ్రం మరియు ధ్వజ అలంకరింపబడ్డాయి;\nభుజంపై మూంజ్ (జనేయు) అలంకృతమైంది.",
+      "english": "In your hand the thunderbolt and flag shine brightly; on your shoulder gleams the sacred thread (janeu) made of munja grass.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "शंकर सुवन केसरीनन्दन ।\nतेज प्रताप महा जग बन्दन ।।",
+      "transliteration": "Śaṃkara Suvana Kesarīnandana |\nTeja Pratāpa Mahā Jaga Bandana ||",
+      "hindi": "शंकर के अवतार, केसरी के पुत्र;\nआपका महान तेज और प्रताप समस्त जगत को वंदनीय है।",
+      "telugu": "శంకరుని అవతారం, కేసరీ నందనుడు;\nమహా తేజం, ప్రతాపంతో జగత్తంతా నమస్కరించేది.",
+      "english": "You are the incarnation of Shankara and the son of Kesari; your great radiance and glory are saluted by the entire universe.",
+      "audioUrl": ""
+    },
+    {
+      "index": 9,
+      "sanskrit": "बिद्यावान गुनी अति चातुर ।\nराम काज करिबे को आतुर ।।",
+      "transliteration": "Bidyāvāna Gunī Ati Cātura |\nRāma Kāja Karibe Ko Ātura ||",
+      "hindi": "आप विद्यावान, गुणी और अत्यंत चतुर हैं;\nराम के कार्य करने के लिए सदा उत्सुक रहते हैं।",
+      "telugu": "విద్యావంతుడు, గుణవంతుడు, అతి చతురుడు;\nరాముని కార్యం చేయడానికి ఎల్లప్పుడూ ఆతురుడవు.",
+      "english": "You are learned, virtuous, and exceedingly clever; ever eager to do the work of Lord Rama.",
+      "audioUrl": ""
+    },
+    {
+      "index": 10,
+      "sanskrit": "प्रभु चरित्र सुनिबे को रसिया ।\nराम लखन सीता मन बसिया ।।",
+      "transliteration": "Prabhu Caritra Sunibe Ko Rasiyā |\nRāma Lakhana Sītā Mana Basiyā ||",
+      "hindi": "आप प्रभु के चरित्र सुनने के रसिक हैं;\nआपके मन में राम, लक्ष्मण और सीता बसते हैं।",
+      "telugu": "ప్రభువు చరిత్ర వినడంలో ఆనందించేవాడు;\nమీ మనసులో రామ లక్ష్మణ సీతలు నివసిస్తారు.",
+      "english": "You delight in listening to the Lord's stories; in your heart dwell Rama, Lakshmana, and Sita.",
+      "audioUrl": ""
+    },
+    {
+      "index": 11,
+      "sanskrit": "सूक्ष्म रूप धरि सियहिं दिखावा ।\nबिकट रूप धरि लंक जरावा ।।",
+      "transliteration": "Sūkṣma Rūpa Dhari Siyahiṃ Dikhāvā |\nBikaṭa Rūpa Dhari Laṃka Jarāvā ||",
+      "hindi": "सूक्ष्म रूप धारण करके आपने सीता को दर्शन दिए;\nभयानक रूप धारण करके लंका को जलाया।",
+      "telugu": "సూక్ష్మ రూపం ధరించి సీతకు దర్శనమిచ్చావు;\nవికట రూపం ధరించి లంకను తగులబెట్టావు.",
+      "english": "Taking a minute form, you appeared before Sita; taking a terrible form, you set Lanka ablaze.",
+      "audioUrl": ""
+    },
+    {
+      "index": 12,
+      "sanskrit": "भीम रूप धरि असुर सँहारे ।\nरामचन्द्र के काज सँवारे ।।",
+      "transliteration": "Bhīma Rūpa Dhari Asura Saṃhāre |\nRāmacandra Ke Kāja Saṃvāre ||",
+      "hindi": "विशाल रूप धारण करके असुरों का संहार किया;\nरामचंद्र के कार्यों को सफल बनाया।",
+      "telugu": "భీమ రూపం ధరించి రాక్షసులను సంహరించావు;\nరామచంద్రుని కార్యాలను పూర్తి చేశావు.",
+      "english": "Taking a gigantic form you destroyed the demons and fulfilled the work of Ramachandra.",
+      "audioUrl": ""
+    },
+    {
+      "index": 13,
+      "sanskrit": "लाय सञ्जीवन लखन जियाए ।\nश्री रघुबीर हरषि उर लाए ।।",
+      "transliteration": "Lāya Sañjīvana Lakhana Jiyāe |\nŚrī Raghubīra Haraṣi Ura Lāe ||",
+      "hindi": "संजीवनी लाकर लक्ष्मण को जीवित किया;\nतब श्री रघुबीर (राम) ने प्रसन्न होकर आपको हृदय से लगाया।",
+      "telugu": "సంజీవని తెచ్చి లక్ష్మణుని బ్రతికించావు;\nశ్రీ రఘువీరుడు (రాముడు) సంతోషంతో నిన్ను హృదయానికి హత్తుకున్నాడు.",
+      "english": "Bringing the Sanjeevani herb, you restored Lakshmana to life; then the glorious Raghuveera (Rama) joyfully embraced you to his heart.",
+      "audioUrl": ""
+    },
+    {
+      "index": 14,
+      "sanskrit": "रघुपति कीन्ही बहुत बड़ाई ।\nतुम मम प्रिय भरतहि सम भाई ।।",
+      "transliteration": "Raghupati Kīnhī Bahuta Baṛāī |\nTuma Mama Priya Bharatahi Sama Bhāī ||",
+      "hindi": "रघुपति (राम) ने बहुत प्रशंसा की;\n'तुम मुझे प्रिय भरत के समान भाई हो।'",
+      "telugu": "రఘుపతి (రాముడు) చాలా ప్రశంసించాడు;\n'నీవు నాకు ప్రియమైన భరతుడిలాంటి సోదరుడవు.'",
+      "english": "Raghupati (Rama) praised you greatly, saying 'You are as dear to me as my brother Bharata.'",
+      "audioUrl": ""
+    },
+    {
+      "index": 15,
+      "sanskrit": "सहस बदन तुम्हरो जस गावैं ।\nअस कहि श्रीपति कण्ठ लगावैं ।।",
+      "transliteration": "Sahasa Badana Tumharo Jasa Gāvaiṃ |\nAsa Kahi Śrīpati Kaṇṭha Lagāvaiṃ ||",
+      "hindi": "शेष जी अपने सहस्र मुखों से आपका यश गाते हैं;\nयह कहकर श्रीपति (राम) ने आपको गले लगाया।",
+      "telugu": "శేషుడు సహస్ర ముఖాలతో నీ కీర్తి పాడుతున్నాడు;\nఇలా చెప్పి శ్రీపతి (రాముడు) నిన్ను కళ్ళకు అద్దుకున్నాడు.",
+      "english": "The thousand-headed Shesha sings your praises; saying this, Shripati (Rama) embraced you.",
+      "audioUrl": ""
+    },
+    {
+      "index": 16,
+      "sanskrit": "सनकादिक ब्रह्मादि मुनीसा ।\nनारद सारद सहित अहीसा ।।",
+      "transliteration": "Sanakādika Brahmādi Munīsā |\nNārada Sārada Sahita Ahīsā ||",
+      "hindi": "सनक आदि ऋषि, ब्रह्मा आदि मुनि,\nनारद, शारदा (सरस्वती) और शेषनाग सहित —",
+      "telugu": "సనకాది ఋషులు, బ్రహ్మాది మునులు,\nనారద, శారద (సరస్వతి) శేషనాగుతో సహా —",
+      "english": "The sages Sanaka and others, Brahma and the saints, Narada, Sharada (Saraswati), and the serpent king Shesha —",
+      "audioUrl": ""
+    },
+    {
+      "index": 17,
+      "sanskrit": "जम कुबेर दिगपाल जहाँ ते ।\nकबि कोबिद कहि सके कहाँ ते ।।",
+      "transliteration": "Jama Kubera Digapāla Jahāṃ Te |\nKabi Kobida Kahi Sake Kahāṃ Te ||",
+      "hindi": "यम, कुबेर और समस्त दिग्पाल जहाँ हों,\nकोई कवि या विद्वान आपका वर्णन पूर्णतः कहाँ कर सकता है।",
+      "telugu": "యమ, కుబేర, దిక్పాలకులు ఉన్నచోట,\nఏ కవి లేదా పండితుడు నిన్ను పూర్తిగా వర్ణించగలడు?",
+      "english": "Yama, Kubera, and the guardians of all directions — where is there a poet or scholar who can fully describe your glory?",
+      "audioUrl": ""
+    },
+    {
+      "index": 18,
+      "sanskrit": "तुम उपकार सुग्रीवहिं कीन्हा ।\nराम मिलाय राज पद दीन्हा ।।",
+      "transliteration": "Tuma Upakāra Sugrīvahiṃ Kīnhā |\nRāma Milāya Rāja Pada Dīnhā ||",
+      "hindi": "आपने सुग्रीव पर उपकार किया;\nराम से मिलवाकर उन्हें राज-पद दिलाया।",
+      "telugu": "నీవు సుగ్రీవుడికి మేలు చేశావు;\nరాముడితో కలిపించి రాజ్య పదవి ఇప్పించావు.",
+      "english": "You did a great favour to Sugriva — you united him with Rama and thus helped him regain his kingdom.",
+      "audioUrl": ""
+    },
+    {
+      "index": 19,
+      "sanskrit": "तुम्हरो मन्त्र बिभीषन माना ।\nलंकेस्वर भए सब जग जाना ।।",
+      "transliteration": "Tumharo Mantra Bibhīṣana Mānā |\nLaṃkeśvara Bhae Saba Jaga Jānā ||",
+      "hindi": "विभीषण ने आपका परामर्श माना;\nवे लंकेश्वर बने — यह सारा जगत जानता है।",
+      "telugu": "విభీషణుడు నీ మాట మన్నించాడు;\nఆయన లంకేశ్వరుడయ్యాడు — జగమంతా తెలుసు.",
+      "english": "Vibhishana accepted your counsel and became the lord of Lanka — this is known throughout the world.",
+      "audioUrl": ""
+    },
+    {
+      "index": 20,
+      "sanskrit": "जुग सहस्र जोजन पर भानू ।\nलील्यो ताहि मधुर फल जानू ।।",
+      "transliteration": "Juga Sahasra Jojana Para Bhānū |\nLīlyo Tāhi Madhura Phala Jānū ||",
+      "hindi": "युग सहस्र योजन दूर सूर्य को,\nआपने मीठे फल समझकर निगल लिया।",
+      "telugu": "యుగ సహస్ర యోజన దూరపు సూర్యుని,\nమధురమైన పండు అనుకుని మ్రింగివేశావు.",
+      "english": "The sun, thousands of yugas of yojanas away, you swallowed thinking it to be a sweet fruit.",
+      "audioUrl": ""
+    },
+    {
+      "index": 21,
+      "sanskrit": "प्रभु मुद्रिका मेलि मुख माहीं ।\nजलधि लाँघि गये अचरज नाहीं ।।",
+      "transliteration": "Prabhu Mudrikā Meli Mukha Māhīṃ |\nJaladhi Lāṃghi Gaye Acaraja Nāhīṃ ||",
+      "hindi": "प्रभु (राम) की अँगूठी मुँह में लेकर,\nआपने समुद्र लाँघ लिया — इसमें आश्चर्य क्या।",
+      "telugu": "ప్రభువు (రాముని) ఉంగరం నోట్లో పెట్టుకుని,\nసముద్రాన్ని దాటావు — ఇందులో ఆశ్చర్యమేముంది.",
+      "english": "Taking Lord Rama's ring in your mouth, you leaped across the ocean — there is nothing surprising in this.",
+      "audioUrl": ""
+    },
+    {
+      "index": 22,
+      "sanskrit": "दुर्गम काज जगत के जेते ।\nsugam अनुग्रह तुम्हरे तेते ।।",
+      "transliteration": "Durgama Kāja Jagata Ke Jete |\nSugama Anugraha Tumhare Tete ||",
+      "hindi": "संसार में जितने भी कठिन कार्य हैं,\nआपकी कृपा से वे सब सरल हो जाते हैं।",
+      "telugu": "జగత్తులో ఎన్ని కష్టమైన కార్యాలైనా,\nనీ అనుగ్రహంతో అవన్నీ సులభమవుతాయి.",
+      "english": "However difficult the tasks in this world, they all become easy through your grace.",
+      "audioUrl": ""
+    },
+    {
+      "index": 23,
+      "sanskrit": "राम दुआरे तुम रखवारे ।\nहोत न आज्ञा बिनु पैसारे ।।",
+      "transliteration": "Rāma Duāre Tuma Rakhavāre |\nHota Na Ājñā Binu Paisāre ||",
+      "hindi": "आप राम के द्वार के रक्षक हैं;\nआपकी आज्ञा के बिना कोई प्रवेश नहीं कर सकता।",
+      "telugu": "నీవు రాముని ద్వారానికి రక్షకుడవు;\nనీ అనుమతి లేకుండా ఎవరూ ప్రవేశించలేరు.",
+      "english": "You are the guardian at Rama's door; without your permission, none can enter.",
+      "audioUrl": ""
+    },
+    {
+      "index": 24,
+      "sanskrit": "सब सुख लहै तुम्हारी सरना ।\nतुम रक्षक काहू को डर ना ।।",
+      "transliteration": "Saba Sukha Lahai Tumhārī Saranā |\nTuma Rakṣaka Kāhū Ko Ḍara Nā ||",
+      "hindi": "आपकी शरण में सब सुख मिलते हैं;\nजब आप रक्षक हैं तो किसी को भय नहीं।",
+      "telugu": "నీ శరణంలో సర్వసుఖాలు లభిస్తాయి;\nనీవు రక్షకుడవైనప్పుడు ఎవరికీ భయం లేదు.",
+      "english": "All happiness is obtained in your shelter; when you are the protector, there is no fear from anyone.",
+      "audioUrl": ""
+    },
+    {
+      "index": 25,
+      "sanskrit": "आपन तेज सम्हारो आपै ।\nतीनों लोक हाँक तें काँपै ।।",
+      "transliteration": "Āpana Teja Samhāro Āpai |\nTīnoṃ Loka Hāṃka Teṃ Kāṃpai ||",
+      "hindi": "आप ही अपने तेज को संभाल सकते हैं;\nआपकी गर्जना से तीनों लोक काँप जाते हैं।",
+      "telugu": "నీవే నీ తేజాన్ని నియంత్రించగలవు;\nనీ గర్జనకు మూడు లోకాలు వణుకుతాయి.",
+      "english": "Only you can control your own power; at your roar, all three worlds tremble.",
+      "audioUrl": ""
+    },
+    {
+      "index": 26,
+      "sanskrit": "भूत पिसाच निकट नहिं आवै ।\nमहाबीर जब नाम सुनावै ।।",
+      "transliteration": "Bhūta Pisāca Nikaṭa Nahiṃ Āvai |\nMahābīra Jaba Nāma Sunāvai ||",
+      "hindi": "भूत-पिशाच पास नहीं आते;\nजब महावीर (हनुमान) का नाम सुनाई देता है।",
+      "telugu": "భూత పిశాచాలు దగ్గరకు రావు;\nమహావీరుని పేరు వినపడినప్పుడు.",
+      "english": "Evil spirits and ghosts do not come near when the name of Mahavira (Hanuman) is heard.",
+      "audioUrl": ""
+    },
+    {
+      "index": 27,
+      "sanskrit": "नासै रोग हरै सब पीरा ।\nजपत निरन्तर हनुमत बीरा ।।",
+      "transliteration": "Nāsai Roga Harai Saba Pīrā |\nJapata Nirantara Hanumata Bīrā ||",
+      "hindi": "रोग नष्ट होते हैं, सब पीड़ा दूर होती है;\nजो निरंतर हनुमत (हनुमान) का जाप करता है।",
+      "telugu": "రోగాలు నశిస్తాయి, సర్వ బాధలు తొలగిపోతాయి;\nనిరంతరం హనుమంతుని జపించేవాడికి.",
+      "english": "All diseases are cured and all pains are removed for one who continuously chants the name of brave Hanumata.",
+      "audioUrl": ""
+    },
+    {
+      "index": 28,
+      "sanskrit": "संकट तें हनुमान छुड़ावै ।\nमन क्रम बचन ध्यान जो लावै ।।",
+      "transliteration": "Saṃkaṭa Teṃ Hanumāna Chuṛāvai |\nMana Krama Bacana Dhyāna Jo Lāvai ||",
+      "hindi": "हनुमान जी संकटों से छुड़ाते हैं;\nजो मन, कर्म और वचन से उनका ध्यान लगाता है।",
+      "telugu": "హనుమంతుడు కష్టాల నుండి విముక్తి కలిగిస్తాడు;\nమనస్సు, కర్మ, వాక్కుతో ధ్యానించేవారిని.",
+      "english": "Hanuman rescues from difficulties those who meditate on him with thought, deed, and word.",
+      "audioUrl": ""
+    },
+    {
+      "index": 29,
+      "sanskrit": "सब पर राम तपस्वी राजा ।\nतिन के काज सकल तुम साजा ।।",
+      "transliteration": "Saba Para Rāma Tapasvī Rājā |\nTina Ke Kāja Sakala Tuma Sājā ||",
+      "hindi": "सबके ऊपर राम तपस्वी राजा हैं;\nउनके सभी कार्यों को आपने सजाया (पूर्ण किया)।",
+      "telugu": "అందరిలో పై రాముడు తపస్వి రాజు;\nఆయన అన్ని కార్యాలు నీవే పూర్తి చేశావు.",
+      "english": "Rama the ascetic king reigns over all; you have accomplished all his tasks.",
+      "audioUrl": ""
+    },
+    {
+      "index": 30,
+      "sanskrit": "और मनोरथ जो कोई लावै ।\nसोई अमित जीवन फल पावै ।।",
+      "transliteration": "Aura Manoratha Jo Koī Lāvai |\nSoī Amita Jīvana Phala Pāvai ||",
+      "hindi": "जो भी अपनी मनोकामना लेकर आता है,\nवह अपार जीवन-फल प्राप्त करता है।",
+      "telugu": "ఎవరైనా మనోకోరిక తీసుకువస్తే,\nఆయన అపార జీవన ఫలం పొందుతాడు.",
+      "english": "Whoever comes with a desire in their heart obtains immeasurable fruits in life.",
+      "audioUrl": ""
+    },
+    {
+      "index": 31,
+      "sanskrit": "चारों जुग परताप तुम्हारा ।\nहै परसिद्ध जगत उजियारा ।।",
+      "transliteration": "Cāroṃ Juga Paratāpa Tumhārā |\nHai Parasiddha Jagata Ujiyārā ||",
+      "hindi": "चारों युगों में आपका प्रताप है;\nजगत में आपकी कीर्ति प्रसिद्ध है।",
+      "telugu": "నాలుగు యుగాలలో నీ ప్రతాపం ఉంది;\nజగత్తులో నీ కీర్తి ప్రసిద్ధి చెందింది.",
+      "english": "Your glory endures through all four yugas; your fame illuminates the world.",
+      "audioUrl": ""
+    },
+    {
+      "index": 32,
+      "sanskrit": "साधु सन्त के तुम रखवारे ।\nअसुर निकन्दन राम दुलारे ।।",
+      "transliteration": "Sādhu Santa Ke Tuma Rakhavāre |\nAsura Nikandana Rāma Dulāre ||",
+      "hindi": "आप साधु-संतों के रक्षक हैं;\nराक्षसों के विनाशक और राम के प्रिय हैं।",
+      "telugu": "నీవు సాధు సంతుల రక్షకుడివి;\nరాక్షస సంహారకుడు, రాముని ప్రియుడవు.",
+      "english": "You are the protector of saints and holy men, the destroyer of demons, and the beloved of Rama.",
+      "audioUrl": ""
+    },
+    {
+      "index": 33,
+      "sanskrit": "अष्टसिद्धि नौ निधि के दाता ।\nअस बर दीन जानकी माता ।।",
+      "transliteration": "Aṣṭasiddhi Nau Nidhi Ke Dātā |\nAsa Bara Dīna Jānakī Mātā ||",
+      "hindi": "आप आठों सिद्धियों और नौ निधियों के दाता हैं;\nऐसा वरदान माता जानकी (सीता) ने दिया है।",
+      "telugu": "నీవు అష్ట సిద్ధులు మరియు నవ నిధులను ఇచ్చేవాడివి;\nమాత జానకి (సీత) ఇలా వరం ఇచ్చింది.",
+      "english": "You are the bestower of the eight siddhis and nine treasures; such a boon was granted by Mother Janaki (Sita).",
+      "audioUrl": ""
+    },
+    {
+      "index": 34,
+      "sanskrit": "राम रसायन तुम्हरे पासा ।\nसदा रहो रघुपति के दासा ।।",
+      "transliteration": "Rāma Rasāyana Tumhare Pāsā |\nSadā Raho Raghupatī Ke Dāsā ||",
+      "hindi": "आपके पास राम-रसायन (भक्ति-रूपी अमृत) है;\nआप सदा रघुपति के दास बने रहते हैं।",
+      "telugu": "నీ దగ్గర రామ రసాయనం (భక్తి రూపీ అమృతం) ఉంది;\nనీవు ఎల్లప్పుడూ రఘుపతికి దాసుడివి.",
+      "english": "You hold the elixir of Rama's name; you remain forever the servant of Raghupati.",
+      "audioUrl": ""
+    },
+    {
+      "index": 35,
+      "sanskrit": "तुम्हरे भजन राम को पावै ।\nजनम जनम के दुख बिसरावै ।।",
+      "transliteration": "Tumhare Bhajana Rāma Ko Pāvai |\nJanama Janama Ke Dukha Bisarāvai ||",
+      "hindi": "आपके भजन से राम की प्राप्ति होती है;\nजन्म-जन्म के दुःख भुला दिए जाते हैं।",
+      "telugu": "నీ భజన ద్వారా రాముని పొందవచ్చు;\nజన్మ జన్మల దుఃఖాలు మరచిపోతారు.",
+      "english": "Through devotional singing to you, one attains Rama; the sorrows of many births are forgotten.",
+      "audioUrl": ""
+    },
+    {
+      "index": 36,
+      "sanskrit": "अन्त काल रघुबर पुर जाई ।\nजहाँ जन्म हरि-भक्त कहाई ।।",
+      "transliteration": "Anta Kāla Raghubara Pura Jāī |\nJahāṃ Janma Hari-Bhakta Kahāī ||",
+      "hindi": "अंत समय में रघुबर के धाम जाते हैं;\nजहाँ जन्म हो वहाँ हरि-भक्त कहलाते हैं।",
+      "telugu": "చివరికాలంలో రఘువర ధాముకు వెళ్తారు;\nఎక్కడ జన్మించినా హరి భక్తుడు అని పిలువబడతారు.",
+      "english": "At life's end one goes to Raghubara's abode; wherever one is born, one is called a devotee of Hari.",
+      "audioUrl": ""
+    },
+    {
+      "index": 37,
+      "sanskrit": "और देवता चित्त न धरई ।\nहनुमत सेई सर्व सुख करई ।।",
+      "transliteration": "Aura Devatā Citta Na Dharaī |\nHanumata Seī Sarva Sukha Karaī ||",
+      "hindi": "अन्य देवताओं का चिंतन न करने पर भी,\nहनुमान की सेवा करने से सब सुख मिलते हैं।",
+      "telugu": "ఇతర దేవతలను మనసులో ఉంచకపోయినా,\nహనుమంతుని సేవించడంతో సర్వ సుఖాలు లభిస్తాయి.",
+      "english": "Even without holding other deities in mind, by serving Hanuman all happiness is obtained.",
+      "audioUrl": ""
+    },
+    {
+      "index": 38,
+      "sanskrit": "संकट कटै मिटै सब पीरा ।\nजो सुमिरै हनुमत बलबीरा ।।",
+      "transliteration": "Saṃkaṭa Kaṭai Miṭai Saba Pīrā |\nJo Sumirail Hanumata Balabīrā ||",
+      "hindi": "संकट दूर होते हैं, सब पीड़ा मिट जाती है;\nजो शक्तिशाली वीर हनुमान का स्मरण करता है।",
+      "telugu": "కష్టాలు తొలగిపోతాయి, సర్వ బాధలు మటుమాయమవుతాయి;\nబలవంతుడైన వీర హనుమంతుని స్మరించేవారికి.",
+      "english": "Difficulties are cut away and all pains are erased for one who remembers the mighty hero Hanuman.",
+      "audioUrl": ""
+    },
+    {
+      "index": 39,
+      "sanskrit": "जय जय जय हनुमान गुसाईं ।\nकृपा करो गुरुदेव की नाईं ।।",
+      "transliteration": "Jaya Jaya Jaya Hanumāna Gusāīṃ |\nKṛpā Karo Gurudeva Kī Nāīṃ ||",
+      "hindi": "जय जय जय हनुमान गोसाईं!\nगुरुदेव की भाँति कृपा करो।",
+      "telugu": "జయ జయ జయ హనుమాన్ గుసాయి!\nగురుదేవుడిలా కృప చేయి.",
+      "english": "Victory, victory, victory to Hanuman, the master; bestow grace upon me as a Guru would.",
+      "audioUrl": ""
+    },
+    {
+      "index": 40,
+      "sanskrit": "जो सत बार पाठ कर कोई ।\nछूटहि बन्दि महा सुख होई ।।",
+      "transliteration": "Jo Sata Bāra Pāṭha Kara Koī |\nChūṭahi Bandi Mahā Sukha Hoī ||",
+      "hindi": "जो सौ बार पाठ करता है,\nबंधन से मुक्त होकर महान सुख प्राप्त करता है।",
+      "telugu": "ఎవరైనా నూరు సార్లు పఠిస్తే,\nబంధనాల నుండి విముక్తి పొంది మహా సుఖం పొందుతారు.",
+      "english": "Whoever reads this a hundred times will be freed from bondage and will attain supreme happiness.",
+      "audioUrl": ""
+    },
+    {
+      "index": 41,
+      "sanskrit": "जो यह पढ़ै हनुमान चालीसा ।\nहोय सिद्धि साखी गौरीसा ।।",
+      "transliteration": "Jo Yaha Paṛhai Hanumāna Cālīsā |\nHoya Siddhi Sākhī Gaurīsā ||",
+      "hindi": "जो यह हनुमान चालीसा पढ़ता है,\nउसे सिद्धि प्राप्त होती है — गौरी के पति (शिव) साक्षी हैं।",
+      "telugu": "ఎవరైనా ఈ హనుమాన్ చాలీసా చదివితే,\nసిద్ధి లభిస్తుంది — గౌరీ పతి (శివుడు) సాక్షి.",
+      "english": "Whoever reads this Hanuman Chalisa attains spiritual perfection — Gauri's husband (Shiva) is witness to this.",
+      "audioUrl": ""
+    },
+    {
+      "index": 42,
+      "sanskrit": "॥ दोहा ॥\nपवन तनय संकट हरण मंगल मूरति रूप ।\nराम लखन सीता सहित हृदय बसहु सुरभूप ।।",
+      "transliteration": "|| Dohā ||\nPavana Tanaya Saṃkaṭa Haraṇa Maṃgala Mūrati Rūpa |\nRāma Lakhana Sītā Sahita Hṛdaya Basahu Surabhūpa ||",
+      "hindi": "हे पवन-पुत्र, संकट-हरण, मंगलमय मूर्ति;\nराम, लक्ष्मण, सीता सहित मेरे हृदय में वास करो, हे देवराज।",
+      "telugu": "పవన పుత్రా, సంకట హరణా, మంగళ మూర్తీ;\nరామ లక్ష్మణ సీతలతో సహా నా హృదయంలో నివసించు, సురభూపా.",
+      "english": "O son of the Wind, remover of difficulties, embodiment of auspiciousness — dwell in my heart together with Rama, Lakshmana, and Sita, O king of the gods.",
+      "audioUrl": ""
+    }
+  ]
+}

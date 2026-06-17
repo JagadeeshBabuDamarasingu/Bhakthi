@@ -1,0 +1,281 @@
+{
+  "id": "aditya_hridayam",
+  "title": {
+    "sanskrit": "आदित्यहृदयम्",
+    "transliteration": "Ādityahṛdayam",
+    "english": "Aditya Hridayam — The Heart of the Sun God",
+    "hindi": "आदित्यहृदयम्",
+    "telugu": "ఆదిత్య హృదయం"
+  },
+  "deity": "rama",
+  "type": "stotra",
+  "tags": ["rama", "surya", "sun", "valmiki", "ramayana", "victory", "power"],
+  "description": {
+    "english": "The Aditya Hridayam appears in the Yuddha Kanda (Battle Chapter) of Valmiki's Ramayana (Chapter 107). When Rama was exhausted on the battlefield facing Ravana, the sage Agastya appeared and taught him this hymn to the Sun God. After reciting it three times, Rama gained the strength and divine power to slay Ravana. The hymn praises Surya (the Sun) as the source of all life and energy, and includes the famous declaration 'Aadityo Varado Devi' — the Sun is the bestower of boons. It is recited for victory, health, and strength.",
+    "hindi": "आदित्यहृदयम् वाल्मीकि रामायण के युद्धकाण्ड में है। रण-क्षेत्र में थके हुए राम को ऋषि अगस्त्य ने यह सूर्य-स्तोत्र दिया। इसके तीन बार पाठ से राम को रावण-वध की शक्ति मिली।",
+    "telugu": "ఆదిత్య హృదయం వాల్మీకి రామాయణ యుద్ధకాండలో ఉంది. యుద్ధభూమిలో అలసిన రాముడికి అగస్త్య మహర్షి ఈ సూర్య స్తోత్రం ఉపదేశించాడు. మూడుసార్లు పఠించిన తర్వాత రాముడికి రావణ వధ శక్తి లభించింది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम् ।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम् ।।\nदैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम् ।\nउपागम्याब्रवीद्राममगस्त्यो भगवान् ऋषिः ।।",
+      "transliteration": "Tato Yuddhapariśrāntaṃ Samare Cintayā Sthitam |\nRāvaṇaṃ Cāgrato Dṛṣṭvā Yuddhāya Samupasthitam ||\nDaivataiśca Samāgamya Draṣṭumabhyāgato Raṇam |\nUpāgamyābravīdrāmamagastyō Bhagavān Ṛṣiḥ ||",
+      "hindi": "तब युद्ध से थके हुए राम चिंता में थे — सामने रावण युद्ध के लिए तैयार खड़ा था;\nदेवताओं के साथ आए भगवान ऋषि अगस्त्य ने रण देखकर राम के पास आकर कहा:",
+      "telugu": "అప్పుడు యుద్ధంతో అలసిన రాముడు చింతలో ఉన్నాడు — ముందు రావణుడు యుద్ధానికి సిద్ధంగా నిలబడ్డాడు;\nదేవతలతో వచ్చిన భగవాన్ అగస్త్య మహర్షి యుద్ధభూమి చూసి రాముని వద్దకు వచ్చి చెప్పాడు:",
+      "english": "Then the sage Agastya, who had come with the gods to witness the battle, approached the exhausted, worried Rama who stood facing Ravana ready for combat, and spoke:",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "राम राम महाबाहो शृणु गुह्यं सनातनम् ।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि ।।",
+      "transliteration": "Rāma Rāma Mahābāho Śṛṇu Guhyaṃ Sanātanam |\nYena Sarvānarīn Vatsa Samare Vijayiṣyasi ||",
+      "hindi": "हे राम! हे महाबाहु! सुनो, यह सनातन रहस्य है,\nजिसके द्वारा हे वत्स! तुम समर में समस्त शत्रुओं को जीत लोगे।",
+      "telugu": "హే రామ! హే మహాబాహో! ఈ సనాతన రహస్యం వినండి,\nఇందుతో హే వత్స! నీవు యుద్ధంలో సమస్త శత్రువులను జయిస్తావు.",
+      "english": "O Rama! O mighty-armed one! Hear this eternal secret, by which, O dear one, you shall conquer all enemies in battle.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम् ।\nजयावहं जपेन्नित्यमक्षयं परमं शिवम् ।।",
+      "transliteration": "Ādityahṛdayaṃ Puṇyaṃ Sarvaśatruvināśanam |\nJayāvahaṃ Japennityamakṣayaṃ Paramaṃ Śivam ||",
+      "hindi": "यह आदित्यहृदयम् पुण्यदायक है, सब शत्रुओं का नाशक है,\nजय दिलाने वाला है — इसका नित्य जाप करें; यह अक्षय और परम कल्याणकारी है।",
+      "telugu": "ఈ ఆదిత్య హృదయం పవిత్రమైనది, సర్వ శత్రు నాశనం,\nజయం ఇచ్చేది — దీన్ని నిత్యం జపించండి; ఇది అక్షయం, పరమ శివం.",
+      "english": "This Aditya Hridayam is sacred, destroys all enemies, and bestows victory — chant it daily; it is imperishable and supremely auspicious.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "सर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम् ।\nचिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम् ।।",
+      "transliteration": "Sarvamaṅgalamāṅgalyaṃ Sarvapāpapraṇāśanam |\nCintāśokapraśamanaṃmāyurvardhanamuttamam ||",
+      "hindi": "यह सब मंगलों में सर्वश्रेष्ठ मंगल है, सब पापों का नाशक है;\nचिंता और शोक को शांत करता है और आयु को बढ़ाता है — यह उत्तम है।",
+      "telugu": "ఇది సర్వ మంగళాలలో మంగళకరమైనది, సర్వ పాప నాశకం;\nచింత, శోకాలను శాంతిపరుస్తుంది, ఆయువు పెంచేది — ఉత్తమం.",
+      "english": "This is the most auspicious of all auspicious things, the destroyer of all sins, the queller of anxiety and grief, and the best promoter of longevity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "रश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम् ।\nपूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम् ।।",
+      "transliteration": "Raśmimantaṃ Samudyantaṃ Devāsuranamaskṛtam |\nPūjayasva Vivasvantaṃ Bhāskaraṃ Bhuvaneśvaram ||",
+      "hindi": "उन किरणों से युक्त, उदय होते हुए, देव और असुरों द्वारा नमस्कृत,\nविवस्वान (सूर्य), भास्कर, भुवनेश्वर की पूजा करो।",
+      "telugu": "కిరణాలతో కూడిన, ఉదయిస్తున్న, దేవాసురులచే నమస్కరించబడే,\nవివస్వంత (సూర్యుడు), భాస్కర, భువనేశ్వరుని పూజించండి.",
+      "english": "Worship the sun — the one possessed of rays, rising, bowed to by gods and asuras alike, Vivasvat, the illuminator, the lord of the universe.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः ।\nएष देवासुरगणांल्लोकान् पाति गभस्तिभिः ।।",
+      "transliteration": "Sarvadevātmako Hyeṣa Tejasvī Raśmibhāvanaḥ |\nEṣa Devāsuragaṇānllokān Pāti Gabhastibhiḥ ||",
+      "hindi": "यह सूर्य सभी देवताओं का आत्मा है, तेजस्वी है, किरणों से उत्पन्न करने वाला है;\nयह अपनी किरणों से देव, असुर और समस्त लोकों की रक्षा करता है।",
+      "telugu": "ఈ సూర్యుడు సర్వ దేవతల ఆత్మ, తేజస్వి, కిరణాలతో పోషించేవాడు;\nఇతను తన కిరణాలతో దేవ, అసుర, సమస్త లోకాలను పాలిస్తున్నాడు.",
+      "english": "This Sun is the very soul of all the gods, the radiant one, who nourishes through his rays; he protects all the gods, demons, and all the worlds with his rays.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "एष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः ।\nमहेन्द्रो धनदः कालो यमः सोमो ह्यपांपतिः ।।",
+      "transliteration": "Eṣa Brahmā Ca Viṣṇuśca Śivaḥ Skandaḥ Prajāpatiḥ |\nMahendro Dhanadaḥ Kālo Yamaḥ Somo Hyapāmpatiḥ ||",
+      "hindi": "यह सूर्य ही ब्रह्मा, विष्णु, शिव, स्कन्द, प्रजापति है;\nयही महेन्द्र, कुबेर, काल, यम, सोम और वरुण है।",
+      "telugu": "ఈ సూర్యుడే బ్రహ్మ, విష్ణువు, శివుడు, స్కందుడు, ప్రజాపతి;\nమహేంద్రుడు, కుబేరుడు, కాలుడు, యముడు, సోముడు, వరుణుడు.",
+      "english": "This Sun himself is Brahma, Vishnu, Shiva, Skanda, Prajapati; he is Mahendra, Kubera (god of wealth), Kala (Time), Yama (Death), Soma (Moon), and Varuna (god of waters).",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "पितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः ।\nवायुर्वह्निः प्रजाप्राण ऋतुकर्ता प्रभाकरः ।।",
+      "transliteration": "Pitaro Vasavaḥ Sādhyā Hyaśvinau Maruto Manuḥ |\nVāyurvahniḥ Prajāprāṇa Ṛtukartā Prabhākaraḥ ||",
+      "hindi": "यह पितर, वसु, साध्य, अश्विनीकुमार, मरुत और मनु है;\nवायु, अग्नि, प्रजाओं के प्राण, ऋतुओं का निर्माता और प्रभाकर (प्रकाश करने वाला) है।",
+      "telugu": "పితరులు, వసువులు, సాధ్యులు, అశ్వినీ కుమారులు, మరుత్తులు, మనువు;\nవాయువు, అగ్ని, ప్రజల ప్రాణం, ఋతు కర్త, ప్రభాకరుడు.",
+      "english": "He is the Pitrs, the Vasus, the Sadhyas, the Ashvini Kumaras, the Maruts, and Manu; he is the wind, fire, the life-breath of all beings, creator of the seasons, and the one who radiates light.",
+      "audioUrl": ""
+    },
+    {
+      "index": 9,
+      "sanskrit": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान् ।\nसुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः ।।",
+      "transliteration": "Ādityaḥ Savitā Sūryaḥ Khagaḥ Pūṣā Gabhastimān |\nSuvarṇasadṛśo Bhānurhiraṇyaretā Divākaraḥ ||",
+      "hindi": "आदित्य, सविता, सूर्य, खग (आकाश में विचरने वाला), पूषा, गभस्तिमान (किरण युक्त),\nसोने जैसे भानु, हिरण्यरेता, दिवाकर — ये सूर्य के नाम हैं।",
+      "telugu": "ఆదిత్యుడు, సవిత, సూర్యుడు, ఖగుడు, పూష, గభస్తిమాన్,\nసువర్ణ సదృశ భాను, హిరణ్యరేత, దివాకరుడు — ఇవి సూర్యుని నామాలు.",
+      "english": "Aditya, Savita, Surya, Khaga (sky-traveler), Pusha, Gabhastiman (possessor of rays), golden-hued Bhanu, Hiranyareta (golden-seeded), Divakar (maker of day) — these are the Sun's names.",
+      "audioUrl": ""
+    },
+    {
+      "index": 10,
+      "sanskrit": "हरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान् ।\nतिमिरोन्मथनः शम्भुस्त्वष्टा मार्तण्ड अंशुमान् ।।",
+      "transliteration": "Haridaśvaḥ Sahasrārciḥ Saptasaptirmarīcimān |\nTimironmathanaḥ Śambhustvaṣṭā Mārtaṇḍa Aṃśumān ||",
+      "hindi": "हरित अश्वों वाला, सहस्र किरणों वाला, सात घोड़ों वाला, मरीचिमान,\nअंधकार को नष्ट करने वाला, शम्भु, त्वष्टा, मार्तण्ड, अंशुमान।",
+      "telugu": "హరిత అశ్వాలు గలవాడు, సహస్ర కిరణాలు గలవాడు, సప్తాశ్వుడు, మరీచిమాన్,\nచీకటిని నాశనం చేసేవాడు, శంభు, త్వష్ట, మార్తాండ, అంశుమాన్.",
+      "english": "He of the green horses, of a thousand rays, the seven-horsed one, full of radiance; the destroyer of darkness, Shambhu, Tvashta, Martanda (son of Aditi), and Anshuman.",
+      "audioUrl": ""
+    },
+    {
+      "index": 11,
+      "sanskrit": "हिरण्यगर्भः शिशिरस्तपनो भास्करो रविः ।\nअग्निगर्भोऽदितेः पुत्रः शंखः शिशिरनाशनः ।।",
+      "transliteration": "Hiraṇyagarbhaḥ Śiśirastapano Bhāskaro Raviḥ |\nAgnigarbho'diteḥ Putraḥ Śaṅkhaḥ Śiśiranāśanaḥ ||",
+      "hindi": "हिरण्यगर्भ, शिशिर (शीतलता), तपन (ताप), भास्कर, रवि;\nअग्निगर्भ, अदिति-पुत्र, शंख, शिशिर (ठंड) का नाशक।",
+      "telugu": "హిరణ్యగర్భ, శిశిర, తపన, భాస్కర, రవి;\nఅగ్నిగర్భ, అదితి పుత్రుడు, శంఖ, శీతల నాశనం చేసేవాడు.",
+      "english": "Hiranyagarbha (golden-wombed), Shishira, Tapana (the one who heats), Bhaskara, Ravi; Agnigarbha (fire-bellied), son of Aditi, Shankha, destroyer of winter-cold.",
+      "audioUrl": ""
+    },
+    {
+      "index": 12,
+      "sanskrit": "व्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः ।\nघनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः ।।",
+      "transliteration": "Vyomanāthas Tamobhedī Ṛgyajuḥ Sāmapāragaḥ |\nGhanavṛṣṭirapāṃ Mitro Vindhyavīthīplavangamaḥ ||",
+      "hindi": "आकाश के नाथ, अंधकार को भेदने वाले, ऋग्, यजु और साम-वेद के पारगामी;\nघन-वृष्टि कराने वाले, जल-मित्र, विन्ध्य की घाटियों में विचरने वाले।",
+      "telugu": "వ్యోమ నాథుడు, అంధకార భేది, ఋగ్, యజుస్, సామ వేద పారగుడు;\nఘన వర్షం కురిపించేవాడు, జలమిత్రుడు, వింధ్య వీధులలో సంచరించేవాడు.",
+      "english": "Lord of the sky, piercer of darkness, one who has mastered the Rig, Yajur, and Sama Vedas; sender of heavy rains, friend of water, the one who moves through the Vindhya ranges.",
+      "audioUrl": ""
+    },
+    {
+      "index": 13,
+      "sanskrit": "आतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः ।\nकविर्विश्वो महातेजाः रक्तः सर्वभवोद्भवः ।।",
+      "transliteration": "Ātapī Maṇḍalī Mṛtyuḥ Piṃgalaḥ Sarvatāpanaḥ |\nKavirviśvo Mahātejāḥ Raktaḥ Sarvabhavodbhavaḥ ||",
+      "hindi": "आताप देने वाला, मंडल-धारी, मृत्यु, पिंगल (भूरे रंग का), सर्वताप (सर्व-ताप देने वाला);\nकवि, विश्व, महातेजस्वी, रक्त (लाल), सर्व-भव का उत्पत्ति-कर्ता।",
+      "telugu": "ఆతపం ఇచ్చేవాడు, మండలధారి, మృత్యువు, పింగళ, సర్వ తాపకుడు;\nకవి, విశ్వ, మహా తేజస్వి, రక్త, సర్వ భవోత్పాదకుడు.",
+      "english": "The one who causes heat, the disk-bearer, Death itself, tawny-colored, heater of all; the wise one, the cosmic one, the greatly radiant, the red one, the source of all existence.",
+      "audioUrl": ""
+    },
+    {
+      "index": 14,
+      "sanskrit": "नक्षत्रग्रहताराणामधिपो विश्वभावनः ।\nतेजसामपि तेजस्वी द्वादशात्मन् नमोस्तु ते ।।",
+      "transliteration": "Nakṣatragrahatārāṇāmadhipo Viśvabhāvanaḥ |\nTejasāmapi Tejasvī Dvādaśātman Namo'stu Te ||",
+      "hindi": "नक्षत्रों, ग्रहों और तारों का अधिपति, विश्व का पोषक;\nतेजस्वियों में भी तेजस्वी, हे द्वादशात्मन् (बारह रूपों वाले) — आपको नमस्कार।",
+      "telugu": "నక్షత్ర, గ్రహ, తారలకు అధిపతి, విశ్వ పోషకుడు;\nతేజస్వులలో తేజస్వి, హే ద్వాదశాత్మన్ — నీకు నమస్కారం.",
+      "english": "Lord of the stars, planets, and constellations; nourisher of the universe; the most radiant among the radiant — salutations to you, O twelve-formed one (the twelve Adityas).",
+      "audioUrl": ""
+    },
+    {
+      "index": 15,
+      "sanskrit": "नमः पूर्वाय गिरये पश्चिमायाद्रये नमः ।\nज्योतिर्गणानां पतये दिनाधिपतये नमः ।।",
+      "transliteration": "Namaḥ Pūrvāya Giraye Paścimāyādraye Namaḥ |\nJyotirgaṇānāṃ Pataye Dinādhipataye Namaḥ ||",
+      "hindi": "पूर्वी पर्वत (उदयाचल) को नमस्कार, पश्चिमी पर्वत (अस्ताचल) को नमस्कार;\nज्योति-गणों के पति को, दिन के अधिपति को नमस्कार।",
+      "telugu": "తూర్పు పర్వతానికి (ఉదయాచలం) నమస్కారం, పశ్చిమ పర్వతానికి (అస్తాచలం) నమస్కారం;\nజ్యోతి గణాల పతికి, దినాధిపతికి నమస్కారం.",
+      "english": "Salutations to the eastern mountain (Udayachal) and western mountain (Astachal); salutations to the lord of all luminaries, to the master of the day.",
+      "audioUrl": ""
+    },
+    {
+      "index": 16,
+      "sanskrit": "जयाय जयभद्राय हर्यश्वाय नमो नमः ।\nनमो नमः सहस्रांशो आदित्याय नमो नमः ।।",
+      "transliteration": "Jayāya Jayabhadrāya Haryaśvāya Namo Namaḥ |\nNamo Namaḥ Sahasrāṃśo Ādityāya Namo Namaḥ ||",
+      "hindi": "जय, जयभद्र, हरित अश्वों वाले को नमस्कार;\nसहस्र किरणों वाले, आदित्य को बार-बार नमस्कार।",
+      "telugu": "జయ, జయభద్ర, హరితాశ్వులకు నమస్కారం;\nసహస్రాంశు, ఆదిత్యుడికి పదే పదే నమస్కారం.",
+      "english": "Salutations to Jaya (victory), Jayabhadra (auspicious victory), to the one with green horses; salutations again and again to the thousand-rayed one, to Aditya.",
+      "audioUrl": ""
+    },
+    {
+      "index": 17,
+      "sanskrit": "नम उग्राय वीराय सारङ्गाय नमो नमः ।\nनमः पद्मप्रबोधाय मार्तण्डाय नमो नमः ।।",
+      "transliteration": "Nama Ugrāya Vīrāya Sāraṅgāya Namo Namaḥ |\nNamaḥ Padmaprabodhāya Mārtaṇḍāya Namo Namaḥ ||",
+      "hindi": "उग्र, वीर, सारंग को नमस्कार;\nपद्मों को खिलाने वाले, मार्तण्ड को बार-बार नमस्कार।",
+      "telugu": "ఉగ్ర, వీర, సారంగులకు నమస్కారం;\nపద్మాలు వికసింపచేసే, మార్తాండుడికి పదే పదే నమస్కారం.",
+      "english": "Salutations to the fierce, the heroic, the spotted one; salutations again and again to the awakener of lotuses, to Martanda.",
+      "audioUrl": ""
+    },
+    {
+      "index": 18,
+      "sanskrit": "ब्रह्मेशानाच्युतेशाय सूर्यायादित्यवर्चसे ।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः ।।",
+      "transliteration": "Brahmeśānācyuteśāya Sūryāyādityavarcase |\nBhāsvate Sarvabhakṣāya Raudrāya Vapuṣe Namaḥ ||",
+      "hindi": "ब्रह्मा-ईशान-अच्युत के नाथ को, सूर्य को, आदित्य-तेज को;\nभास्वत को, सर्वभक्षी को, रौद्र रूप वाले को नमस्कार।",
+      "telugu": "బ్రహ్మేశానాచ్యుతేశుడికి, సూర్యుడికి, ఆదిత్య వర్చసుడికి;\nభాస్వతుడికి, సర్వభక్షుడికి, రౌద్ర రూపుడికి నమస్కారం.",
+      "english": "Salutations to the Lord of Brahma, Ishana (Shiva), and Achyuta (Vishnu); to Surya, to Aditya's radiance; to the radiant one, to the all-consuming one, to the fierce form.",
+      "audioUrl": ""
+    },
+    {
+      "index": 19,
+      "sanskrit": "तमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने ।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः ।।",
+      "transliteration": "Tamoghnāya Himaghnāya Śatrughnāyāmitātmane |\nKṛtaghnaghnāya Devāya Jyotiṣāṃ Pataye Namaḥ ||",
+      "hindi": "अंधकार-विनाशक, हिम-विनाशक, शत्रु-विनाशक, असीम आत्मा वाले;\nकृतघ्न के विनाशक, देव, ज्योतियों के पति को नमस्कार।",
+      "telugu": "తమో ఘ్నుడు, హిమ ఘ్నుడు, శత్రు ఘ్నుడు, అమిత ఆత్ముడు;\nకృతఘ్న ఘ్నుడు, దేవుడు, జ్యోతిషాం పతికి నమస్కారం.",
+      "english": "Salutations to the destroyer of darkness, destroyer of cold, destroyer of enemies, the limitless soul; to the destroyer of the ungrateful, to the divine one, to the lord of all lights.",
+      "audioUrl": ""
+    },
+    {
+      "index": 20,
+      "sanskrit": "तप्तचामीकराभाय हरये विश्वकर्मणे ।\nनमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे ।।",
+      "transliteration": "Taptacāmīkarābhāya Haraye Viśvakarmaṇe |\nNamastamo'bhinighnāya Rucaye Lokasākṣiṇe ||",
+      "hindi": "तपे सोने जैसी आभा वाले, हरि, विश्वकर्मा को;\nअंधकार के पूर्ण विनाशक, रुचि (प्रकाश) के पुंज, लोकों के साक्षी को नमस्कार।",
+      "telugu": "కాల్చిన బంగారు కాంతి వంటి, హరి, విశ్వకర్మకు;\nచీకటి పూర్తి నాశనకుడు, రుచి (కాంతి) పుంజం, లోక సాక్షికి నమస్కారం.",
+      "english": "Salutations to the one with the radiance of molten gold, to Hari, to Vishvakarma; salutations to the complete destroyer of darkness, to the source of light, to the witness of all the worlds.",
+      "audioUrl": ""
+    },
+    {
+      "index": 21,
+      "sanskrit": "एष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः ।\nएष एवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम् ।।",
+      "transliteration": "Eṣa Supteṣu Jāgarti Bhūteṣu Pariniṣṭhitaḥ |\nEṣa Evāgnihotraṃ Ca Phalaṃ Caivāgnihotriṇām ||",
+      "hindi": "यह सूर्य सोते हुए प्राणियों में भी जागता रहता है, प्राणियों में दृढ़ता से स्थित है;\nयही अग्निहोत्र (यज्ञ) है और यही अग्निहोत्री का फल भी है।",
+      "telugu": "ఈ సూర్యుడు నిద్రిస్తున్న ప్రాణులలో కూడా జాగ్రత్గా ఉంటాడు, ప్రాణులలో దృఢంగా నిలిచి ఉంటాడు;\nఇతనే అగ్నిహోత్రం (యజ్ఞం), ఇతనే అగ్నిహోత్రి ఫలం.",
+      "english": "This Sun remains wakeful even in sleeping beings, firmly established in all creatures; this very Sun is the Agnihotra (sacred fire ritual) and also the reward of those who perform the Agnihotra.",
+      "audioUrl": ""
+    },
+    {
+      "index": 22,
+      "sanskrit": "देवाश्च क्रतवश्चैव क्रतूनां फलमेव च ।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः ।।",
+      "transliteration": "Devāśca Kratavaścaiva Kratūnāṃ Phalameva Ca |\nYāni Kṛtyāni Lokeṣu Sarva Eṣa Raviḥ Prabhuḥ ||",
+      "hindi": "देवता, यज्ञ और यज्ञों के फल;\nलोकों में जो कुछ भी कार्य हैं — यह सब सूर्य-प्रभु ही है।",
+      "telugu": "దేవతలు, యజ్ఞాలు, యజ్ఞ ఫలాలు;\nలోకాలలో ఉన్న అన్ని కార్యాలు — ఇవన్నీ ఈ రవి ప్రభువే.",
+      "english": "The gods, the sacrifices, the fruits of the sacrifices; all the actions performed in all the worlds — all this is this Sun, the Lord.",
+      "audioUrl": ""
+    },
+    {
+      "index": 23,
+      "sanskrit": "एनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च ।\nकीर्तयन् पुरुषः कश्चिन्नावसीदति राघव ।।",
+      "transliteration": "Enam Āpatsu Kṛcchreṣu Kāntāreṣu Bhayeṣu Ca |\nKīrtayan Puruṣaḥ Kaścinnāvasīdati Rāghava ||",
+      "hindi": "हे राघव! आपदाओं में, कठिन परिस्थितियों में, जंगलों में और भयों में\nइन सूर्य का कीर्तन करने वाला कोई भी पुरुष कभी नहीं डूबता।",
+      "telugu": "హే రాఘవ! ఆపదలలో, కఠిన పరిస్థితులలో, అడవులలో, భయాలలో\nఈ సూర్యుని కీర్తించే వ్యక్తి ఎప్పుడూ పతనం చెండడు.",
+      "english": "O Raghava! No person who praises this Sun in calamities, in hardships, in forests, and in times of fear, shall ever fall.",
+      "audioUrl": ""
+    },
+    {
+      "index": 24,
+      "sanskrit": "पूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम् ।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि ।।",
+      "transliteration": "Pūjayasvainamekāgro Devadevaṃ Jagatpatim |\nEtat Triguṇitaṃ Japtvā Yuddhṣu Vijayiṣyasi ||",
+      "hindi": "एकाग्र होकर इस देवदेव (देवों के देव), जगत्-पति की पूजा करो;\nइसे तीन बार जपने से युद्धों में विजय प्राप्त होगी।",
+      "telugu": "ఏకాగ్రంగా ఈ దేవదేవ, జగత్పతిని పూజించండి;\nఇది మూడుసార్లు జపించడం వల్ల యుద్ధాలలో విజయం లభిస్తుంది.",
+      "english": "Worship this God of gods, the Lord of the universe, with one-pointed focus; chanting this three times will bring victory in battles.",
+      "audioUrl": ""
+    },
+    {
+      "index": 25,
+      "sanskrit": "अस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि ।\nएवमुक्त्वा तदागस्त्यो जगाम च यथागतम् ।।",
+      "transliteration": "Asmin Kṣaṇe Mahābāho Rāvaṇaṃ Tvaṃ Vadhiṣyasi |\nEvamuktvā Tadāgastyo Jagāma Ca Yathāgatam ||",
+      "hindi": "'हे महाबाहु! इसी क्षण तुम रावण का वध करोगे।'\nयह कहकर अगस्त्य जैसे आए थे वैसे ही चले गए।",
+      "telugu": "'హే మహాబాహో! ఈ క్షణమే నీవు రావణుని వధిస్తావు.'\nఇలా చెప్పి అగస్త్యుడు వచ్చినట్లే వెళ్ళిపోయాడు.",
+      "english": "'O mighty-armed one! In this very instant, you will slay Ravana.' Having said this, Agastya departed as he had come.",
+      "audioUrl": ""
+    },
+    {
+      "index": 26,
+      "sanskrit": "एतच्छ्रुत्वा महातेजा नष्टशोकोऽभवत्तदा ।\nधारयामास सुप्रीतो राघवः प्रयतात्मवान् ।।",
+      "transliteration": "Etacchutvā Mahātejā Naṣṭaśoko'bhavatadā |\nDhārayāmāsa Suprīto Rāghavaḥ Prayatātmavān ||",
+      "hindi": "यह सुनकर महातेजस्वी राम का शोक नष्ट हो गया;\nसुप्रसन्न, एकाग्र आत्मा वाले राघव ने इसे धारण कर लिया।",
+      "telugu": "ఇది విన్న మహా తేజస్వి రాముని శోకం నశించింది;\nసుప్రీతుడైన, ఏకాగ్ర చిత్తుడైన రాఘవుడు దీన్ని ధారణ చేసాడు.",
+      "english": "Hearing this, the mighty Rama was freed from grief; the joyous, pure-minded Raghava retained it in his memory.",
+      "audioUrl": ""
+    },
+    {
+      "index": 27,
+      "sanskrit": "आदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान् ।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान् ।।",
+      "transliteration": "Ādityaṃ Prekṣya Japtvā Tu Paraṃ Harṣamavāptavān |\nTrirācamya Śucirbhūtvā Dhanurādāya Vīryavān ||",
+      "hindi": "सूर्य की ओर देखकर, जप करके, राम ने परम हर्ष प्राप्त किया;\nतीन बार आचमन कर, शुद्ध होकर, वीर्यवान राम ने धनुष उठाया।",
+      "telugu": "సూర్యుని వైపు చూసి, జపించి, రాముడు పరమ హర్షం పొందాడు;\nమూడుసార్లు ఆచమనం చేసి, శుచి అయి, వీర్యవంతుడైన రాముడు ధనుస్సు తీశాడు.",
+      "english": "Looking toward the Sun and reciting the hymn, Rama attained supreme joy; having sipped water three times and become pure, the mighty Rama took up his bow.",
+      "audioUrl": ""
+    },
+    {
+      "index": 28,
+      "sanskrit": "रावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत् ।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत् ।।",
+      "transliteration": "Rāvaṇaṃ Prekṣya Hṛṣṭātmā Yuddhāya Samupāgamat |\nSarvayatnena Mahatā Vadhe Tasya Dhṛto'bhavat ||",
+      "hindi": "रावण की ओर देखकर, हर्षित मन से राम युद्ध के लिए आगे आए;\nसम्पूर्ण प्रयास से उसके वध के लिए दृढ़ हो गए।",
+      "telugu": "రావణుని వైపు చూసి, ఆనందించిన మనసుతో రాముడు యుద్ధానికి ముందుకు వెళ్ళాడు;\nసమస్త ప్రయత్నంతో అతని వధకు దృఢుడయ్యాడు.",
+      "english": "Gazing at Ravana with a joyful heart, Rama advanced for battle; with all his might he resolved on Ravana's destruction.",
+      "audioUrl": ""
+    },
+    {
+      "index": 29,
+      "sanskrit": "अथ रविरवदन्निरीक्ष्य रामं\nमुदितमनाः परमं प्रहृष्यमाणः ।\nनिशिचरपतिसंक्षयं विदित्वा\nसुरगणमध्यगतो वचस्त्वरेति ।।",
+      "transliteration": "Atha Raviranadannirīkṣya Rāmaṃ\nMuditamanāḥ Paramaṃ Prahṛṣyamāṇaḥ |\nNiśicarapatisaṃkṣayaṃ viditvā\nSuragaṇamadhyagato Vacastvaretī ||",
+      "hindi": "तब सूर्यदेव ने राम को देखकर, प्रसन्न और अत्यंत हर्षित होकर,\nरात-चरों के राजा (रावण) के विनाश को जानकर,\nदेवगणों के मध्य में खड़े होकर कहा: 'शीघ्र करो!'",
+      "telugu": "అప్పుడు సూర్యదేవుడు రాముని చూసి, ప్రసన్న, పరమ హర్షిత మనసుతో,\nరాత్రి చరుల రాజు (రావణుని) నాశనం తెలుసుకుని,\nదేవగణ మధ్యలో నిలిచి 'త్వరగా చేయి!' అని అన్నాడు.",
+      "english": "Then the Sun God, seeing Rama, full of joy and supreme delight, knowing the destruction of the night-wanderers' king (Ravana), stood in the midst of the gods and said: 'Make haste!'",
+      "audioUrl": ""
+    }
+  ]
+}

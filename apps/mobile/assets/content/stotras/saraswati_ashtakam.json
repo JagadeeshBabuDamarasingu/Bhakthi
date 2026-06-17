@@ -1,0 +1,92 @@
+{
+  "id": "saraswati_ashtakam",
+  "title": {
+    "sanskrit": "सरस्वत्यष्टकम्",
+    "transliteration": "Sarasvatyaṣṭakam",
+    "english": "Saraswati Ashtakam — Eight Verses in Praise of Goddess Saraswati",
+    "hindi": "सरस्वती अष्टकम्",
+    "telugu": "సరస్వతి అష్టకం"
+  },
+  "deity": "saraswati",
+  "type": "stotra",
+  "tags": ["saraswati", "ashtakam", "eight verses", "knowledge", "vak", "vasant panchami"],
+  "description": {
+    "english": "The Saraswati Ashtakam is a devotional hymn of eight verses glorifying Goddess Saraswati, the deity of knowledge, speech, arts, and wisdom. Each verse describes her grace, her power to confer learning, and her divine form holding the Veena and book. Reciting this daily — especially before study or on Vasanta Panchami — invokes her blessings for eloquence and mastery of all learning.",
+    "hindi": "सरस्वती अष्टकम् ज्ञान, वाणी, कला और विद्या की देवी सरस्वती की आठ श्लोकों में स्तुति है। प्रतिदिन, विशेषतः पढ़ाई से पहले या वसन्त पंचमी पर पाठ करने से वाक्पटुता और विद्या में सफलता मिलती है।",
+    "telugu": "సరస్వతి అష్టకం జ్ఞాన, వాక్, కళా, విద్యా దేవి సరస్వతిని ఎనిమిది శ్లోకాలలో స్తుతిస్తుంది. ప్రతిదినం, ముఖ్యంగా చదువు ముందు లేదా వసంత పంచమికి పఠించడం వాక్పటుత్వం, విద్యలో విజయం ఇస్తుంది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता ।\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।\nया ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता ।\nसा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ।।",
+      "transliteration": "Yā kundendu-tuṣāra-hāra-dhavalā yā śubhra-vastrāvṛtā |\nYā vīṇāvara-daṇḍa-maṇḍita-karā yā śveta-padmāsanā |\nYā brahmācyuta-śaṃkara-prabhṛtibhir devaiḥ sadā vanditā |\nSā māṃ pātu Sarasvatī Bhagavatī niḥśeṣa-jāḍyāpahā ||",
+      "english": "She who is white as the jasmine, the moon, the snow, and the necklace of pearls; she who is draped in white garments; she whose hands are adorned with the excellent Veena; she who is seated on a white lotus; she who is ever worshipped by Brahma, Vishnu, Shiva, and all the gods — may that divine Goddess Saraswati, the remover of all dullness, protect me.",
+      "telugu": "మల్లె, చంద్రుడు, మంచు, ముత్యాల హారంలా శ్వేతంగా ఉన్నది; తెల్లని వస్త్రాలు ధరించినది; శ్రేష్ఠ వీణతో అలంకరించిన చేతులు కలిగినది; తెల్లని పద్మంపై ఆసీనురాలైనది; బ్రహ్మ, విష్ణు, శివులతో సహా సమస్త దేవతలు నిత్యం వందించే ఆ భగవతి సరస్వతి — అన్ని జడత్వాలను తొలగించే ఆమె నన్ను రక్షించుగాక.",
+      "hindi": "जो कुन्द, चन्द्र, हिम और मोतियों के हार जैसी धवल हैं; जो शुभ्र वस्त्र धारण करती हैं; जिनके हाथ उत्तम वीणा से सुशोभित हैं; जो श्वेत कमल पर विराजमान हैं; जिनकी सदा ब्रह्मा, विष्णु, शंकर आदि देवता वंदना करते हैं — वे भगवती सरस्वती मुझे सब जड़ता से मुक्त कर रक्षा करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "शुक्लां ब्रह्मविचारसारपरमामाद्यां जगद्व्यापिनीम् ।\nवीणापुस्तकधारिणीमभयदां जाड्यान्धकारापहाम् ।\nहस्ते स्फाटिकमालिकां विदधतीं पद्मासने संस्थिताम् ।\nवन्दे तां परमेश्वरीं भगवतीं बुद्धिप्रदां शारदाम् ।।",
+      "transliteration": "Śuklāṃ brahma-vicāra-sāra-paramām ādyāṃ jagad-vyāpinīm |\nVīṇāpustaka-dhāriṇīm abhaya-dāṃ jāḍyāndhakārāpahām |\nHaste sphāṭika-mālikāṃ vidadhatīṃ padmāsane saṃsthitām |\nVande tāṃ parameśvarīṃ bhagavatīṃ buddhi-pradāṃ Śāradām ||",
+      "english": "I salute that Supreme Goddess, the white one, who is the essence of the contemplation of Brahman, the primordial and all-pervading; who holds the Veena and the book; who grants fearlessness and removes the darkness of dullness; who holds a crystal rosary in her hand; who is seated on the lotus — that bestower of intellect, Sharada, I salute.",
+      "telugu": "బ్రహ్మ విచారణలో సారభూతమైన, ఆద్యమైన, జగత్ వ్యాపిణి అయిన తెల్లని దేవిని; వీణ, పుస్తకం ధరించిన, అభయమిచ్చే, జడత్వ అంధకారాన్ని తొలగించే దేవిని; స్ఫటిక మాల పట్టుకుని పద్మాసనంలో ఆసీనురాలైన ఆ పరమేశ్వరి, బుద్ధిప్రద శారదను నమస్కరిస్తున్నాను.",
+      "hindi": "जो ब्रह्मविचार की सार-परम हैं, आद्या हैं, जगद्व्यापिनी हैं; जो वीणा और पुस्तक धारण करती हैं, अभयदात्री हैं, जाड्यरूपी अंधकार को दूर करती हैं; जो हाथ में स्फटिक माला धारण किए पद्मासन पर विराजमान हैं — उन परमेश्वरी भगवती बुद्धिप्रद शारदा को मैं प्रणाम करता हूँ।",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ।।",
+      "transliteration": "Sarasvati namastubhyaṃ varade kāmarūpiṇi |\nVidyāraṃbhaṃ kariṣyāmi siddhir bhavatu me sadā ||",
+      "english": "Salutations to you, O Saraswati, the boon-granting goddess of desired form! I am about to begin my studies — may success always be mine.",
+      "telugu": "వరప్రదా, కామరూపిణి సరస్వతీ! నీకు నమస్కారం. నేను విద్యారంభం చేయబోతున్నాను — నాకు సదా సిద్ధి కలుగుగాక.",
+      "hindi": "हे वरदायिनी, कामरूपिणी सरस्वती! तुम्हें नमस्कार। मैं विद्यारंभ करने जा रहा हूँ — मुझे सदा सिद्धि प्राप्त हो।",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "जय जय देवि चराचरसारे कुच युगशोभित मुक्ताहारे ।\nवीणारञ्जित पुस्तक हस्ते भगवति भारति देवि नमस्ते ।।",
+      "transliteration": "Jaya jaya devi carācara-sāre kuca-yuga-śobhita muktāhāre |\nVīṇā-rañjita pustaka-haste bhagavati Bhārati devi namaste ||",
+      "english": "Victory! Victory to the Goddess, who is the essence of all movable and immovable creation; adorned with a pearl necklace shining at her breast; with hands graced by the Veena and the book — O divine Bharati, salutations to you!",
+      "telugu": "జయ! జయ! చరాచర సారమైన దేవీ, ముక్తాహారంతో శోభించే దేవీ; వీణ మరియు పుస్తకం చేతిలో ధరించిన భారతీ భగవతీ, నీకు నమస్కారం!",
+      "hindi": "जय जय देवी! चराचर जगत की सारभूता, मुक्ताहार से शोभित वक्षस्थल वाली; वीणा और पुस्तक हस्त में धारण करने वाली भगवती भारती, आपको नमस्कार!",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "सरस्वति महाभागे विद्ये कमललोचने ।\nविद्यारूपे विशालाक्षि विद्यां देहि नमोऽस्तु ते ।।",
+      "transliteration": "Sarasvati mahābhāge vidye kamala-locane |\nVidyārūpe viśālākṣi vidyāṃ dehi namo'stu te ||",
+      "english": "O greatly fortunate Saraswati, O Knowledge itself, O lotus-eyed one! O form of learning, O wide-eyed goddess — grant me knowledge. Salutations to you.",
+      "telugu": "హే మహాభాగ్యవతి సరస్వతీ! విద్యే! కమల లోచనే! విద్యా స్వరూపీ! విశాలాక్షీ! నాకు విద్యను ప్రసాదించు. నీకు నమస్కారం.",
+      "hindi": "हे महाभागे सरस्वती! हे विद्ये! हे कमललोचने! हे विद्यारूपे! हे विशालाक्षि! मुझे विद्या प्रदान करो। तुम्हें नमस्कार।",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "वेदेषु शास्त्रेषु विराजमाना गङ्गेव पापापह वाहिनी च ।\nआदित्यसंकाशमणिं दधाना सरस्वती मे प्रददातु वाचम् ।।",
+      "transliteration": "Vedeṣu śāstreṣu virājamānā gaṅgeva pāpāpaha-vāhinī ca |\nĀditya-saṃkāśa-maṇiṃ dadhanā Sarasvatī me pradadātu vācam ||",
+      "english": "She who shines in the Vedas and scriptures, she who flows like the Ganga washing away sins, she who holds a gem radiant as the sun — may that Saraswati grant me eloquence of speech.",
+      "telugu": "వేదాలలో, శాస్త్రాలలో ప్రకాశించే, గంగవలె పాపాలను తొలగించే, సూర్యుని వలె ప్రకాశించే మణిని ధరించిన సరస్వతి నాకు వాక్ శక్తిని ప్రసాదించుగాక.",
+      "hindi": "जो वेदों और शास्त्रों में विराजमान हैं, जो गंगा की तरह पापों को बहाने वाली हैं, जो सूर्य-समान तेजस्वी मणि धारण करती हैं — वे सरस्वती मुझे वाक्शक्ति प्रदान करें।",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "पाठे पुस्तके वसतीं भजतां सुखदां वरां ।\nहस्तकमल-धृत वीणां गानप्रियां भजे सदा ।।\nकीर्त्यते यजते पूज्यते चैव गायते ।\nसरस्वत्यै नमस्तुभ्यं सिद्धिर्भवतु सर्वदा ।।",
+      "transliteration": "Pāṭhe pustake vasatīṃ bhajatāṃ sukhadāṃ varāṃ |\nHastakamala-dhṛta vīṇāṃ gānapriyāṃ bhaje sadā ||\nKīrtyate yajate pūjyate caiva gāyate |\nSarasvatyai namastubhyaṃ siddhir bhavatu sarvadā ||",
+      "english": "She who dwells in study and in books, the excellent bestower of joy to devotees; she who holds the Veena in her lotus-hands, the lover of song — I always worship her. She who is praised, worshipped, adored, and sung — salutations to Saraswati; may success be mine always.",
+      "telugu": "పాఠంలో, పుస్తకంలో నివసించే, భక్తులకు సుఖం ఇచ్చే శ్రేష్ఠురాలు; పద్మ హస్తాలలో వీణ పట్టిన గానప్రియురాలిని నిత్యం భజిస్తాను. స్తుతించబడి, యజించబడి, పూజించబడి, పాడబడే సరస్వతికి నమస్కారం — నాకు సదా సిద్ధి కలుగుగాక.",
+      "hindi": "जो पाठ और पुस्तक में निवास करती हैं, भक्तों को सुख देने वाली श्रेष्ठा हैं; जिनके करकमल में वीणा है, जो गानप्रिय हैं — उनका मैं सदा भजन करता हूँ। जिनकी कीर्ति की जाती है, यज्ञ और पूजा की जाती है, गान किया जाता है — उन सरस्वती को नमस्कार; मुझे सदा सिद्धि प्राप्त हो।",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "सरस्वत्यै नमो नित्यं भद्रकाल्यै नमो नमः ।\nवेद-वेदान्तवेद्यायै योगायै योगसम्भवे ।।\nसरस्वति महाभागे स्मृतिमेधे च दापय ।\nसर्वविद्याधिपत्न्यै च सर्वसिद्धिकर्यै नमः ।।",
+      "transliteration": "Sarasvatyai namo nityaṃ bhadrakālyai namo namaḥ |\nVeda-vedānta-vedyāyai yogāyai yoga-sambhave ||\nSarasvati mahābhāge smṛti-medhe ca dāpaya |\nSarva-vidyādhipatnyai ca sarva-siddhi-karyai namaḥ ||",
+      "english": "Salutations always to Saraswati; again and again salutations to Bhadrakali (the auspicious fierce one); she who is known through the Vedas and Vedanta; the yoga and born of yoga. O greatly fortunate Saraswati, bestow upon me memory and keen intellect. Salutations to the mistress of all knowledge, the one who grants all success.",
+      "telugu": "సరస్వతికి నిత్యం నమస్కారం; భద్రకాళికి నమస్కారం; వేద, వేదాంత వేద్యురాలికి; యోగకు, యోగ సంభవమైన దేవికి నమస్కారం. హే మహాభాగ సరస్వతీ, నాకు స్మృతి, మేధ ఇవ్వు. సర్వ విద్యాధిపత్నికి, సర్వ సిద్ధికరికి నమస్కారం.",
+      "hindi": "सरस्वती को नित्य नमस्कार; भद्रकाली को बार-बार नमस्कार; वेद-वेदान्त से जानी जाने वाली, योग को और योग से प्रकट होने वाली को नमस्कार। हे महाभागे सरस्वती, मुझे स्मृति और मेधा दो। सर्वविद्याधिपत्नी और सर्वसिद्धिकरी को नमस्कार।",
+      "audioUrl": ""
+    }
+  ]
+}

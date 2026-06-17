@@ -1,0 +1,58 @@
+{
+  "id": "vishnu",
+  "name": {
+    "sanskrit": "विष्णुः",
+    "transliteration": "Viṣṇuḥ",
+    "english": "Vishnu",
+    "hindi": "विष्णु",
+    "telugu": "విష్ణువు"
+  },
+  "aliases": [
+    "Narayana", "Hari", "Madhava", "Govinda", "Kesava", "Trivikrama",
+    "Vamana", "Padmanabha", "Damodara", "Vasudeva", "Jagannatha",
+    "Venkateswara", "Ranganatha", "Srinivasa", "Anantasayana"
+  ],
+  "tradition": "vaishnava",
+  "associatedDay": "thursday",
+  "primaryMantra": "om_namo_narayanaya",
+  "imageAsset": "assets/images/Vishnu.png",
+  "description": {
+    "english": "Lord Vishnu is the Preserver and Protector of the universe in the Hindu Trinity (Trimurti). He is the Supreme Being in the Vaishnava tradition. Reclining on the serpent Shesha in the cosmic ocean, he holds the universe in perfect balance. Vishnu descends to earth in various avatars (incarnations) whenever dharma (righteousness) is threatened. His ten principal avatars (Dashavatara) include Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, Buddha, and Kalki.",
+    "hindi": "भगवान विष्णु हिंदू त्रिमूर्ति में पालनकर्ता हैं। वे वैष्णव परंपरा के सर्वोच्च देवता हैं। जब-जब धर्म की हानि होती है, वे अवतार लेकर पृथ्वी पर प्रकट होते हैं।",
+    "telugu": "విష్ణువు హిందూ త్రిమూర్తులలో పాలనకర్త. ఆయన వైష్ణవ సంప్రదాయంలో సర్వోత్కృష్టుడు. ధర్మం నశించినప్పుడు రక్షణ కోసం అవతారాలు ధరిస్తాడు."
+  },
+  "significance": {
+    "english": "Vishnu is the sustaining power of the universe — the force that maintains order, truth, and dharma. His name means 'the all-pervading one.' He is present in all living beings as the divine inner witness (Antaryami). The Vishnu Sahasranama (1000 names) is considered one of the greatest texts of the Vaishnava tradition. Reciting his names, particularly 'Om Namo Narayanaya' and 'Om Namo Bhagavate Vasudevaya,' is said to purify the mind and grant liberation.",
+    "hindi": "विष्णु ब्रह्मांड की पालन शक्ति हैं। 'विष्णु' का अर्थ है सर्वव्यापी। वे सभी प्राणियों में अंतर्यामी के रूप में विराजमान हैं। विष्णु सहस्रनाम वैष्णव परंपरा का महान ग्रंथ है।",
+    "telugu": "విష్ణువు విశ్వాన్ని నిలబెట్టే శక్తి. 'విష్ణు' అంటే సర్వత్ర వ్యాపించినవాడు. ఆయన అన్ని ప్రాణులలో అంతర్యామిగా ఉంటాడు. విష్ణు సహస్రనామం వైష్ణవ సంప్రదాయంలో అత్యంత పవిత్రమైన గ్రంథం."
+  },
+  "iconography": {
+    "four_arms": "Four arms hold the Shankha (conch), Chakra (discus), Gada (mace), and Padma (lotus)",
+    "shankha": "Panchajanya conch — the primordial sound of creation, Om",
+    "sudarshana_chakra": "Spinning discus — the cosmic mind; weapon that destroys ignorance and evil",
+    "kaumodaki_gada": "Mace — power, knowledge, and time",
+    "lotus": "Purity, beauty, and the nature of liberation",
+    "garuda": "Eagle vehicle Garuda — the Vedas; speed; the power to transcend obstacles",
+    "shesha": "The thousand-headed serpent Ananta (Shesha) he reclines upon — the endless nature of time",
+    "yellow_garment": "Pitambara — solar energy, radiance, knowledge",
+    "vaijayanti": "His garland of five gems representing the five elements"
+  },
+  "stotras": [
+    "vishnu_ashtottara",
+    "vishnu_sahasranama_dhyana",
+    "achyutam_keshavam"
+  ],
+  "mantras": [
+    "om_namo_narayanaya",
+    "om_namo_bhagavate_vasudevaya"
+  ],
+  "festivals": [
+    "vaikunta_ekadashi",
+    "vishnu_jayanti"
+  ],
+  "pujaGuide": "vishnu_puja",
+  "colors": ["yellow", "blue", "gold"],
+  "flowers": ["tulsi (basil)", "lotus", "parijata", "marigold"],
+  "offering": "tulsi leaves, lotus flowers, milk, curd, honey, fruits",
+  "sacred_number": 1000
+}

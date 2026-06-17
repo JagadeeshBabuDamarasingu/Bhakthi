@@ -1,0 +1,61 @@
+{
+  "id": "shiva",
+  "name": {
+    "sanskrit": "शिवः",
+    "transliteration": "Śivaḥ",
+    "english": "Shiva",
+    "hindi": "शिव",
+    "telugu": "శివుడు"
+  },
+  "aliases": [
+    "Mahadeva", "Shankar", "Maheshwara", "Rudra", "Nataraja",
+    "Neelakantha", "Tryambaka", "Bholenath", "Pashupati", "Sadashiva",
+    "Viswanatha", "Gangadhara", "Ardhanarishvara", "Dakshinamurthy"
+  ],
+  "tradition": "shaiva",
+  "associatedDay": "monday",
+  "primaryMantra": "om_namah_shivaya",
+  "imageAsset": "assets/images/Shiva.png",
+  "description": {
+    "english": "Lord Shiva is one of the principal deities of Hinduism and the supreme being in the Shaiva tradition. He is the destroyer and transformer within the Trimurti — the Hindu trinity that also includes Brahma (creator) and Vishnu (preserver). Known as the Mahadeva (Great God), Shiva transcends all categorization and encompasses the contradictions of existence: destruction and creation, asceticism and sensuality, fearfulness and benevolence. He is the lord of yoga, meditation, arts, and the cycle of death and rebirth.",
+    "hindi": "भगवान शिव हिंदू धर्म के प्रमुख देवता हैं और शैव परंपरा में सर्वोच्च हैं। वे त्रिमूर्ति में संहारक और रूपांतरक हैं। महादेव होने के नाते वे सभी विरोधाभासों को अपने में समेटे हैं।",
+    "telugu": "శివుడు హిందూ ధర్మంలో ప్రధాన దేవుళ్ళలో ఒకడు మరియు శైవ సంప్రదాయంలో సర్వోత్కృష్టుడు. ఆయన త్రిమూర్తులలో సంహారకుడు మరియు పరివర్తనకర్త."
+  },
+  "significance": {
+    "english": "Shiva is the embodiment of ultimate reality, pure consciousness, and liberation. He destroys the universe at the end of each cosmic cycle to enable a new creation. As Nataraja, his cosmic dance (Tandava) represents the rhythmic movement of the universe. As Dakshinamurthy, he is the supreme teacher of yoga and wisdom. The Panchakshara mantra 'Om Namah Shivaya' — the five-syllable name — is said to contain the essence of the entire universe.",
+    "hindi": "शिव परम सत्य, शुद्ध चेतना और मोक्ष के प्रतीक हैं। नटराज के रूप में उनका तांडव नृत्य ब्रह्मांड की लयबद्ध गति को दर्शाता है।",
+    "telugu": "శివుడు పరమ సత్యం, శుద్ధ చైతన్యం మరియు మోక్షానికి ప్రతీక. నటరాజుగా ఆయన తాండవ నృత్యం విశ్వగతిని సూచిస్తుంది."
+  },
+  "iconography": {
+    "third_eye": "Trinetra — the eye of wisdom that destroys ignorance; can reduce anything to ashes",
+    "crescent_moon": "Chandrashekhara — the crescent on his matted hair marks time (Chandra = moon)",
+    "river_ganga": "Gangadhara — the sacred river flows from his matted locks; he tamed the descent of Ganga",
+    "trident": "Trishula — the three prongs represent Iccha (will), Jnana (knowledge), Kriya (action); also the three gunas",
+    "snake": "Vasuki the cobra around his neck — mastery over death and time; the kundalini energy",
+    "damaru": "Hourglass drum — the beat of creation; the rhythm of the universe; Nada Brahma",
+    "tiger_skin": "Sitting on or wearing tiger skin — mastery over animal instincts and the ego",
+    "ash": "Vibhuti (holy ash) — impermanence of all things; detachment; the primordial nature of matter",
+    "bull": "Nandi the white bull as his vehicle — righteousness, strength, and devotion",
+    "blue_throat": "Neelakantha — he drank the cosmic poison (halahala) to save the universe, which made his throat blue"
+  },
+  "stotras": [
+    "shiva_panchakshara_stotram",
+    "shiva_tandava_stotram",
+    "maha_mrityunjaya",
+    "bilvashtakam",
+    "shiva_ashtottara"
+  ],
+  "mantras": [
+    "om_namah_shivaya",
+    "maha_mrityunjaya_mantra"
+  ],
+  "festivals": [
+    "maha_shivaratri",
+    "pradosham"
+  ],
+  "pujaGuide": "shiva_puja",
+  "colors": ["white", "blue", "silver"],
+  "flowers": ["bilva (bael) leaves", "dhatura", "blue lotus", "white flowers"],
+  "offering": "bilva leaves, milk, water, honey, curd, ghee (abhisheka)",
+  "sacred_number": 5
+}

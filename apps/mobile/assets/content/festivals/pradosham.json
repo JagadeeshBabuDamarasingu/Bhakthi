@@ -1,0 +1,61 @@
+{
+  "id": "pradosham",
+  "name": {
+    "english": "Pradosham — The Sacred Twilight of Shiva",
+    "hindi": "प्रदोषम्",
+    "telugu": "ప్రదోషం",
+    "sanskrit": "प्रदोषः"
+  },
+  "deity": "shiva",
+  "tithiMonth": 1,
+  "tithiDay": 13,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "Occurs twice every lunar month (on the 13th tithi of both fortnights)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Pradosham (or Pradosha) is observed on the Trayodashi (13th day) of both the bright (Shukla) and dark (Krishna) fortnights of every lunar month — so it occurs twice a month. The 90-minute twilight period (pradosha kala) from approximately 4:30 PM to 6 PM is considered the most sacred time to worship Lord Shiva. At this hour Shiva is believed to be in a blissful, compassionate state, dancing on Mount Kailash with Parvati, all the devatas watching. Whatever one prays for during Pradosha is swiftly granted. Saturday Pradosham (Shani Pradosham) and Monday Pradosham (Soma Pradosham) are especially powerful.",
+    "hindi": "प्रदोषम् हर महीने कृष्ण और शुक्ल पक्ष की त्रयोदशी को आता है — यानी महीने में दो बार। संध्याकाल (लगभग 4:30 से 6:00 बजे) शिव पूजा का सर्वोत्तम समय है। इस वेला में शिव कैलाश पर आनंद में नृत्य करते हैं। सोम प्रदोषम और शनि प्रदोषम विशेष फलदायी हैं।",
+    "telugu": "ప్రదోషం ప్రతి నెలలో కృష్ణ, శుక్ల పక్షాల త్రయోదశి నాడు వస్తుంది — నెలకు రెండు సార్లు. సాయంకాల సంధ్య వేళ (దాదాపు 4:30 - 6:00 PM) శివ పూజకు శ్రేష్ఠ సమయం. ఈ వేళ శివుడు కైలాసంలో ఆనందంగా నాట్యం చేస్తాడు. సోమ ప్రదోషం, శని ప్రదోషం ప్రత్యేక ఫలదాయకాలు."
+  },
+  "mythology": {
+    "english": "According to the Skanda Purana, during the Samudra Manthan (churning of the ocean), the first thing to emerge was the terrible Halahala poison. All the gods and demons were terrified. Lord Vishnu directed them to Lord Shiva. Shiva, out of compassion, drank the poison and held it in his throat (which turned blue, giving him the name Neelakantha). The grateful gods and sages, led by Nandikeshvara, performed a special puja to Shiva in the evening twilight of the 13th tithi. Shiva, still pleased from the Ocean's churning and the gods' devotion, danced in joy. This twilight worship became the tradition of Pradosham.",
+    "hindi": "स्कंद पुराण के अनुसार, समुद्र मंथन में सबसे पहले हलाहल विष निकला। शिव ने इसे पीकर कंठ में धारण किया — वे नीलकंठ बने। देवताओं ने त्रयोदशी की संध्या को नंदिकेश्वर के नेतृत्व में शिव की पूजा की। प्रसन्न शिव ने आनंदनृत्य किया — यही परंपरा प्रदोषम बनी।",
+    "telugu": "స్కంద పురాణం ప్రకారం, సముద్ర మంథనంలో మొదట హలాహల విషం వచ్చింది. శివుడు దాన్ని తాగి కంఠంలో ఉంచాడు — నీలకంఠుడయ్యాడు. దేవతలు త్రయోదశి సంధ్యలో నంది నేతృత్వంలో శివుని పూజించారు. సంతసించిన శివుడు ఆనందంగా నాట్యం చేశాడు — ఇదే ప్రదోషం సంప్రదాయం."
+  },
+  "howToObserve": {
+    "english": [
+      "Fast from morning until after the Pradosha puja (ideally a complete fast, or with fruits)",
+      "At the onset of the Pradosha kala (twilight), take a bath and go to a Shiva temple",
+      "Perform abhisheka of the Shivalinga with milk, water, bilva (bael) leaves",
+      "Walk around (circumambulate) the Shivalinga 9 or 27 times during the Pradosha hour",
+      "Chant 'Om Namah Shivaya' continuously or recite Shiva Panchakshara Stotram",
+      "Offer Dhatura (white thorn-apple) flowers, blue lotus, and ash (vibhuti) — Shiva's favourites",
+      "On Soma Pradosham (Monday): especially worship Shiva-Parvati together",
+      "On Shani Pradosham (Saturday): worship specifically to neutralize Saturn's ill effects"
+    ],
+    "telugu": [
+      "ఉదయం నుండి ప్రదోష పూజ వరకు ఉపవాసం ఉండండి",
+      "సంధ్యా సమయంలో స్నానం చేసి శివాలయానికి వెళ్ళండి",
+      "పాలు, నీళ్ళు, బిల్వ పత్రాలతో శివలింగ అభిషేకం చేయండి",
+      "ప్రదోష వేళలో శివలింగాన్ని 9 లేదా 27 సార్లు ప్రదక్షిణ చేయండి",
+      "'ఓం నమః శివాయ' జపించండి, శివ పంచాక్షర స్తోత్రం పఠించండి",
+      "ధతూర పూలు, నల్ల కమలాలు, విభూతి అర్పించండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Many devotees observe a complete fast on Pradosham and break it only after the evening puja with fruits, milk, and light food. Salt and grains are avoided by some. Bilva sherbet (bael fruit drink) is a traditional offering to Shiva. Panchamrita (milk, curd, honey, ghee, sugar) is used for abhisheka.",
+    "telugu": "చాలా మంది ప్రదోషం రోజు పూర్తి ఉపవాసం ఉండి సాయంత్రం పూజ తర్వాత పళ్ళు, పాలు తీసుకుంటారు. పంచామృతం అభిషేకానికి ఉపయోగిస్తారు."
+  },
+  "associatedStotras": [
+    "shiva_panchakshara_stotram",
+    "maha_mrityunjaya",
+    "shiva_ashtottara",
+    "bilvashtakam"
+  ],
+  "regionalNames": [
+    { "region": "Tamil Nadu", "localName": "Pradosham (widely observed)" },
+    { "region": "Andhra / Telangana", "localName": "Pradosham" },
+    { "region": "Karnataka", "localName": "Pradosham" },
+    { "region": "North India", "localName": "Pradosh Vrat" }
+  ]
+}

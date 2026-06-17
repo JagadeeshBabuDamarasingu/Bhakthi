@@ -1,0 +1,83 @@
+{
+  "id": "bajrang_baan",
+  "title": {
+    "sanskrit": "बजरंग बाण",
+    "transliteration": "Bajaraṃga Bāṇa",
+    "english": "Bajrang Baan — The Arrow of Hanuman",
+    "hindi": "बजरंग बाण",
+    "telugu": "బజరంగ్ బాణ్"
+  },
+  "deity": "hanuman",
+  "type": "stotra",
+  "tags": ["hanuman", "protection", "powerful", "baan", "prayer", "hindi"],
+  "description": {
+    "english": "Bajrang Baan is a powerful devotional composition praising Lord Hanuman and invoking his protection against all evil forces, black magic, and obstacles. 'Bajrang' refers to Hanuman (one with a body firm as a thunderbolt) and 'Baan' means arrow — signifying that this prayer is as direct and swift as an arrow in reaching and pleasing Hanuman. It is recited especially for protection, removal of fears, and driving away malevolent forces. It is traditionally read on Tuesdays and Saturdays.",
+    "hindi": "बजरंग बाण भगवान हनुमान की शक्तिशाली स्तुति है। 'बजरंग' हनुमान जी के लिए है और 'बाण' का अर्थ तीर है — यह प्रार्थना सीधी और शीघ्र हनुमान जी तक पहुँचती है। सुरक्षा, भय-मुक्ति और बुरी शक्तियों को दूर करने के लिए पाठ होता है।",
+    "telugu": "బజరంగ్ బాణ్ హనుమంతుని శక్తివంతమైన స్తుతి. 'బజరంగ్' హనుమంతుని సూచిస్తుంది, 'బాణ్' అంటే బాణం — ఈ ప్రార్థన నేరుగా, శీఘ్రంగా హనుమంతునికి చేరుతుంది. రక్షణ, భయ నివృత్తి, దుష్ట శక్తులను తరిమికొట్టడానికి పఠిస్తారు."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "॥ दोहा ॥\nनिश्चय प्रेम प्रतीति ते, विनय करैं सनमान ।\nतेहि के कारज सकल शुभ, सिद्ध करैं हनुमान ।।",
+      "transliteration": "|| Dohā ||\nNiścaya Prema Pratīti Te, Vinaya Karain Sanamāna |\nTehi Ke Kāraja Sakala Śubha, Siddha Karain Hanumāna ||",
+      "hindi": "जो निश्चय के साथ प्रेम और श्रद्धा से विनम्र होकर नमस्कार करते हैं,\nहनुमान जी उनके सभी शुभ कार्य सिद्ध करते हैं।",
+      "telugu": "నిశ్చయంతో, ప్రేమ విశ్వాసంతో వినయంగా నమస్కరించేవారి\nసమస్త శుభ కార్యాలు హనుమంతుడు సిద్ధిపరుస్తాడు.",
+      "english": "Those who with certainty, love, and faith bow humbly — Hanuman accomplishes all their auspicious works.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "जय हनुमंत संत हितकारी, सुनि लीजै प्रभु अरज हमारी ।\nजन के काज बिलंब न कीजै, आतुर दौरि महाप्रभु लीजै ।।",
+      "transliteration": "Jaya Hanumanta Santa Hitakārī, Suni Lījai Prabhu Araja Hamārī |\nJana Ke Kāja Bilaṃba Na Kījai, Ātura Dauri Mahāprabhu Lījai ||",
+      "hindi": "जय हनुमान! संतों के हितकारी — हमारी अर्जी सुनो;\nभक्तों के कार्यों में देर मत करो, महाप्रभु शीघ्र आकर सँभालो।",
+      "telugu": "జయ హనుమంత! సంత హితకారీ — మా ప్రార్థన వినండి;\nభక్తుల పనులలో ఆలస్యం చేయకు, మహాప్రభు తొందరగా వచ్చి స్వీకరించు.",
+      "english": "Victory to Hanuman, benefactor of the saints! O Lord, hear our supplication; do not delay in your servants' matters — come quickly, O Great Lord, and take charge.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "हरो दास की सकल बुराई, करो प्रभु अब सहाई ।\nमन में उठत बड़ो संताप, सुनी पुकार मेरी करो जाप ।।",
+      "transliteration": "Haro Dāsa Kī Sakala Burāī, Karo Prabhu Aba Sahāī |\nMana Mein Uṭhata Baṛo Saṃtāpa, Sunī Pukāra Merī Karo Jāpa ||",
+      "hindi": "प्रभु, दास की सब बुराई दूर करो, अब सहायता करो;\nमन में बड़ा संताप उठ रहा है — मेरी पुकार सुनकर जाप करो।",
+      "telugu": "ప్రభు, దాసుని అన్ని చెడులు తొలగించు, ఇప్పుడు సహాయం చేయి;\nమనసులో పెద్ద సంతాపం కలుగుతోంది — నా పుకారు విన్న జపించు.",
+      "english": "O Lord, remove all evil from your servant, come to my aid now; a great anguish arises in my mind — hear my cry.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "यहि बार घालु अब मोपर, मेरी लाज रखो प्रभु तोपर ।\nलाज जावेगी तेरे साथ, हे हनुमान रखो मेरो हाथ ।।",
+      "transliteration": "Yahi Bāra Ghālu Aba Mopara, Merī Lāja Rakho Prabhu Topara |\nLāja Jāvegī Tere Sātha, He Hanumāna Rakho Mero Hātha ||",
+      "hindi": "इस बार कृपा करो मुझ पर, प्रभु अपने साथ मेरी लाज रखो;\nतेरे साथ लाज जाएगी, हे हनुमान, मेरा हाथ पकड़ो।",
+      "telugu": "ఈసారి నాపై కృప చేయి, ప్రభు నీతో నా మానం కాపాడు;\nనీతోపాటు మానం పోతుంది, హే హనుమాన్, నా చేయి పట్టుకో.",
+      "english": "This time bestow your grace on me, O Lord, uphold my honour with you; with you rests my honour — O Hanuman, hold my hand.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "ऊठो हनुमान जोर लगाओ, मोरी लाज बचावन आओ ।\nजय जय जय हनुमान गुसाईं, कृपा करो प्रभु की नाईं ।।",
+      "transliteration": "Ūṭho Hanumāna Jora Lagāo, Morī Lāja Bacāvana Āo |\nJaya Jaya Jaya Hanumāna Gusāīṃ, Kṛpā Karo Prabhu Kī Nāīṃ ||",
+      "hindi": "उठो हनुमान! जोर लगाओ, मेरी लाज बचाने आओ;\nजय जय जय हनुमान गोसाईं! प्रभु की तरह कृपा करो।",
+      "telugu": "లేవో హనుమాన్! శక్తి వాడు, నా మానం కాపాడటానికి రా;\nజయ జయ జయ హనుమాన్ గుసాయి! ప్రభువు వలె కృప చేయి.",
+      "english": "Rise, Hanuman, exert your might — come to save my honour; victory, victory, victory to Hanuman! Show grace as the Lord does.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "जो कहें हनुमान दुहाई, साथ सदा रहें बजरंगबली ।\nसब विघ्न हरें छिन माहीं, सुख सम्पदा दें मोहिं काहीं ।।",
+      "transliteration": "Jo Kahein Hanumāna Duhāī, Sātha Sadā Rahein Bajaraṃgabalī |\nSaba Vighna Harein China Māhīṃ, Sukha Sampādā Dein Mohiṃ Kāhīṃ ||",
+      "hindi": "जो हनुमान की दुहाई देते हैं, बजरंगबली सदा उनके साथ रहते हैं;\nपल भर में सब विघ्न हरते हैं, और सुख-सम्पदा देते हैं।",
+      "telugu": "హనుమంతుని సహాయం కోరేవారితో బజరంగ్ బలి సదా ఉంటాడు;\nక్షణంలో అన్ని విఘ్నాలు తొలగిస్తాడు, సుఖ సంపద ఇస్తాడు.",
+      "english": "Those who invoke Hanuman find Bajrangbali always by their side; in a moment he removes all obstacles and bestows happiness and prosperity.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "॥ दोहा ॥\nबजरंग बाण जपत नित, सिध्द होय सब काम ।\nराम लखन सिय सहित, सदा रहें हनुमान ।।",
+      "transliteration": "|| Dohā ||\nBajaraṃga Bāṇa Japata Nita, Sidhda Hoya Saba Kāma |\nRāma Lakhana Siya Sahita, Sadā Rahein Hanumāna ||",
+      "hindi": "बजरंग बाण का नित्य जाप करने से सब काम सिद्ध होते हैं;\nराम, लक्ष्मण, सीता सहित हनुमान जी सदा साथ रहते हैं।",
+      "telugu": "బజరంగ్ బాణ్ నిత్యం జపించడం వల్ల అన్ని పనులు సిద్ధిస్తాయి;\nరామ లక్ష్మణ సీతలతో సహా హనుమంతుడు సదా వెంట ఉంటాడు.",
+      "english": "By daily recitation of Bajrang Baan all works are accomplished; Hanuman along with Rama, Lakshmana, and Sita abides always by one's side.",
+      "audioUrl": ""
+    }
+  ]
+}

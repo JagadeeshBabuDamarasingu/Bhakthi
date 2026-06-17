@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import '../../core/l10n/app_localizations.dart';
 import '../../core/theme/app_theme.dart';
 import '../settings/language_picker_screen.dart';
+import 'bhajans_screen.dart';
+import 'favorites_screen.dart';
+import 'puja_guide_list_screen.dart';
+import 'vrat_tracker_screen.dart';
 
 class MoreScreen extends StatelessWidget {
   const MoreScreen({super.key});
@@ -19,9 +23,14 @@ class MoreScreen extends StatelessWidget {
       body: ListView(
         children: [
           _Section(title: l.sectionDevotional, items: [
-            _Item(Icons.music_note_outlined,    l.itemBhajans,       null,  () {}),
-            _Item(Icons.brightness_5_outlined,  l.itemPujaGuides,    null,  () {}),
-            _Item(Icons.no_food_outlined,        l.itemVratTracker,   null,  () {}),
+            _Item(Icons.favorite_border,        'Favorites',         null,
+                () => Navigator.push(context, MaterialPageRoute(builder: (_) => const FavoritesScreen()))),
+            _Item(Icons.music_note_outlined,    l.itemBhajans,       null,
+                () => Navigator.push(context, MaterialPageRoute(builder: (_) => const BhajansScreen()))),
+            _Item(Icons.brightness_5_outlined,  l.itemPujaGuides,    null,
+                () => Navigator.push(context, MaterialPageRoute(builder: (_) => const PujaGuideListScreen()))),
+            _Item(Icons.no_food_outlined,        l.itemVratTracker,   null,
+                () => Navigator.push(context, MaterialPageRoute(builder: (_) => const VratTrackerScreen()))),
           ]),
           _Section(title: l.sectionSettings, items: [
             _Item(Icons.language_outlined,      l.itemLanguage,      lang,

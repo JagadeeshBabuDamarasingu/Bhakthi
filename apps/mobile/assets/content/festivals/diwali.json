@@ -1,0 +1,61 @@
+{
+  "id": "diwali",
+  "name": {
+    "english": "Diwali — Festival of Lights",
+    "hindi": "दीपावली",
+    "telugu": "దీపావళి",
+    "sanskrit": "दीपावलिः"
+  },
+  "deity": "lakshmi",
+  "tithiMonth": 8,
+  "tithiDay": 15,
+  "tithiPaksha": "krishna",
+  "gregorianApprox": "October–November",
+  "duration_days": 5,
+  "significance": {
+    "english": "Diwali, the Festival of Lights, falls on Kartika Amavasya — the new moon night of the month of Kartika. It is the most widely celebrated Hindu festival, observed across India and the world. The central worship is of Goddess Lakshmi, the deity of wealth and prosperity, who is believed to visit homes that are clean, lit with diyas (oil lamps), and filled with devotion. The festival spans five days: Dhanteras, Choti Diwali (Narak Chaturdashi), Diwali (Lakshmi Puja), Govardhan Puja, and Bhai Dooj.",
+    "hindi": "दीपावली कार्तिक अमावस्या को मनाई जाती है। यह भारत का सबसे बड़ा त्योहार है जिसमें देवी लक्ष्मी की पूजा होती है। दीप जलाने से घर में लक्ष्मी का वास होता है। पाँच दिनों का यह पर्व धनतेरस से शुरू होकर भाई दूज पर समाप्त होता है।",
+    "telugu": "దీపావళి కార్తీక అమావాస్యనాడు వస్తుంది. ఇది భారతదేశంలో అత్యంత విస్తృతంగా జరుపుకునే పండుగ. ఇంటిని శుభ్రం చేసి, దీపాలు వెలిగించి లక్ష్మీ దేవిని పూజిస్తారు. ధన త్రయోదశి నుండి భాయి దూజ్ వరకు ఐదు రోజులు జరుపుకుంటారు."
+  },
+  "mythology": {
+    "english": "On this night, Lord Rama returned to Ayodhya after 14 years of exile and his victory over Ravana. The citizens of Ayodhya lit rows of oil lamps (deepas) to welcome their beloved king. This is the most popular pan-Indian mythology for Diwali. In the Vaishnava tradition, it also marks the day Lord Vishnu sent the demon Narakasura to the underworld (celebrated as Narak Chaturdashi). In the Jain tradition, it marks the nirvana of Lord Mahavira. In Bengal, Kali Puja is observed on this night.",
+    "hindi": "इस रात भगवान राम 14 वर्ष के वनवास और रावण-वध के बाद अयोध्या लौटे। नगरवासियों ने उनके स्वागत में दीपमाला जलाई। वैष्णव परंपरा में इस दिन नरकासुर-वध का उत्सव भी मनाया जाता है।",
+    "telugu": "ఈ రాత్రి శ్రీరాముడు 14 సంవత్సరాల వనవాసం తర్వాత, రావణ సంహారం చేసి అయోధ్యకు తిరిగివచ్చాడు. నగరవాసులు దీపాలు వెలిగించి స్వాగతం పలికారు. వైష్ణవ సంప్రదాయంలో ఇది నరకాసుర సంహారానికీ సంబంధించిన పండుగ."
+  },
+  "howToObserve": {
+    "english": [
+      "Clean and decorate the home with rangoli, flowers, and mango leaves",
+      "Light earthen diyas (oil lamps) at dusk — especially at the entrance and tulsi plant",
+      "Perform Lakshmi Puja in the evening with offerings of lotus flowers, sweets, gold/silver coins",
+      "Recite Lakshmi Ashtakam, Kanakadhara Stotram, and Sri Suktam",
+      "Worship account books (Chopda Puja) for business prosperity in Gujarati tradition",
+      "Burst crackers (eco-friendly alternatives recommended)",
+      "Exchange sweets and gifts with family and neighbours",
+      "On Dhanteras: buy gold, silver, or utensils as an auspicious purchase"
+    ],
+    "telugu": [
+      "ఇంటిని రంగోలి, పూలు, మామిడి తోరణాలతో అలంకరించండి",
+      "సాయంత్రం మట్టి దీపాలు వెలిగించండి — ముఖ్యంగా ప్రవేశద్వారం, తులసి దగ్గర",
+      "కమల పుష్పాలు, మిఠాయిలు, బంగారం/వెండితో లక్ష్మీ పూజ చేయండి",
+      "లక్ష్మీ అష్టకం, కనకధారా స్తోత్రం, శ్రీ సూక్తం పఠించండి",
+      "కుటుంబం, పక్కింటి వారికి మిఠాయిలు, బహుమతులు ఇవ్వండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Traditional sweets include kaju katli, gulab jamun, jalebi, besan ladoo, and rasgulla. Offerings to Goddess Lakshmi include panchamrita, modak, fruit, and naivedyam. Many families observe a fast during the day before the puja in the evening.",
+    "telugu": "కాజు కత్లి, గులాబ్ జామ్, జిలేబి, బేసన్ లడ్డు, రసగుల్లా వంటి మిఠాయిలు సంప్రదాయంగా ఉన్నాయి. లక్ష్మీ దేవికి పంచామృతం, మోదకం, పళ్ళు సమర్పిస్తారు."
+  },
+  "associatedStotras": [
+    "mahalakshmi_ashtakam",
+    "kanakadhara_stotram",
+    "sri_suktam",
+    "lakshmi_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Tamil Nadu", "localName": "Deepavali" },
+    { "region": "West Bengal", "localName": "Kali Puja" },
+    { "region": "Gujarat", "localName": "Diwali / Chopda Puja" },
+    { "region": "Punjab / North India", "localName": "Diwali" },
+    { "region": "Andhra Pradesh / Telangana", "localName": "Deepavali" }
+  ]
+}

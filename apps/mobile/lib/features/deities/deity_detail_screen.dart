@@ -1,8 +1,10 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import '../../core/l10n/app_localizations.dart';
+import '../../core/services/favorites_service.dart';
 import '../../core/theme/app_theme.dart';
+import '../../data/models/models.dart';
+import '../../data/repositories/content_repository.dart';
+import '../festivals/festival_detail_screen.dart';
 import '../stotras/stotra_detail_screen.dart';
 
 class DeityDetailScreen extends StatefulWidget {
@@ -16,15 +18,11 @@ class DeityDetailScreen extends StatefulWidget {
 class _DeityDetailScreenState extends State<DeityDetailScreen>
     with SingleTickerProviderStateMixin {
   late TabController _tabs;
-  Map<String, dynamic>? _deity;
-
-  static const _stotraMeta = {
-    'ganesha_vakratunda':    ['वक्रतुण्ड महाकाय',         'Ganesha Invocation',        '1 verse'],
-    'ganesha_dvadasha_nama': ['द्वादश नाम',                '12 Names of Ganesha',        '3 verses'],
-    'ganesha_aarti':         ['जय गणेश आरती',             'Jai Ganesh Aarti',           '5 verses'],
-    'ganesha_ashtottara':    ['अष्टोत्तर शतनामावलि',       '108 Names',                  '50 of 108'],
-    'ganesha_pancharatnam':  ['गणेश पञ्चरत्नम्',           'Shankaracharya — 5 verses',  '5 verses'],
-  };
+  Deity? _deity;
+  List<Stotra>? _stotras;
+  PujaGuide? _pujaGuide;
+  List<Festival>? _festivals;
+  bool _isFav = false;
 
   Color get _deityColor =>
       deityColors[widget.deityId] ?? BhakthiColors.rust;
@@ -33,9 +31,40 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
   void initState() {
     super.initState();
     _tabs = TabController(length: 3, vsync: this);
-    rootBundle
-        .loadString('assets/content/deities/${widget.deityId}.json')
-        .then((s) => setState(() => _deity = jsonDecode(s)));
+    _isFav = FavoritesService.instance.isDeityFavorited(widget.deityId);
+    _loadContent();
+  }
+
+  Future<void> _toggleFav() async {
+    await FavoritesService.instance.toggleDeity(widget.deityId);
+    if (mounted) {
+      setState(() => _isFav = FavoritesService.instance.isDeityFavorited(widget.deityId));
+    }
+  }
+
+  Future<void> _loadContent() async {
+    final repo = ContentRepository.instance;
+    final id = widget.deityId;
+
+    final deity = await repo.getDeity(id);
+    if (!mounted) return;
+    setState(() => _deity = deity);
+
+    final stotrasFuture = repo.listStotrasForDeity(id);
+    final pujaFuture = repo.getPujaGuideForDeity(id);
+    final festsFuture = repo.listFestivalsForDeity(id);
+
+    final stotras = await stotrasFuture;
+    final pujaGuide = await pujaFuture;
+    final festivals = await festsFuture;
+
+    if (mounted) {
+      setState(() {
+        _stotras = stotras;
+        _pujaGuide = pujaGuide;
+        _festivals = festivals;
+      });
+    }
   }
 
   @override
@@ -81,9 +110,9 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
         body: TabBarView(
           controller: _tabs,
           children: [
-            _StotrasTab(deity: _deity!, stotraMeta: _stotraMeta, color: _deityColor),
-            _PujaTab(color: _deityColor, l: l),
-            const _FestivalsTab(),
+            _StotrasTab(stotras: _stotras, color: _deityColor),
+            _PujaTab(pujaGuide: _pujaGuide, color: _deityColor, l: l),
+            _FestivalsTab(festivals: _festivals),
           ],
         ),
       ),
@@ -91,17 +120,36 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
   }
 
   SliverAppBar _buildHero(BuildContext context) {
-    final name = (_deity!['name'] as Map<String, dynamic>);
+    final deity = _deity!;
     return SliverAppBar(
       expandedHeight: 300,
       pinned: true,
       backgroundColor: BhakthiColors.deepInk,
       foregroundColor: Colors.white,
+      actions: [
+        IconButton(
+          onPressed: _toggleFav,
+          icon: Icon(
+            _isFav ? Icons.favorite : Icons.favorite_border,
+            color: _isFav ? BhakthiColors.rust : Colors.white,
+          ),
+        ),
+      ],
       flexibleSpace: FlexibleSpaceBar(
         background: Stack(fit: StackFit.expand, children: [
           Image.asset(
-            _deity!['imageAsset'] as String? ?? 'assets/images/MahaGanapathi.png',
+            deity.imageAsset,
             fit: BoxFit.cover,
+            errorBuilder: (_, __, ___) => Container(
+              color: _deityColor.withOpacity(0.15),
+              child: Center(
+                child: Text('ॐ',
+                    style: TextStyle(
+                        fontSize: 80,
+                        color: _deityColor.withOpacity(0.35),
+                        fontWeight: FontWeight.w600)),
+              ),
+            ),
           ),
           DecoratedBox(
             decoration: BoxDecoration(
@@ -133,7 +181,7 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
                   margin: const EdgeInsets.only(bottom: 10),
                 ),
                 Text(
-                  name['sanskrit'] as String? ?? '',
+                  deity.name.sanskrit ?? deity.name.english,
                   style: const TextStyle(
                     color: Colors.white,
                     fontSize: 32,
@@ -144,7 +192,7 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  name['english'] as String? ?? '',
+                  deity.name.english,
                   style: TextStyle(
                       color: Colors.white.withOpacity(0.6),
                       fontSize: 14,
@@ -159,36 +207,36 @@ class _DeityDetailScreenState extends State<DeityDetailScreen>
   }
 }
 
+// ── Stotras Tab ──────────────────────────────────────────────────────────────
+
 class _StotrasTab extends StatelessWidget {
-  final Map<String, dynamic> deity;
-  final Map<String, List<String>> stotraMeta;
+  final List<Stotra>? stotras;
   final Color color;
 
-  const _StotrasTab({
-    required this.deity,
-    required this.stotraMeta,
-    required this.color,
-  });
+  const _StotrasTab({required this.stotras, required this.color});
 
   @override
   Widget build(BuildContext context) {
-    final ids = (deity['stotras'] as List<dynamic>? ?? []).cast<String>();
+    final list = stotras;
+    if (list == null) {
+      return Center(child: CircularProgressIndicator(color: color));
+    }
     return ListView.separated(
       padding: const EdgeInsets.all(20),
-      itemCount: ids.length,
+      itemCount: list.length,
       separatorBuilder: (_, __) => const SizedBox(height: 10),
       itemBuilder: (ctx, i) {
-        final id = ids[i];
-        final meta = stotraMeta[id];
+        final s = list[i];
+        final verseCount = s.verses.length;
         return _StotraRow(
           index: i + 1,
-          sanskrit: meta?[0] ?? id,
-          english: meta?[1] ?? '',
-          detail: meta?[2] ?? '',
+          sanskrit: s.title.sanskrit ?? s.title.transliteration ?? s.title.english,
+          english: s.title.english,
+          detail: '$verseCount ${verseCount == 1 ? "verse" : "verses"}',
           color: color,
           onTap: () => Navigator.push(ctx,
               MaterialPageRoute(
-                  builder: (_) => StotraDetailScreen(stotraId: id))),
+                  builder: (_) => StotraDetailScreen(stotraId: s.id))),
         );
       },
     );
@@ -249,8 +297,7 @@ class _StotraRow extends StatelessWidget {
                 const SizedBox(height: 3),
                 Text(english,
                     style: const TextStyle(
-                        color: BhakthiColors.textSecondary,
-                        fontSize: 12)),
+                        color: BhakthiColors.textSecondary, fontSize: 12)),
                 const SizedBox(height: 3),
                 Text(detail,
                     style: const TextStyle(
@@ -266,21 +313,54 @@ class _StotraRow extends StatelessWidget {
   }
 }
 
+// ── Puja Tab ──────────────────────────────────────────────────────────────────
+
 class _PujaTab extends StatelessWidget {
+  final PujaGuide? pujaGuide;
   final Color color;
   final AppLocalizations l;
-  const _PujaTab({required this.color, required this.l});
+  const _PujaTab(
+      {required this.pujaGuide, required this.color, required this.l});
 
   @override
   Widget build(BuildContext context) {
+    final guide = pujaGuide;
+    if (guide == null) {
+      return Center(child: CircularProgressIndicator(color: color));
+    }
+
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
         Row(children: [
-          _MetaPill(Icons.access_time, l.pujaDay, color),
-          const SizedBox(width: 8),
-          _MetaPill(Icons.timer_outlined, '~30 min', color),
+          _MetaPill(Icons.timer_outlined, '~${guide.estimatedDuration} min',
+              color),
         ]),
+        if (guide.bestTiming != null) ...[
+          const SizedBox(height: 12),
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+            decoration: BoxDecoration(
+              color: color.withOpacity(0.06),
+              borderRadius: BorderRadius.circular(10),
+              border: Border.all(color: color.withOpacity(0.15)),
+            ),
+            child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              Icon(Icons.access_time, size: 13, color: color),
+              const SizedBox(width: 8),
+              Expanded(
+                child: Text(
+                  guide.bestTiming!,
+                  style: TextStyle(
+                      fontSize: 12,
+                      color: color,
+                      height: 1.5,
+                      fontWeight: FontWeight.w500),
+                ),
+              ),
+            ]),
+          ),
+        ],
         const SizedBox(height: 20),
         Text(l.keyOfferings,
             style: const TextStyle(
@@ -289,57 +369,69 @@ class _PujaTab extends StatelessWidget {
                 fontSize: 15,
                 letterSpacing: -0.2)),
         const SizedBox(height: 12),
-        ...[
-          ('🌿', 'Durva grass',   '21 blades — most beloved offering'),
-          ('🌸', 'Red hibiscus',  'Handful of flowers'),
-          ('🍬', 'Modak',         '5 or 21 pieces'),
-          ('🥥', 'Coconut',       '1 whole'),
-          ('🪔', 'Ghee lamp',     'For aarti'),
-        ].map((t) => Container(
+        ...guide.ingredients.map((ing) => Container(
               margin: const EdgeInsets.only(bottom: 8),
-              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 11),
+              padding:
+                  const EdgeInsets.symmetric(horizontal: 14, vertical: 11),
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(12),
                 border: Border.all(color: BhakthiColors.line),
               ),
               child: Row(children: [
-                Text(t.$1, style: const TextStyle(fontSize: 20)),
-                const SizedBox(width: 12),
                 Expanded(
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text(t.$2,
+                      Text(ing.name,
                           style: const TextStyle(
                               fontWeight: FontWeight.w600,
                               fontSize: 13,
                               color: BhakthiColors.deepInk)),
-                      Text(t.$3,
-                          style: const TextStyle(
-                              color: BhakthiColors.textSecondary,
-                              fontSize: 11)),
+                      if ((ing.note ?? '').isNotEmpty)
+                        Text(ing.note!,
+                            style: const TextStyle(
+                                color: BhakthiColors.textSecondary,
+                                fontSize: 11)),
                     ],
                   ),
                 ),
+                const SizedBox(width: 12),
+                Text(ing.quantity,
+                    style: const TextStyle(
+                        color: BhakthiColors.textTertiary,
+                        fontSize: 12,
+                        fontWeight: FontWeight.w500)),
               ]),
             )),
-        const SizedBox(height: 12),
-        Container(
-          padding: const EdgeInsets.all(14),
-          decoration: BoxDecoration(
-            color: BhakthiColors.parchmentElev,
-            borderRadius: BorderRadius.circular(12),
-            border: Border.all(color: BhakthiColors.line),
-          ),
-          child: Text(
-            l.pujaNote,
-            style: const TextStyle(
-                fontSize: 12,
-                color: BhakthiColors.textSecondary,
-                height: 1.55),
-          ),
-        ),
+        if ((guide.tips ?? []).isNotEmpty) ...[
+          const SizedBox(height: 16),
+          Text(l.pujaNote,
+              style: const TextStyle(
+                  fontWeight: FontWeight.w600,
+                  color: BhakthiColors.deepInk,
+                  fontSize: 15,
+                  letterSpacing: -0.2)),
+          const SizedBox(height: 8),
+          ...guide.tips!.map((tip) => Padding(
+                padding: const EdgeInsets.only(bottom: 8),
+                child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text('• ',
+                          style: TextStyle(
+                              color: BhakthiColors.textTertiary,
+                              fontSize: 13)),
+                      Expanded(
+                        child: Text(tip,
+                            style: const TextStyle(
+                                fontSize: 12,
+                                color: BhakthiColors.textSecondary,
+                                height: 1.55)),
+                      ),
+                    ]),
+              )),
+        ],
       ],
     );
   }
@@ -373,28 +465,47 @@ class _MetaPill extends StatelessWidget {
   }
 }
 
+// ── Festivals Tab ─────────────────────────────────────────────────────────────
+
 class _FestivalsTab extends StatelessWidget {
-  const _FestivalsTab();
+  final List<Festival>? festivals;
+  const _FestivalsTab({required this.festivals});
+
+  String _whenLine(Festival f) {
+    final paksha = f.tithiPaksha == 'shukla' ? 'Shukla' : 'Krishna';
+    final parts = ['$paksha Paksha, day ${f.tithiDay}'];
+    if (f.gregorianApprox != null) parts.add(f.gregorianApprox!);
+    return parts.join(' · ');
+  }
 
   @override
   Widget build(BuildContext context) {
-    return ListView(
+    final list = festivals;
+    if (list == null) {
+      return const Center(
+          child: CircularProgressIndicator(color: BhakthiColors.rust));
+    }
+    return ListView.separated(
       padding: const EdgeInsets.all(20),
-      children: const [
-        _FestivalCard(
-          name: 'Ganesh Chaturthi',
-          localName: 'Vinayaka Chavithi',
-          when: 'Bhadrapada Shukla Chaturthi · Aug–Sep',
-          desc: 'The birthday of Lord Ganesha. Celebrated for 10 days across India with the installation and immersion of clay idols.',
-        ),
-        SizedBox(height: 12),
-        _FestivalCard(
-          name: 'Sankatahara Chaturthi',
-          localName: 'Monthly fast',
-          when: 'Every month · Krishna Paksha Chaturthi',
-          desc: 'Monthly vrat dedicated to Ganesha. Fast broken after sighting the moon, with modak as offering.',
-        ),
-      ],
+      itemCount: list.length,
+      separatorBuilder: (_, __) => const SizedBox(height: 12),
+      itemBuilder: (ctx, i) {
+        final f = list[i];
+        final localName = f.regionalNames?.isNotEmpty == true
+            ? f.regionalNames!.first['localName'] ?? ''
+            : '';
+        return GestureDetector(
+          onTap: () => Navigator.push(ctx,
+              MaterialPageRoute(
+                  builder: (_) => FestivalDetailScreen(festivalId: f.id))),
+          child: _FestivalCard(
+            name: f.name.english,
+            localName: localName,
+            when: _whenLine(f),
+            desc: f.significance.english,
+          ),
+        );
+      },
     );
   }
 }
@@ -428,12 +539,14 @@ class _FestivalCard extends StatelessWidget {
                   color: BhakthiColors.deepInk,
                   fontSize: 14,
                   letterSpacing: -0.2)),
-          const SizedBox(height: 2),
-          Text(localName,
-              style: const TextStyle(
-                  color: BhakthiColors.textTertiary,
-                  fontSize: 11,
-                  fontWeight: FontWeight.w500)),
+          if (localName.isNotEmpty) ...[
+            const SizedBox(height: 2),
+            Text(localName,
+                style: const TextStyle(
+                    color: BhakthiColors.textTertiary,
+                    fontSize: 11,
+                    fontWeight: FontWeight.w500)),
+          ],
           const SizedBox(height: 8),
           Text(when,
               style: const TextStyle(
@@ -450,6 +563,8 @@ class _FestivalCard extends StatelessWidget {
   }
 }
 
+// ── Pinned Tab Bar ────────────────────────────────────────────────────────────
+
 class _PinnedTabBar extends SliverPersistentHeaderDelegate {
   final TabBar tabBar;
   final Color color;
@@ -461,7 +576,8 @@ class _PinnedTabBar extends SliverPersistentHeaderDelegate {
   double get maxExtent => tabBar.preferredSize.height + 1;
 
   @override
-  Widget build(BuildContext context, double shrinkOffset, bool overlapsContent) {
+  Widget build(
+      BuildContext context, double shrinkOffset, bool overlapsContent) {
     return Container(
       color: Colors.white,
       child: Column(

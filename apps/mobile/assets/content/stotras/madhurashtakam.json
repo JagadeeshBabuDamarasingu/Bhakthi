@@ -1,0 +1,92 @@
+{
+  "id": "madhurashtakam",
+  "title": {
+    "sanskrit": "मधुराष्टकम्",
+    "transliteration": "Madhurāṣṭakam",
+    "english": "Madhurashtakam — Eight Verses on the Sweetness of Krishna",
+    "hindi": "मधुराष्टकम्",
+    "telugu": "మధురాష్టకం"
+  },
+  "deity": "krishna",
+  "type": "stotra",
+  "tags": ["krishna", "madhura", "vallabhacharya", "bhakti", "sweet"],
+  "description": {
+    "english": "The Madhurashtakam is a beautiful eight-verse hymn by Shri Vallabhacharya (1479–1531), the founder of the Pushti Marg devotional tradition. Each verse describes Krishna as 'madhuram' (sweet) — his face, eyes, smile, flute-playing, gait, speech, and entire being are sweet. The refrain 'Madhuradhipate rakhilam madhuram' ('O Lord of sweetness, everything about you is sweet') runs through each verse, creating a powerful bhakti experience.",
+    "hindi": "मधुराष्टकम श्री वल्लभाचार्य (1479–1531) रचित पुष्टिमार्ग की अष्टपदी है। प्रत्येक श्लोक में कृष्ण के रूप, गुण, लीलाओं को 'मधुरम्' (मीठा) कहकर स्तुति की गई है।",
+    "telugu": "మధురాష్టకం శ్రీ వల్లభాచార్యులు (1479–1531) రచించిన పుష్టిమార్గ అష్టపది. ప్రతి పద్యం కృష్ణుని రూపాన్ని, గుణాలను 'మధురం' (తీయనిది) అని స్తుతిస్తుంది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "अधरं मधुरं वदनं मधुरं\nनयनं मधुरं हसितं मधुरम् ।\nहृदयं मधुरं गमनं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Adharaṃ Madhuraṃ Vadanaṃ Madhuraṃ\nNayanaṃ Madhuraṃ Hasitaṃ Madhuram |\nHṛdayaṃ Madhuraṃ Gamanaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "अधर (होंठ) मधुर हैं, मुख मधुर है,\nनेत्र मधुर हैं, हँसी मधुर है;\nहृदय मधुर है, चाल मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "పెదవులు మధురం, ముఖం మధురం,\nకళ్ళు మధురం, నవ్వు మధురం;\nహృదయం మధురం, నడక మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet are your lips, sweet is your face, sweet are your eyes, sweet is your smile; sweet is your heart, sweet is your gait — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "वचनं मधुरं चरितं मधुरं\nवसनं मधुरं वलितं मधुरम् ।\nचलितं मधुरं भ्रमितं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Vacanaṃ Madhuraṃ Caritaṃ Madhuraṃ\nVasanaṃ Madhuraṃ Valitaṃ Madhuram |\nCalitaṃ Madhuraṃ Bhramitaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "वचन मधुर हैं, चरित्र मधुर है,\nवस्त्र मधुर हैं, विनम्रता मधुर है;\nचाल मधुर है, विहार मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "మాటలు మధురం, చరిత్ర మధురం,\nవస్త్రాలు మధురం, వంపు మధురం;\nనడచుట మధురం, సంచరించుట మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet is your speech, sweet are your deeds, sweet are your garments, sweet is your graceful posture; sweet is your movement, sweet are your wanderings — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "वेणुर्मधुरो रेणुर्मधुरः\nपाणिर्मधुरः पादौ मधुरौ ।\nनृत्यं मधुरं सख्यं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Veṇurmadhuro Reṇurmadhuraḥ\nPāṇirmadhuraḥ Pādau Madhurau |\nNṛtyaṃ Madhuraṃ Sakhyaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "बाँसुरी मधुर है, चरणरज मधुर है,\nहाथ मधुर हैं, चरण मधुर हैं;\nनृत्य मधुर है, सखा-भाव मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "వేణువు మధురం, పాదధూళి మధురం,\nచేతులు మధురం, పాదాలు మధురం;\nనృత్యం మధురం, సఖ్యం మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet is your flute, sweet is the dust of your feet, sweet are your hands, sweet are your feet; sweet is your dance, sweet is your friendship — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "गीतं मधुरं पीतं मधुरं\nभुक्तं मधुरं सुप्तं मधुरम् ।\nरूपं मधुरं तिलकं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Gītaṃ Madhuraṃ Pītaṃ Madhuraṃ\nBhuktaṃ Madhuraṃ Suptaṃ Madhuram |\nRūpaṃ Madhuraṃ Tilakaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "गीत मधुर है, पीना मधुर है,\nखाना मधुर है, सोना मधुर है;\nरूप मधुर है, तिलक मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "పాట మధురం, తాగుట మధురం,\nతినుట మధురం, నిద్ర మధురం;\nరూపం మధురం, తిలకం మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet is your song, sweet is what you drink, sweet is what you eat, sweet is your sleep; sweet is your form, sweet is your tilaka mark — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "करणं मधुरं तरणं मधुरं\nहरणं मधुरं रमणं मधुरम् ।\nवमितं मधुरं शमितं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Karaṇaṃ Madhuraṃ Taraṇaṃ Madhuraṃ\nHaraṇaṃ Madhuraṃ Ramaṇaṃ Madhuram |\nVamitaṃ Madhuraṃ Śamitaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "क्रिया मधुर है, तैरना मधुर है,\nचुराना (माखन) मधुर है, विहार मधुर है;\nउगलना मधुर है, शांत करना मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "చేయడం మధురం, దాటడం మధురం,\nదొంగిలించడం మధురం, రమించుట మధురం;\nవెళ్ళగక్కుట మధురం, శాంతపరచుట మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet are your actions, sweet is your crossing over (of the river), sweet is your stealing (butter), sweet is your enjoyment; sweet is your breath, sweet is your calming presence — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "गुञ्जा मधुरा माला मधुरा\nयमुना मधुरा वीची मधुरा ।\nसलिलं मधुरं कमलं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Guñjā Madhurā Mālā Madhurā\nYamunā Madhurā Vīcī Madhurā |\nSalilaṃ Madhuraṃ Kamalaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "गुंजा (बेर की माला) मधुर है, माला मधुर है,\nयमुना मधुर है, यमुना की लहरें मधुर हैं;\nयमुना का जल मधुर है, कमल मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "గుంజమాల మధురం, పూల మాల మధురం,\nయమునా మధురం, యమునా అలలు మధురం;\nనీరు మధురం, కమలం మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet is the gunja berry garland, sweet is the flower garland, sweet is the Yamuna river, sweet are its waves; sweet is its water, sweet is its lotus — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "गोपी मधुरा लीला मधुरा\nयुक्तं मधुरं मुक्तं मधुरम् ।\nदृष्टं मधुरं सृष्टं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Gopī Madhurā Līlā Madhurā\nYuktaṃ Madhuraṃ Muktaṃ Madhuram |\nDṛṣṭaṃ Madhuraṃ Sṛṣṭaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "गोपियाँ मधुर हैं, लीला मधुर है,\nयुक्त (संयुक्त) होना मधुर है, मुक्त होना मधुर है;\nदृष्टि मधुर है, सृष्टि मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "గోపికలు మధురం, లీలలు మధురం,\nయుక్తం మధురం, ముక్తం మధురం;\nదర్శనం మధురం, సృష్టి మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet are the gopis, sweet are the divine plays, sweet is union with you, sweet is liberation through you; sweet is your glance, sweet is your creation — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "गोपा मधुरा गावो मधुरा\nयष्टिर्मधुरा सृष्टिर्मधुरा ।\nदलितं मधुरं फलितं मधुरं\nमधुराधिपतेरखिलं मधुरम् ।।",
+      "transliteration": "Gopā Madhurā Gāvo Madhurā\nYaṣṭirmadhurā Sṛṣṭirmadhurā |\nDalitaṃ Madhuraṃ Phalitaṃ Madhuraṃ\nMadhurādhipaterakhilaṃ Madhuram ||",
+      "hindi": "ग्वाले मधुर हैं, गाएँ मधुर हैं,\nलाठी मधुर है, सृष्टि मधुर है;\nकुचला हुआ (अहंकार का नाश) मधुर है, फल (परिणाम) मधुर है —\nहे मधुराधिपति, आपका सब कुछ मधुर है।",
+      "telugu": "గోపాలురు మధురం, ఆవులు మధురం,\nకఱ్ఱ మధురం, సృష్టి మధురం;\nతొక్కినది మధురం, ఫలించినది మధురం —\nహే మధురాధిపతి, అన్నీ మధురం.",
+      "english": "Sweet are the cowherds, sweet are the cows, sweet is your staff, sweet is your creation; sweet is what you crush (the ego), sweet is the fruit (of devotion) — O Lord of sweetness, everything about you is sweet.",
+      "audioUrl": ""
+    }
+  ]
+}

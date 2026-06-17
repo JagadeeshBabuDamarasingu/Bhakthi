@@ -1,0 +1,56 @@
+{
+  "id": "hanuman",
+  "name": {
+    "sanskrit": "हनुमान्",
+    "transliteration": "Hanumān",
+    "english": "Hanuman",
+    "hindi": "हनुमान",
+    "telugu": "హనుమంతుడు"
+  },
+  "aliases": [
+    "Anjaneya", "Maruti", "Bajrangbali", "Mahavira", "Pavanputra",
+    "Sankat-Mochan", "Kesari-Nandana", "Ramaduta", "Kapishreshtha",
+    "Mahendra", "Vayuputra", "Rudraputra", "Chiranjeevi", "Uttama-bhakta"
+  ],
+  "tradition": "vaishnava",
+  "associatedDay": "saturday",
+  "primaryMantra": "om_hanumate_namaha",
+  "imageAsset": "assets/images/Hanuman.png",
+  "description": {
+    "english": "Lord Hanuman is the devoted son of the wind god Vayu and Anjana. He is the greatest devotee of Lord Rama and the commander of the monkey army (Vanara Sena) in the Ramayana. Possessing immense strength, the ability to fly, and divine wisdom, Hanuman crossed the ocean to Lanka to find Sita, burnt Lanka with his tail ablaze, and brought the life-saving Sanjeevani herb from the Himalayas. He is worshipped as the deity of strength, courage, devotion, and as the remover of obstacles and protector against evil spirits.",
+    "hindi": "हनुमान जी वायुदेव और माता अंजना के पुत्र हैं। वे प्रभु राम के परम भक्त और रामायण में वानरसेना के प्रधान हैं। उनकी अपार शक्ति, बुद्धि और भक्ति अतुलनीय है।",
+    "telugu": "హనుమంతుడు వాయుదేవుడు మరియు అంజన అమ్మవారి పుత్రుడు. ఆయన శ్రీ రాముని పరమ భక్తుడు మరియు రామాయణంలో వానర సేనాధిపతి."
+  },
+  "significance": {
+    "english": "Hanuman is chiranjeevi (eternally living) and is said to be present wherever Rama is remembered. His devotion (bhakti) is the purest in all the scriptures — he serves Rama not for reward but out of pure love. The Hanuman Chalisa, composed by Tulsidas, is recited by millions daily and is one of the most powerful protective prayers in Hinduism. Hanuman worship is especially potent on Saturdays and Tuesdays, and is believed to ward off the malefic effects of Saturn (Shani).",
+    "hindi": "हनुमान जी चिरंजीवी हैं — जहाँ भी राम का स्मरण होता है, वे वहाँ उपस्थित हैं। उनकी भक्ति निःस्वार्थ और परम पवित्र है। तुलसीदास रचित हनुमान चालीसा करोड़ों लोगों द्वारा प्रतिदिन पाठ की जाती है।",
+    "telugu": "హనుమంతుడు చిరంజీవి — రాముని స్మరించే చోట ఆయన ఉంటాడు. తులసీదాస్ రచించిన హనుమాన్ చాలీసా కోట్లాది మంది ప్రతిరోజూ పఠిస్తారు."
+  },
+  "iconography": {
+    "mace": "Gada — strength, bravery, the power to destroy evil",
+    "mountain": "Carries the Dronagiri mountain with Sanjeevani herbs — life-saving devotion",
+    "flying": "Leaping over the ocean to Lanka — transcendence of limitations through bhakti",
+    "open_chest": "Showing Rama and Sita within his heart — the devotee who carries the divine within",
+    "red_complexion": "Sindoor (vermillion) body — his supreme devotion to Rama; Sita's blessing",
+    "sacred_thread": "Yagnopavita — he is also a great scholar (Mahapandita) and linguist",
+    "sun_in_mouth": "As a child he tried to eat the sun thinking it was a fruit — divine curiosity and power"
+  },
+  "stotras": [
+    "hanuman_chalisa",
+    "hanuman_ashtottara",
+    "bajrang_baan"
+  ],
+  "mantras": [
+    "om_hanumate_namaha",
+    "ram_ram_jai_raja_ram"
+  ],
+  "festivals": [
+    "hanuman_jayanti",
+    "ram_navami"
+  ],
+  "pujaGuide": "hanuman_puja",
+  "colors": ["red", "orange", "saffron"],
+  "flowers": ["red flowers", "marigold", "red hibiscus"],
+  "offering": "sindoor (vermillion), oil lamp, betel leaves, panchamrita, bananas",
+  "sacred_number": 40
+}

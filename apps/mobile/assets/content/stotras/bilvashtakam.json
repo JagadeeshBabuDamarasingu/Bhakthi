@@ -1,0 +1,92 @@
+{
+  "id": "bilvashtakam",
+  "title": {
+    "sanskrit": "बिल्वाष्टकम्",
+    "transliteration": "Bilvāṣṭakam",
+    "english": "Bilvashtakam — Eight Verses on the Sacred Bael Leaf",
+    "hindi": "बिल्वाष्टकम्",
+    "telugu": "బిల్వాష్టకం"
+  },
+  "deity": "shiva",
+  "type": "stotra",
+  "tags": ["shiva", "bilva", "bael", "sacred leaves", "daily", "puja"],
+  "description": {
+    "english": "The Bilvashtakam is an eight-verse hymn glorifying the sacred bael leaf (bilva/bael) offered to Lord Shiva. The bael leaf is considered the most sacred offering to Shiva — each trifoliate leaf represents his three eyes and the Trimurti (Brahma, Vishnu, Shiva). This stotra is recited while offering bael leaves during Shiva puja, especially on Mondays and Maha Shivaratri. Composed by Adi Shankaracharya, it explains the immense merit of offering bilva to Shiva.",
+    "hindi": "बिल्वाष्टकम् आदि शंकराचार्य रचित आठ श्लोकों का स्तोत्र है जो शिव को अर्पित पवित्र बेल-पत्र का महिमा-वर्णन करता है। बेल-पत्र शिव को सर्वाधिक प्रिय है। सोमवार और महाशिवरात्रि पर शिव-पूजा में इसका पाठ होता है।",
+    "telugu": "బిల్వాష్టకం ఆది శంకరాచార్యుడు రచించిన ఎనిమిది శ్లోకాల స్తోత్రం. శివుడికి అర్పించే పవిత్ర బిల్వ పత్రాన్ని (మారేడు ఆకు) స్తుతించే స్తోత్రం."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "त्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रिधायुतम् ।\nत्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Tridalaṃ Triguṇākāraṃ Trinetraṃ Ca Tridhāyutam |\nTrijanmapāpasaṃhāraṃ Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "तीन पत्तियों वाला, तीन गुणों (सत्व, रज, तम) के आकार का,\nतीन नेत्रों वाले शिव का प्रतीक, तीन जन्मों के पाप नष्ट करने वाला —\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "మూడు ఆకులతో కూడినది, త్రిగుణాకారం, త్రినేత్రుని ప్రతీకం,\nమూడు జన్మల పాపాలను సంహరించేది —\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "With three leaflets, symbolising the three gunas (sattva, rajas, tamas), representing the three eyes of Shiva, endowed with the three aspects — this single bael leaf offered to Shiva destroys the sins of three lifetimes.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "त्रिशाखैः बिल्वपत्रैश्च ह्यच्छिद्रैः कोमलैः शुभैः ।\nतव पूजां करिष्यामि एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Triśākhaiḥ Bilvapātraiśca Hyacchidraih Komalaiḥ Śubhaiḥ |\nTava Pūjāṃ Kariṣyāmi Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "तीन शाखाओं वाले बेल-पत्रों से, जो अछिद्र (बिना छेद), कोमल और शुभ हैं —\nहे शिव, मैं आपकी पूजा करता हूँ;\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "మూడు కొమ్మలతో కూడిన బిల్వ పత్రాలతో, చిల్లులు లేనివి, కోమలమైనవి, శుభమైనవి —\nహే శివా, నీ పూజ చేస్తున్నాను;\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "With bael leaves that are three-branched, whole (without holes), tender, and auspicious — I perform your worship, O Shiva; this single bael leaf is offered to Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 3,
+      "sanskrit": "कोटिकन्यामहादानं तीर्थक्रोटिसमार्चितम् ।\nकोटिकन्यामहादानं एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Koṭikanyāmahādānaṃ Tīrthakroṭisamārcitam |\nKoṭikanyāmahādānaṃ Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "करोड़ कन्याओं के महादान के समान, करोड़ तीर्थों की पूजा के समान —\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "కోటి కన్యా మహాదానంతో సమానం, కోటి తీర్థ పూజలతో సమానం —\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "Equal in merit to donating a crore of worthy maidens (the highest gift), equal to worshipping a crore of sacred pilgrimage sites — this single bael leaf offered to Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 4,
+      "sanskrit": "दर्शनं बिल्ववृक्षस्य स्पर्शनं पापनाशनम् ।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Darśanaṃ Bilvavṛkṣasya Sparśanaṃ Pāpanāśanam |\nAghorapāpasaṃhāraṃ Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "बेल-वृक्ष के दर्शन से पुण्य, स्पर्श से पाप-नाश होता है;\nघोर पापों का संहार होता है —\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "బిల్వవృక్షాన్ని చూడటం పుణ్యం, తాకడం పాప నాశనం;\nఘోర పాపాలను సంహరించేది —\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "Merely seeing the bael tree grants merit; touching it destroys sins; it destroys the most grievous of sins — this single bael leaf offered to Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 5,
+      "sanskrit": "काशीक्षेत्रं निवासश्च कालभैरवदर्शनम् ।\nप्रयागमाधवं दृष्ट्वा एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Kāśīkṣetraṃ Nivāsaśca Kālabhairavdarśanam |\nPrayāgamādhavaṃ Dṛṣṭvā Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "काशी में निवास, कालभैरव के दर्शन और प्रयाग में माधव के दर्शन के समान —\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "కాశీలో నివాసం, కాలభైరవ దర్శనం, ప్రయాగలో మాధవ దర్శనంతో సమానం —\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "Equal to residing in Kashi (Varanasi), to beholding Kalabhairava there, and to seeing Madhava (Vishnu) at Prayaga — this single bael leaf offered to Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 6,
+      "sanskrit": "मूलतो ब्रह्मरूपाय मध्यतो विष्णुरूपिणे ।\nअग्रतः शिवरूपाय वृक्षराजाय ते नमः ।।",
+      "transliteration": "Mūlato Brahmarūpāya Madhyato Viṣṇurūpiṇe |\nAgratah Śivarūpāya Vṛkṣarājāya Te Namaḥ ||",
+      "hindi": "जिसकी जड़ में ब्रह्मा का वास, मध्य में विष्णु का वास, और अग्र (ऊपर) में शिव का वास है —\nउस वृक्षों के राजा (बेल-वृक्ष) को नमस्कार।",
+      "telugu": "వేరులో బ్రహ్మ స్వరూపం, మధ్యలో విష్ణు స్వరూపం, అగ్రభాగంలో శివ స్వరూపం గలది —\nఆ వృక్షరాజుకు నమస్కారం.",
+      "english": "Salutations to the king of trees (the bael tree) — at whose root dwells Brahma, in whose middle dwells Vishnu, and at whose top dwells Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 7,
+      "sanskrit": "बिल्वाष्टकमिदं पुण्यं यः पठेत् शिवसंनिधौ ।\nशिवलोकमवाप्नोति शिवेन सह मोदते ।।",
+      "transliteration": "Bilvāṣṭakamidaṃ Puṇyaṃ Yaḥ Paṭhet Śivasannidhau |\nŚivalokamavāpnoti Śivena Saha Modate ||",
+      "hindi": "जो शिव की उपस्थिति में इस पुण्यमय बिल्वाष्टकम् का पाठ करता है,\nवह शिवलोक प्राप्त कर शिव के साथ आनंद भोगता है।",
+      "telugu": "శివ సన్నిధిలో ఈ పుణ్యమైన బిల్వాష్టకం పఠించేవాడు\nశివలోకాన్ని పొంది శివునితో ఆనందిస్తాడు.",
+      "english": "Whoever recites this sacred Bilvashtakam in the presence of Shiva shall attain the world of Shiva and rejoice there in the company of Shiva.",
+      "audioUrl": ""
+    },
+    {
+      "index": 8,
+      "sanskrit": "लक्ष्म्याश्च स्तनुतो जातं महादेवस्य च प्रियम् ।\nबिल्ववृक्षं प्रयच्छामि एकबिल्वं शिवार्पणम् ।।",
+      "transliteration": "Lakṣmyāśca Stanutho Jātaṃ Mahādevasya Ca Priyam |\nBilvavṛkṣaṃ Prayacchāmi Ekabilvaṃ Śivārpaṇam ||",
+      "hindi": "जो लक्ष्मी के वक्ष से उत्पन्न हुआ और महादेव को प्रिय है,\nउस बेल-वृक्ष को मैं अर्पण करता हूँ —\nएक बेल-पत्र शिव को अर्पण।",
+      "telugu": "లక్ష్మీదేవి వక్షస్థలం నుండి జన్మించినది, మహాదేవుడికి ప్రియమైనది —\nఆ బిల్వవృక్షాన్ని నేను అర్పిస్తున్నాను;\nఒక్క బిల్వపత్రం శివార్పణం.",
+      "english": "That which was born from the bosom of Goddess Lakshmi and which is dear to Mahadeva — I offer that bael tree; this single bael leaf is offered to Shiva.",
+      "audioUrl": ""
+    }
+  ]
+}

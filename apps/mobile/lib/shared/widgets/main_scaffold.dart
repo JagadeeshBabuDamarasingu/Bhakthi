@@ -6,6 +6,7 @@ import '../../features/deities/deities_screen.dart';
 import '../../features/calendar/calendar_screen.dart';
 import '../../features/texts/texts_screen.dart';
 import '../../features/more/more_screen.dart';
+import '../../features/search/search_screen.dart';
 
 class MainScaffold extends StatefulWidget {
   const MainScaffold({super.key});
@@ -30,6 +31,16 @@ class _MainScaffoldState extends State<MainScaffold> {
     final l = AppLocalizations.of(context);
     return Scaffold(
       body: IndexedStack(index: _index, children: _screens),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () => Navigator.push(
+            context, MaterialPageRoute(builder: (_) => const SearchScreen())),
+        backgroundColor: BhakthiColors.deepInk,
+        foregroundColor: Colors.white,
+        elevation: 2,
+        mini: true,
+        child: const Icon(Icons.search, size: 20),
+      ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.miniEndFloat,
       bottomNavigationBar: Container(
         decoration: const BoxDecoration(
           color: Colors.white,

@@ -1,0 +1,59 @@
+{
+  "id": "ram_navami",
+  "name": {
+    "english": "Ram Navami — Birth of Lord Rama",
+    "hindi": "राम नवमी",
+    "telugu": "రామ నవమి",
+    "sanskrit": "रामनवमी"
+  },
+  "deity": "rama",
+  "tithiMonth": 1,
+  "tithiDay": 9,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "March–April",
+  "duration_days": 1,
+  "significance": {
+    "english": "Ram Navami celebrates the birth of Lord Rama, the seventh avatara of Vishnu, on the Navami (ninth day) of the bright fortnight of Chaitra month. Rama was born at noon in Ayodhya to King Dasharatha and Queen Kaushalya. He is revered as Maryada Purushottama — the perfect human being, the ideal son, husband, king, and warrior. His birth represents the divine incarnation to restore dharma and destroy evil, as prophesied in the Ramayana by the sage Valmiki. The festival is the culmination of a nine-day Chaitra Navratri celebration.",
+    "hindi": "रामनवमी चैत्र शुक्ल नवमी को मनाई जाती है। इस दिन दोपहर में अयोध्या में राजा दशरथ और रानी कौसल्या के पुत्र राम का जन्म हुआ था। वे मर्यादा पुरुषोत्तम हैं — आदर्श पुत्र, पति, राजा। यह नवरात्रि का नौवाँ दिन भी होता है।",
+    "telugu": "రామ నవమి చైత్ర శుక్ల నవమి నాడు వస్తుంది. ఈ రోజు మధ్యాహ్నం అయోధ్యలో దశరథ కౌసల్యలకు రాముడు జన్మించాడు. మర్యాదా పురుషోత్తముడైన రాముడు ధర్మాన్ని నిలబెట్టడానికి అవతరించాడు. ఇది చైత్ర నవరాత్రి తొమ్మిదో రోజు."
+  },
+  "mythology": {
+    "english": "After years of kingship without a son and heir, King Dasharatha of Ayodhya performed the Putrakameshti yajna (sacrifice for a son) under the guidance of sage Rishyashringa. From the sacred fire arose a divine being bearing a golden vessel of payasam (rice pudding). Dasharatha distributed the payasam among his three queens: Kaushalya, Kaikeyi, and Sumitra. On the ninth day of the bright fortnight of Chaitra, at noon (Abhijit muhurta), Kaushalya gave birth to Rama — whose very name, the sages declared, is the supreme mantra that frees all beings from the cycle of birth and death.",
+    "hindi": "दशरथ ने ऋष्यश्रृंग मुनि के निर्देशन में पुत्रकामेष्टि यज्ञ किया। अग्नि से दिव्य पुरुष प्रकट हुए और पायस दिया। चैत्र शुक्ल नवमी को दोपहर में कौसल्या के गर्भ से राम का जन्म हुआ — जिनका नाम ही मोक्षदायक महामंत्र है।",
+    "telugu": "దశరథుడు ఋష్యశ్రృంగ మహర్షి నిర్దేశంలో పుత్రకామేష్టి యజ్ఞం చేశాడు. అగ్ని నుండి ఒక దివ్య పురుషుడు పాయసం తెచ్చాడు. చైత్ర శుక్ల నవమి నాడు మధ్యాహ్నం కౌసల్య కుమారుడిగా రాముడు జన్మించాడు — ఆయన నామం స్వయంగా మోక్ష మంత్రం."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a fast from sunrise to noon (the birth time of Rama)",
+      "Perform puja at noon — decorate a cradle with Rama's idol and rock it to simulate the birth",
+      "Recite Ramayana (Sundara Kanda or Balakanda) or Ram Raksha Stotram",
+      "Sing Ram bhajans and kirtans: 'Jai Shri Ram', 'Sita Ram Sita Ram'",
+      "Offer tulsi leaves, lotus flowers, panchamrita, fruits to Rama's idol",
+      "On this day, the sun enters the Abhijit nakshatra at noon — puja at this time is especially auspicious",
+      "Visit a Rama temple, participate in Rath Yatra (procession of Rama's chariot)"
+    ],
+    "telugu": [
+      "ఉదయం నుండి మధ్యాహ్నం వరకు ఉపవాసం ఉండండి",
+      "మధ్యాహ్నం రాముని విగ్రహంతో ఊయల అలంకరించి పూజ చేయండి",
+      "రామ రక్షా స్తోత్రం, రామాయణం (సుందర కాండ) పఠించండి",
+      "తులసి పత్రాలు, పంచామృతం, పళ్ళు అర్పించండి",
+      "'జై శ్రీ రామ్' భజనలు పాడండి; రథయాత్రలో పాల్గొనండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Panchamrita (milk, curd, honey, ghee, sugar mixture) is the primary offering. Panakam (jaggery, pepper, cardamom, lemon drink) is the traditional Ram Navami prasad, especially in Andhra Pradesh and Telangana. Also: curd rice, fruits, and vada pappu (soaked lentils). The fast is broken at noon after the birth puja.",
+    "telugu": "పానకం (బెల్లం, మిరియాలు, ఏలకి, నిమ్మకాయ పానీయం) రామ నవమి ప్రత్యేక ప్రసాదం. పంచామృతం, దధ్యోదనం, పళ్ళు కూడా నివేదిస్తారు. మధ్యాహ్నం పుట్టిన వేళకు ఉపవాసం విడవాలి."
+  },
+  "associatedStotras": [
+    "ram_raksha_stotram",
+    "aditya_hridayam",
+    "rama_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Andhra Pradesh / Telangana", "localName": "Sri Rama Navami (9-day festival)" },
+    { "region": "North India", "localName": "Ram Navami" },
+    { "region": "Tamil Nadu", "localName": "Ramanavami" },
+    { "region": "Karnataka", "localName": "Rama Navami" },
+    { "region": "Ayodhya", "localName": "Ram Navami Mela (grand fair)" }
+  ]
+}

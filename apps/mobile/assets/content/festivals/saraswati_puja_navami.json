@@ -1,0 +1,58 @@
+{
+  "id": "saraswati_puja_navami",
+  "name": {
+    "english": "Saraswati Puja Navami — Worshipping Saraswati on the Ninth Day of Navratri",
+    "hindi": "सरस्वती पूजा (महानवमी)",
+    "telugu": "సరస్వతీ పూజ (మహా నవమి)",
+    "sanskrit": "सरस्वतीपूजानवमी"
+  },
+  "deity": "saraswati",
+  "tithiMonth": 7,
+  "tithiDay": 9,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "September–October (Navratri Day 9)",
+  "duration_days": 3,
+  "significance": {
+    "english": "Saraswati Puja Navami falls on the ninth day (Navami) of the Shukla Navratri in Ashvina month — the last and most powerful day of Navratri. While the nine days of Navratri worship the Navadurga forms, the 9th day specifically honours Goddess Saraswati as the aspect of wisdom and the completion of the learning cycle. Books, instruments, tools of one's trade, and weapons are placed before Saraswati for 3 days (Ashtami, Navami, Dasami) and retrieved only after worship on Vijayadasami (Dussehra). In South India this 3-day observance is called Ayudha Puja (worship of tools and vehicles) and Saraswati Puja.",
+    "hindi": "सरस्वती पूजा नवमी आश्विन शुक्ल नवमी को (नवरात्रि के नौवें दिन) मनाई जाती है। इस दिन पुस्तकें, वाद्ययंत्र, हथियार और काम के उपकरण देवी के सामने रखे जाते हैं। दशमी (विजयादशमी) को पूजा के बाद वापस लिए जाते हैं।",
+    "telugu": "సరస్వతీ పూజ నవమి ఆశ్వీయుజ శుక్ల నవమి నాడు (నవరాత్రి 9వ రోజు) వస్తుంది. పుస్తకాలు, వాయిద్యాలు, ఆయుధాలు, పని ఉపకరణాలు దేవి ముందు 3 రోజులు ఉంచుతారు. విజయదశమి నాడు పూజ చేసి వెనక్కి తీసుకుంటారు."
+  },
+  "mythology": {
+    "english": "During the Navratri festival, Goddess Durga (Shakti) in her nine forms vanquishes the demon Mahishasura. On the final day — Navami — the battle is won, and divine knowledge (personified as Saraswati) is celebrated as the fruit of Shakti's victory. The placing of books and tools before Saraswati is symbolic: all human knowledge and skills are ultimately gifts of the goddess. In South India, Saraswati Puja coincides with Ayudha Puja (worship of weapons and tools), when vehicles, machines, and implements are washed and worshipped.",
+    "hindi": "नवरात्रि के नौ दिनों में दुर्गा ने महिषासुर का वध किया। नवमी को यह युद्ध जीता जाता है और सरस्वती — ज्ञान की देवी — के रूप में शक्ति की विजय का उत्सव होता है। पुस्तकें और उपकरण देवी के सम्मुख रखना — सभी विद्या को देवी का वरदान मानने का प्रतीक है।",
+    "telugu": "నవరాత్రి తొమ్మిది రోజులలో దుర్గ మహిషాసురుని సంహరించింది. నవమి నాడు యుద్ధం గెలిచి, జ్ఞాన స్వరూపిణి సరస్వతిని పూజిస్తారు. పుస్తకాలు, ఉపకరణాలు దేవి ముందు ఉంచడం — సమస్త విద్య ఆమె వరమే అని సూచన."
+  },
+  "howToObserve": {
+    "english": [
+      "On Ashtami: clean and arrange books, pens, instruments, and tools and place them on a decorated surface before the Saraswati idol",
+      "On Navami: perform the main Saraswati Puja with turmeric, kumkum, yellow flowers, coconut, books",
+      "Recite Saraswati Vandana, Saraswati Ashtottara, and Saraswati Ashtakam",
+      "Ayudha Puja: wash vehicles, machines, computers, and professional tools with turmeric water, apply kumkum, and worship them",
+      "On Vijayadasami (Dasami): retrieve the books and begin study again — this is 'Vidya Arambham' (start of learning)",
+      "Children traditionally start school or begin a new lesson on Vijayadasami",
+      "Do not read or write during the 3 days of Saraswati Puja (books are kept before the deity)"
+    ],
+    "telugu": [
+      "అష్టమి నాడు: పుస్తకాలు, వాయిద్యాలు, పని ఉపకరణాలు శ్రద్ధగా అమర్చి సరస్వతి ముందు ఉంచండి",
+      "నవమి నాడు: తులసి, పసుపు, కుంకుమ, పీత పుష్పాలతో సరస్వతీ పూజ చేయండి",
+      "సరస్వతీ వందన, అష్టోత్తరం, అష్టకం పఠించండి",
+      "ఆయుధ పూజ: వాహనాలు, యంత్రాలు, కంప్యూటర్లకు పసుపు నీళ్ళతో కడిగి కుంకుమ పెట్టి పూజించండి",
+      "విజయదశమి నాడు పుస్తకాలు తీసుకుని విద్యారంభం చేయండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Traditional offerings to Saraswati include sweet pongal (sakkarai pongal), neivedyam of yellow fruits, coconut, and chana dal. Many families observe a half-fast on Navami. On Vijayadasami, the fast is broken after Vidyarambha.",
+    "telugu": "మీఠా పొంగల్, పీత పళ్ళు, కొబ్బరి, శనగలు నివేదిస్తారు. నవమి నాడు అర్ధ ఉపవాసం ఉండవచ్చు."
+  },
+  "associatedStotras": [
+    "saraswati_vandana",
+    "saraswati_ashtakam",
+    "saraswati_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Tamil Nadu / Karnataka / Andhra", "localName": "Saraswati Puja / Ayudha Puja" },
+    { "region": "West Bengal", "localName": "Saraswati Puja (also on Vasant Panchami)" },
+    { "region": "Gujarat / Rajasthan", "localName": "Navami (Navratri culmination)" },
+    { "region": "Punjab / North India", "localName": "Navratri Navami / Durgashtami-Navami" }
+  ]
+}

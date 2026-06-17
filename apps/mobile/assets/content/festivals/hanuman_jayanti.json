@@ -1,0 +1,62 @@
+{
+  "id": "hanuman_jayanti",
+  "name": {
+    "english": "Hanuman Jayanti — Birth of Lord Hanuman",
+    "hindi": "हनुमान जयन्ती",
+    "telugu": "హనుమాన్ జయంతి",
+    "sanskrit": "हनुमज्जयन्ती"
+  },
+  "deity": "hanuman",
+  "tithiMonth": 1,
+  "tithiDay": 15,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "March–April (Chaitra Purnima)",
+  "duration_days": 1,
+  "significance": {
+    "english": "Hanuman Jayanti celebrates the birth of Lord Hanuman — the mighty son of Vayu (Wind God), the supreme devotee of Lord Rama, and the embodiment of strength, courage, devotion, and selfless service. In most traditions, he was born on the full moon (Purnima) of the Chaitra month. In Andhra Pradesh and Telangana, Hanuman Jayanti is observed for 41 days from Chaitra Purnima to Vaishakha Purnima. In some traditions (like Karnataka and Tamil Nadu), it falls on Margashirsha. Hanuman is the only deity equally revered across Vaishnava, Shaiva, and Shakta traditions.",
+    "hindi": "हनुमान जयन्ती चैत्र पूर्णिमा को मनाई जाती है। हनुमान वायुपुत्र, राम के परमभक्त और शक्ति, साहस एवं सेवा के प्रतीक हैं। आंध्र में यह 41 दिन का पर्व होता है।",
+    "telugu": "హనుమాన్ జయంతి చైత్ర పూర్ణిమ నాడు వస్తుంది. హనుమంతుడు వాయుపుత్రుడు, రాముని పరమ భక్తుడు, శక్తి, ధైర్యం, సేవకు మూర్తీభవించినవాడు. ఆంధ్రప్రదేశ్, తెలంగాణలలో చైత్ర పూర్ణిమ నుండి వైశాఖ పూర్ణిమ వరకు 41 రోజులు పండుగ జరుపుతారు."
+  },
+  "mythology": {
+    "english": "Hanuman was born to Anjana, a vanara (monkey-tribe) woman, and her husband Kesari. He was blessed by Vayu, the Wind God, with his divine breath and thus is known as Vayuputra. As a child, mistaking the rising sun for a fruit, he leapt to eat it. Indra struck him with his thunderbolt (vajra) and wounded his jaw (hanu) — giving him the name Hanuman. Vayu was furious and withdrew air from the universe; the gods appeased Vayu by granting Hanuman blessings: Brahma made him invulnerable to the rod of Brahma, Shiva made him immortal (chiranjivi), Vishnu blessed him, and Indra made his body harder than the vajra. Thus blessed, he became the ideal devotee-warrior.",
+    "hindi": "अंजना और केसरी के पुत्र हनुमान को वायुदेव ने अपनी श्वास का आशीर्वाद दिया। सूर्य को फल समझकर वे कूद पड़े। इंद्र के वज्र से उनकी 'हनु' (जबड़ा) घायल हुई — नाम मिला हनुमान। रुष्ट वायु से सृष्टि की रक्षा के लिए देवताओं ने हनुमान को अमरता, वज्र-शरीर और अनेक वरदान दिए।",
+    "telugu": "అంజన, కేసరి పుత్రుడైన హనుమంతుడికి వాయుదేవుడు వరమిచ్చాడు. సూర్యుడిని పండుగా భావించి దూకాడు. ఇంద్రుని వజ్రాఘాతంతో 'హను' (దవడ) గాయపడింది — 'హనుమాన్' అనే పేరు వచ్చింది. కోపించిన వాయువు ప్రపంచ నుంచి వాయువు తీశాడు. దేవతలు హనుమంతుడికి అమరత్వం, వజ్ర కాయం వంటి వరాలిచ్చి శాంతిపరిచారు."
+  },
+  "howToObserve": {
+    "english": [
+      "Wake up early, take a bath, and wear red or orange clothing (Hanuman's favourite colours)",
+      "Apply sesame oil (til oil) to the Hanuman idol before bathing it — this is a special offering",
+      "Offer sindoor (vermilion), red flowers (especially red hibiscus and red champa), banana, and laddoos",
+      "Recite Hanuman Chalisa 11 or 21 or 108 times",
+      "Recite Bajrang Baan and Hanuman Ashtottara",
+      "Observe a fast, breaking it only in the evening with Hanuman's prasad",
+      "Visit a Hanuman temple and circumambulate (pradakshina) 11 or 21 times",
+      "In Andhra / Telangana: observe 41-day vrat from Chaitra Purnima to Vaishakha Purnima"
+    ],
+    "telugu": [
+      "తెల్లవారుజామున స్నానం చేసి ఎర్రని లేదా నారింజ రంగు దుస్తులు ధరించండి",
+      "హనుమంతుని విగ్రహానికి నువ్వుల నూనె పూసి అభిషేకం చేయండి",
+      "సింధూరం, ఎర్ర పూలు, అరటి పండ్లు, లడ్డూ అర్పించండి",
+      "హనుమాన్ చాలీసా 11, 21 లేదా 108 సార్లు పఠించండి",
+      "బజరంగ్ బాణ్, హనుమాన్ అష్టోత్తరం పఠించండి",
+      "ఉపవాసం ఉండి సాయంత్రం ప్రసాదంతో విడవండి",
+      "చైత్ర పూర్ణిమ నుండి వైశాఖ పూర్ణిమ వరకు 41 రోజులు వ్రతం ఉండండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Besan ke laddoo (chickpea flour balls), boondi laddoo, and banana are the primary prasad. Sindoor-coated laddoos are special to Hanuman. In Andhra, 'panakam' (jaggery drink) and 'vada pappu' are also offered. The fast is typically broken in the evening.",
+    "telugu": "బేసన్ లడ్డు, బూంది లడ్డు, అరటి పండు ప్రధాన ప్రసాదం. ఆంధ్రలో పానకం, వడపప్పు కూడా నివేదిస్తారు. సాయంత్రం ఉపవాసం విడవాలి."
+  },
+  "associatedStotras": [
+    "hanuman_chalisa",
+    "bajrang_baan",
+    "hanuman_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Andhra Pradesh / Telangana", "localName": "Hanuman Jayanti (41-day festival)" },
+    { "region": "North India", "localName": "Hanuman Jayanti" },
+    { "region": "Karnataka", "localName": "Hanuman Jayanti (Margashirsha Purnima)" },
+    { "region": "Tamil Nadu", "localName": "Anjaneyar Jayanti" },
+    { "region": "Gujarat / Rajasthan", "localName": "Hanuman Jayanti" }
+  ]
+}

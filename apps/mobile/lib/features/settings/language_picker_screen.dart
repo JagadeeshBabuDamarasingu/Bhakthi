@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../core/l10n/app_localizations.dart';
+import '../../core/preferences/app_preferences.dart';
 import '../../core/theme/app_theme.dart';
 import '../../main.dart';
 
@@ -69,6 +70,7 @@ class LanguagePickerScreen extends StatelessWidget {
             selected:    selected,
             onTap: () {
               BhakthiApp.of(context)?.setLocale(locale);
+              AppPreferences.setLanguageCode(locale.languageCode);
               Navigator.pop(context);
             },
           );

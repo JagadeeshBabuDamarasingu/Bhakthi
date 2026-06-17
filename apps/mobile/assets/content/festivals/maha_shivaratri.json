@@ -1,0 +1,63 @@
+{
+  "id": "maha_shivaratri",
+  "name": {
+    "english": "Maha Shivaratri — The Great Night of Shiva",
+    "hindi": "महाशिवरात्रि",
+    "telugu": "మహా శివరాత్రి",
+    "sanskrit": "महाशिवरात्रिः"
+  },
+  "deity": "shiva",
+  "tithiMonth": 12,
+  "tithiDay": 14,
+  "tithiPaksha": "krishna",
+  "gregorianApprox": "February–March",
+  "duration_days": 1,
+  "significance": {
+    "english": "Maha Shivaratri — the Great Night of Shiva — falls on the 14th night (Chaturdashi) of the dark fortnight of Phalguna month. It is considered the most sacred night dedicated to Lord Shiva in the entire year. On this night, devotees fast through the day and stay awake through the night, performing puja four times — once each prahar (3-hour watch). It is believed that the merits earned on this one night equal those of performing year-long rituals. It marks the night Shiva performed the Tandava (cosmic dance) and also the night Shiva and Parvati were married in many traditions.",
+    "hindi": "महाशिवरात्रि फाल्गुन कृष्ण चतुर्दशी को मनाई जाती है। यह शिव की सबसे पवित्र रात है। इस दिन उपवास रखकर रात्रि भर चार प्रहर की पूजा की जाती है। इस एक रात का पुण्य वर्षभर के अनुष्ठान के समान माना जाता है।",
+    "telugu": "మహా శివరాత్రి ఫాల్గుణ కృష్ణ చతుర్దశి నాడు వస్తుంది. ఇది శివునికి అర్పించబడిన అత్యంత పవిత్రమైన రాత్రి. ఈ రోజు ఉపవాసం ఉండి, నాలుగు ప్రహరాలలో పూజ చేస్తారు. ఈ ఒక్క రాత్రి పుణ్యం ఏడాది అంతటి అనుష్ఠానం సమానమని నమ్ముతారు."
+  },
+  "mythology": {
+    "english": "On the night of Maha Shivaratri, Shiva is said to have performed the Tandava — the cosmic dance of creation, preservation, and destruction. According to the Shiva Purana, a hunter who had accidentally stayed awake all night near a Shiva linga, inadvertently dropping bilva (bael) leaves onto it — was liberated upon death. This illustrates that even unintentional worship on this night can grant moksha. In another legend, it is the night Shiva swallowed the Halahala poison that emerged from the churning of the ocean (Samudra Manthan) to protect creation, which turned his throat blue, giving him the name Neelakantha.",
+    "hindi": "इस रात शिव ने तांडव किया था। एक शिकारी जो अनजाने में शिवलिंग के पास रात भर जागा और बिल्व पत्र गिरे — उसे भी मोक्ष मिला। इस रात समुद्र मंथन से निकले हलाहल को शिव ने पिया था, जिससे उनका कंठ नीला हो गया — नाम पड़ा नीलकंठ।",
+    "telugu": "మహా శివరాత్రి నాడు శివుడు తాండవం చేశాడని చెప్తారు. అనుకోకుండా శివలింగం దగ్గర మేలుకున్న ఒక వేటగాడికి కూడా మోక్షం లభించిందని కథ. సముద్ర మంథనంలో వచ్చిన హలాహల విషాన్ని శివుడు మింగి నీలకంఠుడయ్యాడని మరో కథ."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a strict fast (nirjala — without water — for the devout; or with fruits)",
+      "Visit a Shiva temple early morning after a purificatory bath",
+      "Perform abhisheka (ritual bathing) of the Shivalinga with panchamrita, then water, milk, curd, honey, ghee",
+      "Offer bilva (bael) leaves — three-lobed leaf — to the Shivalinga while chanting 'Om Namah Shivaya'",
+      "Stay awake through the night and perform puja in four prahars (3-hour watches)",
+      "Recite Maha Mrityunjaya Mantra 108 times using a rudraksha mala",
+      "Recite Shiva Panchakshara Stotram, Shiva Tandava Stotram, Bilvashtakam",
+      "Break the fast the next morning after the morning puja"
+    ],
+    "telugu": [
+      "ఉదయం స్నానం చేసి నిర్జల ఉపవాసం ఉండండి (లేదా ఫలాహారం)",
+      "శివాలయం దర్శించి పంచామృతాభిషేకం చేయండి",
+      "బిల్వపత్రాలు, ధతూరా పూలు అర్పిస్తూ 'ఓం నమః శివాయ' జపించండి",
+      "నాలుగు ప్రహరాలలో పూజ చేస్తూ రాత్రి మేలుకొని ఉండండి",
+      "మహా మృత్యుంజయ మంత్రం 108 సార్లు జపించండి",
+      "శివ పంచాక్షర స్తోత్రం, శివ తాండవ స్తోత్రం పఠించండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Complete fast (nirjala) is ideal; those who cannot may take fruits, milk, and sago (sabudana). No grains, no salt in some traditions. The fast is broken the next morning after the puja. Bel sherbet (bael fruit drink) is auspicious. Bhang (cannabis milk drink) is consumed in Varanasi and North India as a prasad of Shiva.",
+    "telugu": "నిర్జల ఉపవాసం శ్రేష్ఠం; శక్తి లేనివారు పళ్ళు, పాలు, సాగు తినవచ్చు. తదుపరి ఉదయం పూజ తర్వాత ఉపవాసం విడవాలి."
+  },
+  "associatedStotras": [
+    "maha_mrityunjaya",
+    "shiva_panchakshara_stotram",
+    "shiva_tandava_stotram",
+    "bilvashtakam",
+    "shiva_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Tamil Nadu", "localName": "Shivaratri" },
+    { "region": "Karnataka", "localName": "Shivaratri" },
+    { "region": "Andhra / Telangana", "localName": "Maha Shivaratri" },
+    { "region": "Varanasi / North India", "localName": "Shivaratri" },
+    { "region": "Nepal", "localName": "Shivaratri / Pashupatinath festival" }
+  ]
+}

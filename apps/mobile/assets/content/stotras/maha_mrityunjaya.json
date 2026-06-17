@@ -1,0 +1,38 @@
+{
+  "id": "maha_mrityunjaya",
+  "title": {
+    "sanskrit": "महामृत्युञ्जय मन्त्रः",
+    "transliteration": "Mahāmṛtyuñjaya Mantraḥ",
+    "english": "Maha Mrityunjaya Mantra — The Great Death-Conquering Mantra",
+    "hindi": "महामृत्युञ्जय मन्त्र",
+    "telugu": "మహా మృత్యుంజయ మంత్రం"
+  },
+  "deity": "shiva",
+  "type": "mantra",
+  "tags": ["shiva", "mrityunjaya", "healing", "liberation", "rigveda", "powerful"],
+  "description": {
+    "english": "The Maha Mrityunjaya Mantra is one of the most potent and significant mantras in the Hindu tradition. It appears in the Rigveda (7.59.12) and is attributed to the sage Vasishtha. It is a prayer to Lord Shiva in his aspect as Mrityunjaya — the conqueror of death. This mantra is recited for healing, protection from illness, for peace at the time of death, and for liberation (moksha). It is said that regular recitation of this mantra generates divine protection and leads to fearlessness, health, longevity, and ultimate liberation.",
+    "hindi": "महामृत्युञ्जय मंत्र हिंदू परंपरा के सबसे शक्तिशाली मंत्रों में से एक है। यह ऋग्वेद (7.59.12) में है और ऋषि वशिष्ठ को समर्पित है। यह भगवान शिव के मृत्युञ्जय रूप की प्रार्थना है।",
+    "telugu": "మహా మృత్యుంజయ మంత్రం హిందూ సంప్రదాయంలో అత్యంత శక్తివంతమైన మంత్రాలలో ఒకటి. ఇది ఋగ్వేదం (7.59.12)లో ఉంది మరియు ఋషి వసిష్ఠుడికి ఆపాదించబడింది."
+  },
+  "verses": [
+    {
+      "index": 1,
+      "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात् ।।",
+      "transliteration": "Oṃ Tryambakaṃ Yajāmahe Sugandhiṃ Puṣṭivardhanam |\nUrvārukamiva Bandhanān Mṛtyormukṣīya Māmṛtāt ||",
+      "hindi": "हम तीन नेत्रों वाले (शिव) की पूजा करते हैं,\nजो सुगंधित, पुष्टि बढ़ाने वाले हैं;\nजैसे खीरा (ककड़ी) अपनी डंठल से स्वाभाविक रूप से पक कर अलग हो जाती है,\nवैसे ही हमें मृत्यु के बंधन से मुक्त करें, न कि अमरत्व से।",
+      "telugu": "మేము మూడు నేత్రాలు గల శివుని (త్రయంబకం) పూజిస్తున్నాము,\nఆయన సువాసన గలవాడు, పోషణను వృద్ధి చేసేవాడు;\nదోసకాయ తన తీగ నుండి సహజంగా పండి వేరుపడినట్లు,\nమృత్యువు నుండి మాకు విముక్తి కలిగించు, అమృతత్వం నుండి కాదు.",
+      "english": "We worship the three-eyed Lord Shiva who is fragrant and who nourishes all beings. May he liberate us from the bondage of death — just as a cucumber (when ripe) naturally separates from its vine — and not withhold immortality from us.",
+      "audioUrl": ""
+    },
+    {
+      "index": 2,
+      "sanskrit": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात् ।।\nस्वः भुवः भूः ॐ सः जूं हौं ॐ ।।",
+      "transliteration": "Oṃ Hauṃ Jūṃ Saḥ Oṃ Bhūrbhuvaḥ Svaḥ\nOṃ Tryambakaṃ Yajāmahe Sugandhiṃ Puṣṭivardhanam |\nUrvārukamiva Bandhanān Mṛtyormukṣīya Māmṛtāt ||\nSvaḥ Bhuvaḥ Bhūḥ Oṃ Saḥ Jūṃ Hauṃ Oṃ ||",
+      "hindi": "बीज मंत्रों से संयुक्त विस्तारित मृत्युञ्जय मंत्र का पाठ रुद्राभिषेक और विशेष अनुष्ठानों में किया जाता है।",
+      "telugu": "బీజ మంత్రాలతో కూడిన విస్తారిత మృత్యుంజయ మంత్రం రుద్రాభిషేకంలో మరియు ప్రత్యేక యాగాలలో పఠిస్తారు.",
+      "english": "The expanded Mrityunjaya mantra with seed syllables (beeja mantras), used in special rituals and Rudrabhisheka. The seed syllables 'Haum Jum Sah' invoke Shiva's transformative energy; the Vyahritis (Bhur Bhuvah Svah) represent the three planes of existence.",
+      "audioUrl": ""
+    }
+  ]
+}

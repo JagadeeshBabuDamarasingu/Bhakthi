@@ -1,0 +1,59 @@
+{
+  "id": "vasant_panchami",
+  "name": {
+    "english": "Vasant Panchami — Spring's Fifth Day, Festival of Saraswati",
+    "hindi": "वसन्त पंचमी",
+    "telugu": "వసంత పంచమి",
+    "sanskrit": "वसन्तपञ्चमी"
+  },
+  "deity": "saraswati",
+  "tithiMonth": 11,
+  "tithiDay": 5,
+  "tithiPaksha": "shukla",
+  "gregorianApprox": "January–February",
+  "duration_days": 1,
+  "significance": {
+    "english": "Vasanta Panchami falls on the fifth day of the bright fortnight of Magha month and marks the arrival of spring. It is primarily the festival of Goddess Saraswati — the deity of knowledge, music, arts, and learning. Students and learners of all kinds — from schoolchildren to classical musicians — place their books, instruments, and tools before the goddess and seek her blessings. The colour yellow (mustard yellow) is the hallmark of this festival, representing the mustard flowers that bloom in spring. In Bengal, elaborate Saraswati Puja pandals are set up. In some traditions, this is also Kamadeva's festival and the beginning of Holi preparations.",
+    "hindi": "वसन्त पंचमी माघ शुक्ल पंचमी को मनाई जाती है। इसे मुख्य रूप से देवी सरस्वती का उत्सव माना जाता है। विद्यार्थी, कलाकार, संगीतकार सभी अपनी पुस्तकें, वाद्ययंत्र माँ सरस्वती के आगे रखकर आशीर्वाद लेते हैं। पीला रंग इस पर्व की पहचान है।",
+    "telugu": "వసంత పంచమి మాఘ శుక్ల పంచమి నాడు వస్తుంది. ఇది ముఖ్యంగా సరస్వతీ దేవి పండుగ. విద్యార్థులు, కళాకారులు, సంగీతకారులు అందరూ తమ పుస్తకాలు, వాయిద్యాలను సరస్వతి ముందు ఉంచి ఆశీర్వాదం తీసుకుంటారు. పసుపు రంగు ఈ పండుగ గుర్తు."
+  },
+  "mythology": {
+    "english": "According to the Brahma Vaivarta Purana, after creating the universe, Brahma felt that it was mute and lifeless despite its beauty. He took water from his kamandalu and sprinkled it across creation. A goddess appeared from his hands — four-armed, holding a veena (lute), a book, a rosary, and showing the gesture of blessing. This was Saraswati. She played the veena, and at once the universe was filled with sound and knowledge. Spring was the season at the moment of her birth, and so Vasanta Panchami is her birthday. On this day, the first lesson (vidyarambha) is traditionally begun for young children.",
+    "hindi": "ब्रह्म वैवर्त पुराण के अनुसार, ब्रह्मा ने सृष्टि बनाने के बाद अपने कमण्डलु से जल छिड़का। हाथ में वीणा, पुस्तक, माला लिए देवी सरस्वती प्रकट हुईं और उन्होंने वीणा बजाई — संसार में शब्द और ज्ञान का संचार हुआ। वसन्त ऋतु में उनका प्राकट्य हुआ था।",
+    "telugu": "బ్రహ్మ వైవర్త పురాణం ప్రకారం, బ్రహ్మ సృష్టి చేసిన తర్వాత నిశ్శబ్దంగా ఉందని కమండలు నీటిని చల్లాడు. వీణ, పుస్తకం, మాల ధరించిన సరస్వతి ప్రకటమైంది. ఆమె వీణ వాయించగా విశ్వంలో శబ్దం, జ్ఞానం నిండాయి. వసంత ఋతువు ఆమె జన్మ సమయం."
+  },
+  "howToObserve": {
+    "english": [
+      "Wear yellow clothes — the colour of spring's mustard flowers",
+      "Place books, instruments, pens, and tools of one's craft before the idol of Saraswati",
+      "Perform Saraswati Puja with yellow flowers (marigold, mustard blossoms), yellow sweets",
+      "Recite Saraswati Ashtakam and Saraswati Vandana",
+      "Begin Vidyarambha (first lesson) for young children — ideal day to start learning",
+      "Avoid reading, writing, and using tools of one's trade until after the puja (in some traditions, books are kept closed on this day as a form of respect to Saraswati)",
+      "In Bengal: set up a Saraswati idol in the home or school, perform elaborate puja",
+      "Eat yellow foods: sweet rice with saffron, besan ka halwa, cholar dal"
+    ],
+    "telugu": [
+      "పసుపు రంగు దుస్తులు ధరించండి",
+      "పుస్తకాలు, వాయిద్యాలు, కళా ఉపకరణాలు సరస్వతి ముందు ఉంచండి",
+      "పసుపు పూలు, పసుపు మిఠాయిలతో సరస్వతీ పూజ చేయండి",
+      "సరస్వతీ అష్టకం, సరస్వతీ వందన పఠించండి",
+      "చిన్న పిల్లలకు విద్యారంభం ఈ రోజు చేయండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "Yellow foods are traditional: sweet saffron rice (zarda), besan ka halwa, boondi ladoo, yellow banana, and mango. In Bengal, khichuri (rice and lentils) and labra (mixed vegetables) are offered. Fruits and sweets are the main naivedyam.",
+    "telugu": "పసుపు మిఠాయిలు, కేసర్ పాయసం, పళ్ళు నివేదిస్తారు. బెంగాల్‌లో ఖిచిడి, లబ్రా (కూరగాయల కూర) నివేదిస్తారు."
+  },
+  "associatedStotras": [
+    "saraswati_vandana",
+    "saraswati_ashtakam",
+    "saraswati_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "West Bengal", "localName": "Saraswati Puja" },
+    { "region": "Punjab / North India", "localName": "Vasant Panchami / Basant" },
+    { "region": "Andhra / Telangana", "localName": "Vasant Panchami / Saraswati Puja" },
+    { "region": "Rajasthan", "localName": "Shree Panchami" }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "janmashtami",
+  "name": {
+    "english": "Janmashtami — Birth of Lord Krishna",
+    "hindi": "जन्माष्टमी",
+    "telugu": "జన్మాష్టమి",
+    "sanskrit": "जन्माष्टमी"
+  },
+  "deity": "krishna",
+  "tithiMonth": 6,
+  "tithiDay": 8,
+  "tithiPaksha": "krishna",
+  "gregorianApprox": "August–September",
+  "duration_days": 2,
+  "significance": {
+    "english": "Janmashtami celebrates the birth of Lord Krishna, the eighth avatara of Vishnu, on the Ashtami (eighth day) of the dark fortnight of Bhadrapada month. Krishna was born at midnight in a prison cell in Mathura, to Devaki and Vasudeva, while the tyrant Kamsa slept. His birth represents the divine intervention that saves the world from adharma. Devotees fast through the day, stay awake until midnight when Krishna's birth is celebrated with great joy, music, dance, and abhisheka of the baby Krishna idol.",
+    "hindi": "जन्माष्टमी भाद्रपद कृष्ण अष्टमी को मनाई जाती है। इस दिन भगवान कृष्ण का जन्म मथुरा की कारागार में रात 12 बजे हुआ था। भक्त दिनभर उपवास रखते हैं और मध्यरात्रि में बाल कृष्ण का अभिषेक, भजन-कीर्तन से जन्मोत्सव मनाते हैं।",
+    "telugu": "జన్మాష్టమి భాద్రపద కృష్ణ అష్టమి నాడు వస్తుంది. ఈ రాత్రి అర్ధ రాత్రి మథుర కారాగారంలో కృష్ణుడు జన్మించాడు. భక్తులు ఉపవాసం ఉండి అర్ధ రాత్రి బాల కృష్ణుని అభిషేకం, భజనలతో జన్మోత్సవం జరుపుతారు."
+  },
+  "mythology": {
+    "english": "Kamsa, the king of Mathura, imprisoned his sister Devaki and her husband Vasudeva after a prophecy that her eighth child would kill him. Six children were killed at birth. The seventh, Balarama, was miraculously transferred to Rohini's womb. On the night of the eighth birth, storms raged and the guards fell asleep. Vasudeva carried the newborn Krishna across the flooded Yamuna (the serpent Shesha held his hood over the baby) and placed him with Nanda and Yashoda in Gokula. A daughter born to Yashoda was carried back; when Kamsa grabbed her, she flew away and announced: 'Your destroyer has been born!'",
+    "hindi": "कंस ने अपनी बहन देवकी और वासुदेव को कारागार में डाल दिया। आठवें पुत्र के जन्म पर आंधी-तूफान आई, पहरेदार सो गए। वासुदेव बाल कृष्ण को उफनती यमुना पार करके नंद-यशोदा के घर छोड़ आए। वापस लाई गई बालिका ने कंस के हाथ से उड़कर कहा — 'तुम्हारा काल आ गया है!'",
+    "telugu": "కంసుడు తన చెల్లెలు దేవకి, వాసుదేవులను కారాగారంలో వేశాడు. ఎనిమిదవ బిడ్డ పుట్టిన రాత్రి తుఫాను వచ్చింది, కాపలాదారులు నిద్రపోయారు. వాసుదేవుడు పొంగిన యమునను దాటి బాల కృష్ణుని నంద యశోదల ఇంట వేశాడు. కంసుడు తల్లికి పుట్టిన కూతుర్ని పట్టుకోబోయినపుడు ఆమె ఎగిరిపోయి: 'నిన్ను చంపేవాడు జన్మించాడు!' అని చెప్పింది."
+  },
+  "howToObserve": {
+    "english": [
+      "Observe a full fast (nirjala or with fruits) through the day",
+      "Decorate a cradle (palna) and place the baby Krishna idol in it at midnight",
+      "Perform abhisheka of baby Krishna with panchamrita, milk, curd, honey, tulsi leaves",
+      "At midnight, celebrate the birth with bells, conch blowing, singing bhajans",
+      "Prepare makhan (butter) and mishri as special offering — Krishna loved butter",
+      "In Maharashtra: Dahi Handi — break an earthen pot filled with curd hung at height",
+      "Recite Madhurashtakam, Achyutam Keshavam, Krishna Ashtottara",
+      "Read Bhagavata Purana's tenth canto describing Krishna's birth and childhood"
+    ],
+    "telugu": [
+      "ఉదయం నుండి నిర్జల లేదా ఫలాహార ఉపవాసం ఉండండి",
+      "అర్ధరాత్రి పందిర్లో బాల కృష్ణ విగ్రహం అలంకరించండి",
+      "పంచామృతాభిషేకం చేసి, మాఖన్, మిఠాయి నివేదించండి",
+      "అర్ధరాత్రి గంటలు, శంఖం, భజనలతో జన్మోత్సవం చేయండి",
+      "మధురాష్టకం, అచ్యుతం కేశవం, కృష్ణ అష్టోత్తరం పఠించండి"
+    ]
+  },
+  "foodGuidelines": {
+    "english": "The fast is broken only after the midnight puja. Traditional naivedyam includes makhan (white butter), mishri (rock sugar), panchamiri (five spice mix), and 56 dishes (Chappan Bhog) in some traditions. Panjiri (roasted flour with dry fruits) is popular in North India. No grains until after midnight.",
+    "telugu": "అర్ధరాత్రి పూజ తర్వాతే ఉపవాసం విడవాలి. మాఖన్, మిశ్రి, పంచామృతం నైవేద్యంగా పెడతారు. గింజలు అర్ధరాత్రి తర్వాతే తినాలి."
+  },
+  "associatedStotras": [
+    "madhurashtakam",
+    "achyutam_keshavam",
+    "krishna_ashtottara"
+  ],
+  "regionalNames": [
+    { "region": "Maharashtra", "localName": "Gokulashtami / Dahi Handi" },
+    { "region": "Tamil Nadu", "localName": "Gokulashtami" },
+    { "region": "Andhra / Telangana", "localName": "Gokulashtami / Srikrishna Janmashtami" },
+    { "region": "Gujarat / Rajasthan", "localName": "Janmashtami" },
+    { "region": "Mathura / Vrindavan", "localName": "Janmashtami (grandest celebration)" },
+    { "region": "West Bengal", "localName": "Janmashtami / Jhulanotsav" }
+  ]
+}
