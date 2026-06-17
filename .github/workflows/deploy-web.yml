@@ -1,0 +1,61 @@
+name: Deploy Web to Firebase App Hosting
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+env:
+  FLUTTER_VERSION: '3.29.0'
+
+jobs:
+  build-and-deploy:
+    name: Build Flutter Web & Deploy to Firebase
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: 'stable'
+          cache: true
+
+      - name: Get dependencies
+        working-directory: apps/mobile
+        run: flutter pub get
+
+      - name: Run tests
+        working-directory: apps/mobile
+        run: flutter test
+
+      - name: Build Flutter Web
+        working-directory: apps/mobile
+        run: flutter build web --release --web-renderer canvaskit
+
+      - name: Deploy to Firebase App Hosting (Preview)
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        if: github.event_name == 'pull_request'
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          target: bhakthi-web
+          channelId: 'pr-${{ github.event.number }}'
+
+      - name: Deploy to Firebase App Hosting (Production)
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: ${{ secrets.FIREBASE_PROJECT_ID }}
+          target: bhakthi-web
+          channelId: live
